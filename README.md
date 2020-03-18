@@ -1,5 +1,5 @@
 # corona
-a repository with an NLP toolbox and other resources for SARS-CoV-2/COVID-19 research. If you use our tools please cite our upcoming manuscript. 
+a repository with an NLP toolbox (in manuscript folder) and other resources for SARS-CoV-2/COVID-19 research. If you use our tools please cite our upcoming manuscript. 
  "English dictionaries, gold and silver standard corpora for biomedical natural language processing related to SARS-CoV-2 and COVID-19" by Salma Kazemi Rashed, Johan Frid, Sonja Aits (submitted to BioRxiv, 20200318)
  
  
