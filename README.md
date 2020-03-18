@@ -1,7 +1,8 @@
 # corona
-a repository with resources for SARS-CoV-2/COVID-19 research
-
-The manuscript folder contains our first corona NLP manuscript and all related files: "English dictionaries, gold and silver standard corpora for biomedical natural language processing related to SARS-CoV-2 and COVID-19" by Salma Kazemi Rashed, Johan Frid, Sonja Aits (submitted to BioRxiv, 20200318)
+a repository with and NLP toolbox and other resources for SARS-CoV-2/COVID-19 research. If you use our tools please cite our upcoming manuscript. 
+ "English dictionaries, gold and silver standard corpora for biomedical natural language processing related to SARS-CoV-2 and COVID-19" by Salma Kazemi Rashed, Johan Frid, Sonja Aits (submitted to BioRxiv, 20200318)
+ 
+ 
 This might be useful for everyone participating in the COVID-19 Open Research Dataset Challenge (CORD-19): https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
 
 
