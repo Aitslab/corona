@@ -100,3 +100,7 @@ https://github.com/ieee8023/covid-chestxray-dataset/blob/master/README.md?fbclid
 https://pages.semanticscholar.org/coronavirus-research
 
 https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov
+
+
+## discussion groups
+https://cooperativeco-sr49362.slack.com/join/shared_invite/zt-cvqkh1af-NZuGk7nnHZel~0H73~8q0A
