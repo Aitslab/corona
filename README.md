@@ -87,6 +87,8 @@ https://github.com/fhircat/CORD-19-on-FHIR
 List of tools
 
 https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/discussion/137256
+
+https://docs.google.com/spreadsheets/d/13vO8jZ4mrYD1U86U8r1qolY2HV552D7e5Fmko3c6Vrg/edit#gid=0
  
  
  ### clinical data
