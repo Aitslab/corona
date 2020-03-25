@@ -59,7 +59,31 @@ Microsoft COVID-19 resources
 https://www.microsoft.com/en-us/research/project/academic/articles/microsoft-academic-resources-and-their-application-to-covid-19-research/
 
 
-### clinical data
+### tools
+BERT base model finetuned on CORD-19 data
+
+https://huggingface.co/deepset/covid_bert_base
+
+COVID-19 embeddings
+
+https://www.kaggle.com/jonathanbesomi/covid19-word-embeddings
+
+https://www.kaggle.com/jonathanbesomi/cord-19-embeddings-from-abstracts-with-spacy
+
+https://www.kaggle.com/fmitchell259/creating-a-doc2vec-model
+
+https://tfhub.dev/tensorflow/cord-19/swivel-128d/2
+
+CORD-19 annotations
+
+https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/discussion/138219
+
+List of tools
+
+https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/discussion/137256
+ 
+ 
+ ### clinical data
 COVID-19 chest CT and x-rays
 
 https://github.com/ieee8023/covid-chestxray-dataset/blob/master/README.md?fbclid=IwAR30yTGBr55WXdCngCoICDENHycmdL2bGwlvl1ckdZM-ucjGH10Uakz7khk
