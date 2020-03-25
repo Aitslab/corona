@@ -74,9 +74,15 @@ https://www.kaggle.com/fmitchell259/creating-a-doc2vec-model
 
 https://tfhub.dev/tensorflow/cord-19/swivel-128d/2
 
+https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/discussion/138159
+
+https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/discussion/138050
+
 CORD-19 annotations
 
 https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/discussion/138219
+
+https://github.com/fhircat/CORD-19-on-FHIR
 
 List of tools
 
