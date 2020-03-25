@@ -106,3 +106,5 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-
 https://cooperativeco-sr49362.slack.com/join/shared_invite/zt-cvqkh1af-NZuGk7nnHZel~0H73~8q0A
 
 https://www.coronawhy.org/
+
+https://trello.com/b/y4odX7yZ/covid-19-global-team
