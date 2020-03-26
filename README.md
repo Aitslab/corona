@@ -58,6 +58,9 @@ Microsoft COVID-19 resources
 
 https://www.microsoft.com/en-us/research/project/academic/articles/microsoft-academic-resources-and-their-application-to-covid-19-research/
 
+https://coronavirustechhandbook.com/self-reporting
+
+https://github.com/Co-Epi
 
 ### tools
 BERT base model finetuned on CORD-19 data
@@ -89,6 +92,12 @@ List of tools
 https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/discussion/137256
 
 https://docs.google.com/spreadsheets/d/13vO8jZ4mrYD1U86U8r1qolY2HV552D7e5Fmko3c6Vrg/edit#gid=0
+
+Notebooks
+
+quick setup and downloading the COVID-19 dataset (by Aymeric Alixe)
+
+https://colab.research.google.com/drive/1Qw74IpbvO105J2fTExqKURnrZuT0NW7X
  
  
  ### clinical data
