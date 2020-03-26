@@ -58,6 +58,10 @@ Microsoft COVID-19 resources
 
 https://www.microsoft.com/en-us/research/project/academic/articles/microsoft-academic-resources-and-their-application-to-covid-19-research/
 
+List of publishers which make their content available
+
+http://libguides.lub.lu.se/c.php?g=297899&p=4838427
+
 https://coronavirustechhandbook.com/self-reporting
 
 https://github.com/Co-Epi
