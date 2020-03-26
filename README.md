@@ -102,7 +102,10 @@ Notebooks
 quick setup and downloading the COVID-19 dataset (by Aymeric Alixe)
 
 https://colab.research.google.com/drive/1Qw74IpbvO105J2fTExqKURnrZuT0NW7X
- 
+
+scispacy BioNER
+
+https://github.com/nasa-jpl-cord-19/Biomolecular-Named-Entities/blob/master/SciSpacy%20NER.ipynb
  
  ### clinical data
 COVID-19 chest CT and x-rays
