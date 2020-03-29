@@ -36,6 +36,11 @@ Curated database of COVID-19 literature from NIH
 
 https://www.ncbi.nlm.nih.gov/research/coronavirus/
 
+Elsevier corona virus page
+inlcuding article download
+
+https://www.elsevier.com/connect/coronavirus-information-center
+
 International Clinical Trials Registry Portal
 
 lists COVID-19 trials
