@@ -71,6 +71,13 @@ https://coronavirustechhandbook.com/self-reporting
 
 https://github.com/Co-Epi
 
+### literature
+
+https://novel-coronavirus.onlinelibrary.wiley.com/
+
+https://www.elsevier.com/connect/coronavirus-information-center
+
+
 ### tools
 BERT base model finetuned on CORD-19 data
 
