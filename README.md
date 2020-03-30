@@ -132,7 +132,10 @@ https://github.com/ieee8023/covid-chestxray-dataset/blob/master/README.md?fbclid
 https://covid-global-hackathon.devpost.com/submissions
 
 https://wirvsvirushackathon.org/
+
 https://www.youtube.com/channel/UCPv_kdljMHmt4kLNB7QGn0g
+
+https://www.guaana.com/challenges/dSvc4QnSmsSvmDG5k/results/4fTtLGpD2CRytd9Gy
 
 
 ## 3D printing
