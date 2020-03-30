@@ -137,6 +137,7 @@ https://www.youtube.com/channel/UCPv_kdljMHmt4kLNB7QGn0g
 
 https://www.guaana.com/challenges/dSvc4QnSmsSvmDG5k/results/4fTtLGpD2CRytd9Gy
 
+https://callforcode.org/
 
 ## 3D printing
 http://3dskane.se/doku.php
