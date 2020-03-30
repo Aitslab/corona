@@ -128,6 +128,18 @@ COVID-19 chest CT and x-rays
 https://github.com/ieee8023/covid-chestxray-dataset/blob/master/README.md?fbclid=IwAR30yTGBr55WXdCngCoICDENHycmdL2bGwlvl1ckdZM-ucjGH10Uakz7khk
 
 
+## hackathons
+https://covid-global-hackathon.devpost.com/submissions
+
+https://wirvsvirushackathon.org/
+https://www.youtube.com/channel/UCPv_kdljMHmt4kLNB7QGn0g
+
+
+## 3D printing
+http://3dskane.se/doku.php
+
+https://3dprintingindustry.com/news/3d-printing-community-responds-to-covid-19-and-coronavirus-resources-169143/
+
 
 ## Link lists to many resources
 https://pages.semanticscholar.org/coronavirus-research
