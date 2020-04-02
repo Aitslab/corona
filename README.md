@@ -139,6 +139,15 @@ https://www.guaana.com/challenges/dSvc4QnSmsSvmDG5k/results/4fTtLGpD2CRytd9Gy
 
 https://callforcode.org/
 
+https://covid.postera.ai/covid
+
+# structural biology
+
+SARS-CoV2 structure predictions
+
+https://deepmind.com/research/open-source/computational-predictions-of-protein-structures-associated-with-COVID-19
+
+
 ## 3D printing
 http://3dskane.se/doku.php
 
