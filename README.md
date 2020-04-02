@@ -10,6 +10,10 @@ This might be useful for everyone participating in the COVID-19 Open Research Da
 
 
 ## corona resources
+CDC Research Guide on COVID-19
+
+https://www.cdc.gov/library/researchguides/2019NovelCoronavirus.html
+
 Johns Hopkins dashboard of COVID-19 cases 
 
 https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
@@ -140,6 +144,10 @@ https://www.guaana.com/challenges/dSvc4QnSmsSvmDG5k/results/4fTtLGpD2CRytd9Gy
 https://callforcode.org/
 
 https://covid.postera.ai/covid
+
+https://accelerateestonia.ee/en/hack-the-crisis/?fbclid=IwAR3F_HzMfa-YF5ZpwbrCp6Yh6lmDGuH7JEH9Pcgzw7qTzlPGhGj9aaASnvg
+
+https://garage48.org/hackthecrisis?fbclid=IwAR2cokE5K3QUbJxMFriaY6KhUwRXde8wR-8LwrCOXgLoSbwpjhXgc5ac3WA
 
 # structural biology
 
