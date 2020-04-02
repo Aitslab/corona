@@ -135,7 +135,7 @@ COVID-19 chest CT and x-rays
 https://github.com/ieee8023/covid-chestxray-dataset/blob/master/README.md?fbclid=IwAR30yTGBr55WXdCngCoICDENHycmdL2bGwlvl1ckdZM-ucjGH10Uakz7khk
 
 
-## hackathons
+## hackathons and citizen science
 https://covid-global-hackathon.devpost.com/submissions
 
 https://wirvsvirushackathon.org/
@@ -155,6 +155,8 @@ https://garage48.org/hackthecrisis?fbclid=IwAR2cokE5K3QUbJxMFriaY6KhUwRXde8wR-8L
 https://github.com/virtual-biohackathons/covid-19-bh20
 
 https://codevscovid19.devpost.com/submissions
+
+http://eu-citizen.science/citizen-science-resources-related-to-the-covid19-pandemic/
 
 # structural biology
 
