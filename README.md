@@ -127,6 +127,9 @@ scispacy BioNER
 https://github.com/nasa-jpl-cord-19/Biomolecular-Named-Entities/blob/master/SciSpacy%20NER.ipynb
  
  ### clinical data
+https://leoss.net/statistics/
+ 
+ 
 COVID-19 chest CT and x-rays
 
 https://github.com/ieee8023/covid-chestxray-dataset/blob/master/README.md?fbclid=IwAR30yTGBr55WXdCngCoICDENHycmdL2bGwlvl1ckdZM-ucjGH10Uakz7khk
@@ -149,6 +152,10 @@ https://accelerateestonia.ee/en/hack-the-crisis/?fbclid=IwAR3F_HzMfa-YF5ZpwbrCp6
 
 https://garage48.org/hackthecrisis?fbclid=IwAR2cokE5K3QUbJxMFriaY6KhUwRXde8wR-8LwrCOXgLoSbwpjhXgc5ac3WA
 
+https://github.com/virtual-biohackathons/covid-19-bh20
+
+https://codevscovid19.devpost.com/submissions
+
 # structural biology
 
 SARS-CoV2 structure predictions
@@ -167,6 +174,10 @@ https://pages.semanticscholar.org/coronavirus-research
 
 https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov
 
+https://github.com/virtual-biohackathons/covid-19-bh20/blob/master/datasets_and_tools.md
+
+https://discourse.data-against-covid.org/t/community-wiki-resources-on-data-science-and-friends-vs-covid-19/731
+
 
 ## discussion groups
 https://cooperativeco-sr49362.slack.com/join/shared_invite/zt-cvqkh1af-NZuGk7nnHZel~0H73~8q0A
@@ -174,3 +185,9 @@ https://cooperativeco-sr49362.slack.com/join/shared_invite/zt-cvqkh1af-NZuGk7nnH
 https://www.coronawhy.org/
 
 https://trello.com/b/y4odX7yZ/covid-19-global-team
+
+https://discourse.data-against-covid.org/
+
+
+# videos
+https://ellis.eu/covid-19
