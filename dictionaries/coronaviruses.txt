@@ -10,6 +10,10 @@ delta coronaviruses
 NL63
 OC43
 HKU1
+severe acute respiratory syndrome-related coronavirus
+SARSr-CoV
+enveloped, positive-sense, single-stranded RNA viruses
+bat coronavirus
 
 MeSH
 https://meshb.nlm.nih.gov/record/ui?ui=D003332
