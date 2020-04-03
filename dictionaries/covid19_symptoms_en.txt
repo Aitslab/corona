@@ -1,5 +1,14 @@
 pneumonia
 breathing difficulties
+gasping for air
+cannot talk without catching my breath
+cannot talk without catching his breath
+cannot talk without catching her breath
+cannot talk without catching their breath
+can't talk without catching my breath
+can't talk without catching his breath
+can't talk without catching her breath
+can't talk without catching their breath
 difficulty breathing
 trouble breathing
 shortness of breath
@@ -24,15 +33,33 @@ joint pain
 pneumonia
 tiredness
 dizziness
+lightheadedness
 inflammation
 myalgia
 lower respiratory tract symptoms
 lower respiratory tract symptom
 persistent pain in the chest
+pressure in the chest
 persistent pressure in the chest
+blue lips
 bluish lips
+blue-colored lips
+blue-coloured lips
+blue face
 bluish face
+blue colored face
+blue-coloured face
 sudden mental confusion
+worsening confusion
 sudden lethargy
 inability to rouse
 tired
+severe and constant pain
+acting confused
+confused
+not conscious
+unconscious
+very difficult to wake up
+slurred speech
+worsening speech
+seizure
