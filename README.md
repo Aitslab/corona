@@ -207,6 +207,8 @@ https://swelife.se/verktyg/covid-19/
 
 https://vgrblogg.se/utveckling/2020/03/31/covid19-resurser-for-dig-som-vill-hacka-krisen/
 
+https://www.hackthecrisis.se/inspiration
+
 
 ## discussion groups
 https://cooperativeco-sr49362.slack.com/join/shared_invite/zt-cvqkh1af-NZuGk7nnHZel~0H73~8q0A
