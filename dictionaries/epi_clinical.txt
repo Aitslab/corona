@@ -10,6 +10,7 @@ observational study
 incidence
 incidence rate
 odds ratio
+hazard ratio
 attributable risk
 relative risk
 prevalence
