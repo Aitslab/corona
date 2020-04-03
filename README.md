@@ -144,6 +144,10 @@ scispacy BioNER
 https://github.com/nasa-jpl-cord-19/Biomolecular-Named-Entities/blob/master/SciSpacy%20NER.ipynb
  
  ### clinical data
+Clinicaltrial.gov
+
+Cochrane Central Register of Controlled Trials (CENTRAL)
+
 https://leoss.net/statistics/
  
  
