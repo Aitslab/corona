@@ -9,6 +9,27 @@ If you use our tools please cite our manuscript:
 This might be useful for everyone participating in the COVID-19 Open Research Dataset Challenge (CORD-19): https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
 
 
+## corona literature
+COVID-19 SARS-CoV-2 preprints from medRxiv and bioRxiv (json file)
+
+https://connect.medrxiv.org/relate/content/181
+
+Elsevier articles (xml or pdf file)
+
+https://www.elsevier.com/connect/coronavirus-information-center
+
+WHO database of COVID-19 publications
+
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov
+
+
+https://novel-coronavirus.onlinelibrary.wiley.com/
+
+
+CORD-19 dataset (biorxiv, medrxiv, Elsevier and other sources)
+
+https://pages.semanticscholar.org/coronavirus-research 
+
 ## corona resources
 CDC Research Guide on COVID-19
 
@@ -78,11 +99,7 @@ https://coronavirustechhandbook.com/self-reporting
 
 https://github.com/Co-Epi
 
-### literature
 
-https://novel-coronavirus.onlinelibrary.wiley.com/
-
-https://www.elsevier.com/connect/coronavirus-information-center
 
 
 ### tools
