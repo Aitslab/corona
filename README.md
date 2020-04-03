@@ -91,6 +91,8 @@ Microsoft COVID-19 resources
 
 https://www.microsoft.com/en-us/research/project/academic/articles/microsoft-academic-resources-and-their-application-to-covid-19-research/
 
+https://www.lif.se/forskningsoversikt-coronavirus/
+
 List of publishers which make their content available
 
 http://libguides.lub.lu.se/c.php?g=297899&p=4838427
@@ -143,7 +145,7 @@ scispacy BioNER
 
 https://github.com/nasa-jpl-cord-19/Biomolecular-Named-Entities/blob/master/SciSpacy%20NER.ipynb
  
- ### clinical data
+### clinical data
 Clinicaltrial.gov
 
 Cochrane Central Register of Controlled Trials (CENTRAL)
@@ -200,6 +202,10 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-
 https://github.com/virtual-biohackathons/covid-19-bh20/blob/master/datasets_and_tools.md
 
 https://discourse.data-against-covid.org/t/community-wiki-resources-on-data-science-and-friends-vs-covid-19/731
+
+https://swelife.se/verktyg/covid-19/
+
+https://vgrblogg.se/utveckling/2020/03/31/covid19-resurser-for-dig-som-vill-hacka-krisen/
 
 
 ## discussion groups
