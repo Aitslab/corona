@@ -7,8 +7,6 @@ randomised controlled trial
 randomised clinical trial
 cross-sectional study
 observational study
-
-
 incidence
 incidence rate
 odds ratio
