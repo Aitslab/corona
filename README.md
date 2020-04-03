@@ -22,13 +22,13 @@ WHO database of COVID-19 publications
 
 https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov
 
-
-https://novel-coronavirus.onlinelibrary.wiley.com/
-
-
 CORD-19 dataset (biorxiv, medrxiv, Elsevier and other sources)
 
 https://pages.semanticscholar.org/coronavirus-research 
+
+Wiley
+
+https://novel-coronavirus.onlinelibrary.wiley.com/
 
 ## corona resources
 CDC Research Guide on COVID-19
