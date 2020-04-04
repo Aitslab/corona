@@ -1,0 +1,29 @@
+This is a list of the NER classes we aim to tag
+
+Negation
+Species
+Virus_SARS-CoV-2
+Virus_other
+Disease_COVID-19
+Disease_other
+Symptom
+Protein_SARS-CoV-2
+Chemical
+
+Notes: 
+Chemicals includes drugs
+Symptom includes phenotypes (e.g. for cells or animals)
+
+
+Maybe discard for now:
+Virus_family
+
+
+Rules for ressolving double annotations:
+If a string is found in species and virus_sarscov2, virus_sarscov2 is kept and species tag is discarded
+If a string is found in disease and disease_covid19, disease_covid19 is kept and disease tag is discarded
+If a string is found in protein_sarscov2 and disease_covid19, disease_covid19 is kept and protein tag is discarded
+If a string is found in virus_sarscov2 and disease_covid19 the match with more characters is retained, e.g. SARS-Cov2 infection is tagged as disease_covid19 even though it also contains the virus name
+
+Maybe discard for now:
+Virus_family => include in annotations in class Virus_other instead
