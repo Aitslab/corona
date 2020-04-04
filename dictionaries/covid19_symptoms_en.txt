@@ -1,6 +1,14 @@
 pneumonia
 breathing difficulties
+difficulty breathing
+trouble breathing
+shortness of breath
+breathing troubls
 gasping for air
+out of breath
+gasp for air
+gasped for air
+gasps for air
 cannot talk without catching my breath
 cannot talk without catching his breath
 cannot talk without catching her breath
@@ -9,17 +17,18 @@ can't talk without catching my breath
 can't talk without catching his breath
 can't talk without catching her breath
 can't talk without catching their breath
-difficulty breathing
-trouble breathing
-shortness of breath
 respiratory effects
 runny nose
+running nose
+nose runs
+nose ran
 sore throat
 cough
 dry cough
 chest becomes tight
 chest feels tight
 cannot breathe
+can't breathe
 fever
 over 100 degrees Fahrenheit
 over 100 degrees
@@ -32,8 +41,11 @@ muscle pain
 joint pain
 pneumonia
 tiredness
+tired
 dizziness
+dizzi
 lightheadedness
+lightheaded
 inflammation
 myalgia
 lower respiratory tract symptoms
@@ -45,10 +57,13 @@ blue lips
 bluish lips
 blue-colored lips
 blue-coloured lips
+lips are blue
+lip is blue
 blue face
 bluish face
 blue colored face
 blue-coloured face
+face is blue
 sudden mental confusion
 worsening confusion
 sudden lethargy
@@ -59,7 +74,85 @@ acting confused
 confused
 not conscious
 unconscious
+barely conscious
 very difficult to wake up
 slurred speech
 worsening speech
+unclear speech
 seizure
+coughing
+coughed
+sneeze
+body aches
+sniff
+sore throat
+diarrhea
+loss of appetite
+appetite loss
+weight loss
+loss of weight
+loss of consciousness
+loosing consciousness
+nausea
+stomach pain
+vomit
+vomits
+vomiting
+vomitted
+conjunctivitis
+skin rash
+lymph node swelling
+swollen lymph nodes
+apathy
+drowsiness
+pain when urinating
+pain when peeing
+respiratory effect
+respiratory distress
+muscle pain
+pain in muscles
+joint pain
+pain in joints
+pain in limbs
+pneumonia
+coryza
+tiredness
+pain in the chest
+pain in the breasts
+hard to breathe
+hoarse
+lose voice
+lost voice
+cold symptoms
+diffuse symptoms
+small symptoms
+earache
+coughs
+hoarse
+hoarse throat
+stuffed nose
+not sleeping well
+keep waking up
+insomnia
+nasal congestion
+shaking
+shaking chills
+sharp chest pain
+stabbing chest pain
+increased rate of breathing
+faster breathing
+breathe faster
+blue-tinged skin
+unwillingness to drink
+convulsions
+decreased level of consciousness
+decreased consciousness
+reduced level of consciousness
+reduced consciousness
+abdominal pain
+pain in abdomen
+stomach pain
+bloody sputum
+wheezing
+
+
