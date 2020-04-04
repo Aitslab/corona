@@ -8,22 +8,29 @@ Disease_COVID-19
 Disease_other
 Symptom
 Protein_SARS-CoV-2
+Protein_SARS-CoV-2-interactor
+Protein_Other
 Chemical
+Epidemiology
 
 Notes: 
 Chemicals includes drugs
 Symptom includes phenotypes (e.g. for cells or animals)
+Protein_SARS-CoV-2-interactor includes host proteins interacting with SARS-CoV-2
+Epidemiology includes terms typically relevant for epidemiologists
 
-
-Maybe discard for now:
-Virus_family
-
-
-Rules for ressolving double annotations:
-If a string is found in species and virus_sarscov2, virus_sarscov2 is kept and species tag is discarded
-If a string is found in disease and disease_covid19, disease_covid19 is kept and disease tag is discarded
-If a string is found in protein_sarscov2 and disease_covid19, disease_covid19 is kept and protein tag is discarded
-If a string is found in virus_sarscov2 and disease_covid19 the match with more characters is retained, e.g. SARS-Cov2 infection is tagged as disease_covid19 even though it also contains the virus name
 
 Maybe discard for now:
 Virus_family => include in annotations in class Virus_other instead
+
+
+Rules for ressolving double annotations:
+For double annotations of the same class the match with more characters is retained.
+If one of the double annotations belongs to the class Epidemiology both annotations are retained
+If a string is found in species and virus_sarscov2, virus_sarscov2 is kept and species tag is discarded.
+If a string is found in disease and disease_covid19, disease_covid19 is kept and disease tag is discarded.
+If a string is found in protein_sarscov2 and disease_covid19, disease_covid19 is kept and protein tag is discarded.
+If a string is found in virus_sarscov2 and disease_covid19 the match with more characters is retained, e.g. SARS-Cov2 infection is tagged as disease_covid19 even though it also contains the virus name.
+
+
+
