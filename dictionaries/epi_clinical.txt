@@ -46,7 +46,7 @@ placebo
 Hill’s criteria of causality
 point prevalence
 population at risk
-ositive predictive value
+positive predictive value
 prevalence odds-ratio
 primary prevention
 probability sampling
@@ -70,3 +70,18 @@ study protocol
 systematic sampling
 target population
 age-adjusted
+reproductive number
+reproduction number
+incubation period
+infectious period
+latent period
+sensitivity
+specificity
+contact ratio
+transmisison rate
+susceptible
+infected
+infectious
+recovered
+R zero
+R knot
