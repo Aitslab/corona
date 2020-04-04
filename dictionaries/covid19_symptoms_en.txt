@@ -154,5 +154,9 @@ pain in abdomen
 stomach pain
 bloody sputum
 wheezing
+rapid respiratory rate
+rapid breathing
+accelerated respiratory rate
+accelerated breathing
 
 
