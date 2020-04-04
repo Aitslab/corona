@@ -7,6 +7,7 @@ Virus_other
 Disease_COVID-19
 Disease_other
 Symptom
+Sympton_COVID-19
 Protein_SARS-CoV-2
 Protein_SARS-CoV-2-interactor
 Protein_Other
