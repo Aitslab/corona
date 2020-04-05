@@ -11,6 +11,7 @@ Sympton_COVID-19
 Protein_SARS-CoV-2
 Protein_SARS-CoV-2-interactor
 Protein_Other
+Mutations
 Chemical
 Epidemiology
 
@@ -18,6 +19,7 @@ Notes:
 Chemicals includes drugs
 Symptom includes phenotypes (e.g. for cells or animals)
 Protein_SARS-CoV-2-interactor includes host proteins interacting with SARS-CoV-2
+Protein_other includes all other protein and gene terms
 Epidemiology includes terms typically relevant for epidemiologists. Similar ones will be made for other profiles.
 
 
