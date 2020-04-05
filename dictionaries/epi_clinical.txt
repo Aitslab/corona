@@ -85,3 +85,304 @@ infectious
 recovered
 R zero
 R knot
+acquaintance network 
+
+communicable disease 
+
+focus of infection 
+
+ratio 
+
+abortion ratio 
+
+relative risk 
+
+benefit-cost ratio 
+
+cross-product ratio 
+
+cumulative incidence ratio 
+
+dependency ratio 
+
+age dependency ratio 
+
+exposure ratio 
+
+fertility ratio 
+
+fetal death ratio 
+
+incidence-density ratio 
+
+incidence rate ratio 
+
+likelihood ratio 
+
+mantel-haenszel estimate 
+
+mortality:incidence ratio 
+
+cancer mortality:incidence ratio 
+
+odds ratio 
+
+disease odds ratio 
+
+exposure-odds ratio 
+
+proportional mortality-odds ratio 
+
+proportional mortality ratio 
+
+rate-odds ratio 
+
+rate ratio 
+
+standardized rate ratio 
+
+risk-benefit ratio 
+
+sex ratio 
+
+signal-to-noise ratio 
+
+standardized incidence ratio 
+
+standardized mortality ratio 
+
+survival ratio 
+
+rate 
+
+abortion rate 
+
+absolute rate 
+
+adult literacy rate 
+
+age-specific rate 
+
+attack rate 
+
+attributable rate 
+
+birthrate 
+
+case fatality rate 
+
+cause-specific rate 
+
+completion rate 
+
+cumulative incidence 
+
+death rate 
+
+force of mortality 
+
+cumulative death rate 
+
+child death rate 
+
+child mortality rate 
+
+fetal death rate 
+
+hebdomadal mortality rate 
+
+infant mortality rate 
+
+maternal mortality rate 
+
+neonatal mortality rate 
+
+perinatal mortality rate 
+
+postneonatal mortality rate 
+
+discount rate 
+
+event rate 
+
+fatality rate 
+
+general fertility rate 
+
+age-specific fertility rate 
+
+basic reproductive rate 
+
+completed fertility rate 
+
+total fertility rate 
+
+gross reproduction rate 
+
+net reproduction rate 
+
+net reproductive rate 
+
+growth rate of population 
+
+inception rate 
+
+incidence rate ratio 
+
+infection rate 
+
+morbidity rate 
+
+net migration rate 
+
+person-time incidence rate 
+
+population excess rate 
+
+rate difference 
+
+rate ratio 
+
+secondary attack rate 
+
+spleen rate 
+
+standardization 
+
+direct standardization 
+
+indirect standardization 
+
+survival rate 
+
+true-positive rate 
+
+true-negative rate 
+
+response rate 
+
+incidence rate 
+
+force of morbidity 
+
+instantaneous incidence rate 
+
+demographic parameter 
+
+abortion rate 
+
+abortion ratio 
+
+adult literacy rate 
+
+age-specific rate 
+
+birthrate 
+
+death rate 
+
+force of mortality 
+
+cumulative death rate 
+
+child death rate 
+
+child mortality rate 
+
+fetal death rate 
+
+hebdomadal mortality rate 
+
+infant mortality rate 
+
+maternal mortality rate 
+
+neonatal mortality rate 
+
+perinatal mortality rate 
+
+postneonatal mortality rate 
+
+fatality rate 
+
+general fertility rate 
+
+age-specific fertility rate 
+
+basic reproductive rate 
+
+completed fertility rate 
+
+total fertility rate 
+
+gross reproduction rate 
+
+net reproduction rate 
+
+net reproductive rate 
+
+growth rate of population 
+
+net migration rate 
+
+population excess rate 
+
+dependency ratio 
+
+age dependency ratio 
+
+fertility ratio 
+
+fetal death ratio 
+
+sex ratio 
+
+standardized mortality ratio 
+
+survival ratio 
+
+replacement-level fertility 
+
+epidemiological parameter 
+
+attack rate 
+
+attributable rate 
+
+case fatality rate 
+
+cumulative incidence 
+
+inception rate 
+
+incidence rate ratio 
+
+infection rate 
+
+morbidity rate 
+
+person-time incidence rate 
+
+secondary attack rate 
+
+survival rate 
+
+cumulative incidence ratio 
+
+exposure ratio 
+
+incidence rate ratio 
+
+mantel-haenszel estimate 
+
+mortality:incidence ratio 
+
+cancer mortality:incidence ratio 
+
+standardized incidence ratio 
+
+incidence rate 
+
+force of morbidity 
+
+instantaneous incidence rate
