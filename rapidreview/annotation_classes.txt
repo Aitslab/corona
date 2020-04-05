@@ -18,10 +18,10 @@ Notes:
 Chemicals includes drugs
 Symptom includes phenotypes (e.g. for cells or animals)
 Protein_SARS-CoV-2-interactor includes host proteins interacting with SARS-CoV-2
-Epidemiology includes terms typically relevant for epidemiologists
+Epidemiology includes terms typically relevant for epidemiologists. Similar ones will be made for other profiles.
 
 
-Maybe discard for now:
+Discard for now:
 Virus_family => include in annotations in class Virus_other instead
 
 
