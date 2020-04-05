@@ -40,6 +40,8 @@ Betül Eren Keskin, developer, biomedical expertise
 
 Magnus Ehlde, developer (spacy/scispacy)
 
+Fernanda Dórea, National Veterinary Institute, epidemiologist, developer
+
 
 advisors/collaborators:
 
@@ -54,8 +56,6 @@ Anders Björkelund, Department of Theoretical Physics, Lund University
 Cochrane Sweden team at Lund University
 
 Jonas Björk, Lund University
-
-Fernanda Dórea, epidemiologist, developer, National Veterinary Institute
 
 Tomas Rosendal, epidemiologist, advisor, National Veterinary Institute
 
