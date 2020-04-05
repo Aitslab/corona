@@ -21,4 +21,57 @@ It consists of:
 For more info on background and structure of the tool please view the powerpoint file.
 
 
+## Acknowledgement
+This code is being developed by the following people:
+
+Sonja Aits, Lund University, project leader, developer, expertise on biomedical applications of artificial intelligence
+
+Salma Kazemi Rashed, developer, bioinformatics expertise (PhD student in Aits group)
+
+Jong Chan Lim, web developer, bioinformatics expertise (Master student in Aits group)
+
+Antton Lamarca, developer, bioinformatics expertise (project student in Aits group)
+
+Annie Tallund, developer (project student in Aits/Nugues groups)
+
+Sofi Flink, developer (project student in Aits/Nugues groups)
+
+Betül Eren Keskin, developer, biomedical expertise
+
+Magnus Ehlde, developer (spacy/scispacy)
+
+external advisors (not team members):
+
+Johan Frid, Humanities Lab, Lund University
+
+Pierre Nugues, Department of Computer Science, Lund University
+
+Cochrane Sweden
+
+Jonas Björk, Lund University
+
+Fernanda Dórea, epidemiologist, developer, National Veterinary Institute
+
+Tomas Rosendal, epidemiologist, advisor, National Veterinary Institute
+
+This work is partially funded by the Swedish Research Council
+
+We make use of tools and code developed by others:
+
+https://pages.semanticscholar.org/coronavirus-research
+
+https://www.ncbi.nlm.nih.gov/research/pubtator/
+
+http://pubannotation.org/
+
+https://github.com/dmis-lab/biobert
+
+https://allenai.github.io/scispacy/
+
+https://spacy.io/
+
+
+
+
+
 
