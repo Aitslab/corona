@@ -1,4 +1,4 @@
-This is a web tool for extracting and displaying information from COVID-19-related scientific literature for different target audiences. It is still under development and the codes included here are still being polished.
+This is a web tool for extracting and displaying information from COVID-19-related scientific literature for different target audiences. It is still under development and the codes included here are still being polished. They will also be submitted to the kaggle CORD-19 challenge. For people who want to reuse the code please cite the source and our manuscript (https://arxiv.org/abs/2003.09865). Besides this, the following licence applies: https://github.com/Aitslab/corona/blob/master/license_gpl-3.0.txt
 
 It consists of:
 1. A dictionary-based tagger (annotationpipeline-dictionary); dictionaries are in https://github.com/Aitslab/corona/tree/master/dictionaries
@@ -19,3 +19,6 @@ It consists of:
 
 
 For more info on background and structure of the tool please view the powerpoint file.
+
+
+
