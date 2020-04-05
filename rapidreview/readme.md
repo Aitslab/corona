@@ -15,7 +15,7 @@ It consists of:
 
 6. A web tool with embedded PubAnnotation TextAE viewer (webplatform)
 
-1-5 create output files in PubAnnotation format that will also be uploaded to http://pubannotation.org/, a repository for sharing biomedical annotations in the BioNLP community.
+1-5 create output files in PubAnnotation format that will also be uploaded to http://pubannotation.org/, a repository for sharing biomedical annotations in the BioNLP community The annotated classes are indicated in the annotation_classes.txt file.
 
 
 For more info on background and structure of the tool please view the powerpoint file.
