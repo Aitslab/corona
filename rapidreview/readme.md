@@ -40,13 +40,18 @@ Betül Eren Keskin, developer, biomedical expertise
 
 Magnus Ehlde, developer (spacy/scispacy)
 
-external advisors (not team members):
+
+advisors/collaborators:
 
 Johan Frid, Humanities Lab, Lund University
 
 Pierre Nugues, Department of Computer Science, Lund University
 
-Cochrane Sweden
+Marcus Klang, Department of Computer Science, Lund University
+
+Anders Björkelund, Department of Theoretical Physics, Lund University
+
+Cochrane Sweden team at Lund University
 
 Jonas Björk, Lund University
 
