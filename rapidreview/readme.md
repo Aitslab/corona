@@ -16,3 +16,6 @@ It consists of:
 6. A webtool
 
 1-5 create output files in PubAnnotation format that can also be uploaded to http://pubannotation.org/.
+
+
+For background and structure of the tool please view the powerpoint
