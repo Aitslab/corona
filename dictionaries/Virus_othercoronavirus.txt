@@ -15,8 +15,3 @@ SARSr-CoV
 enveloped, positive-sense, single-stranded RNA viruses
 bat coronavirus
 
-MeSH
-https://meshb.nlm.nih.gov/record/ui?ui=D003332
-
-NCBI taxonomy
-
