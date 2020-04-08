@@ -6,10 +6,10 @@ If you use our tools please cite our manuscript:
  "English dictionaries, gold and silver standard corpora for biomedical natural language processing related to SARS-CoV-2 and COVID-19" by Salma Kazemi Rashed, Johan Frid, Sonja Aits (https://arxiv.org/abs/2003.09865, cite as arXiv:2003.09865 [q-bio.OT]). Additional licence conditions are in the license file.
  
  
-This might be useful for everyone participating in the COVID-19 Open Research Dataset Challenge (CORD-19): https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
+This might be useful for everyone participating in the COVID-19 Open Research Dataset Challenge (CORD-19) or other COVID-19 hackathons: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
 
 
-## corona literature
+## corona literature and study reports
 COVID-19 SARS-CoV-2 preprints from medRxiv and bioRxiv (json file)
 
 https://connect.medrxiv.org/relate/content/181
@@ -30,7 +30,41 @@ Wiley
 
 https://novel-coronavirus.onlinelibrary.wiley.com/
 
-### Lists of publishers which make their content available
+### Curated sets and databases
+
+Cochrane
+
+https://covid-19.cochrane.org/
+
+CORD-19 data set
+
+9,000 scholarly articles, including over 13,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses
+
+https://pages.semanticscholar.org/coronavirus-research
+
+LitCOVID
+
+Curated database of COVID-19 literature from NIH
+
+https://www.ncbi.nlm.nih.gov/research/coronavirus/
+
+### Clinical trial info
+
+Clinicaltrial.gov
+
+https://clinicaltrials.gov/
+
+Cochrane Central Register of Controlled Trials (CENTRAL)
+
+https://leoss.net/statistics/
+
+International Clinical Trials Registry Portal
+
+lists COVID-19 trials
+
+http://apps.who.int/trialsearch/AdvSearch.aspx?SearchTermStat=117&ReturnUrl=~/ListBy.aspx?TypeListing=0
+ 
+ ### Lists of publishers which make their content available
 
 http://libguides.lub.lu.se/c.php?g=297899&p=4838427
 
@@ -60,28 +94,12 @@ WHO COVID-19 database
 
 https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov
 
-CORD-19 data set
-
-9,000 scholarly articles, including over 13,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses
-
-https://pages.semanticscholar.org/coronavirus-research
-
-LitCOVID
-
-Curated database of COVID-19 literature from NIH
-
-https://www.ncbi.nlm.nih.gov/research/coronavirus/
 
 Elsevier corona virus page
 inlcuding article download
 
 https://www.elsevier.com/connect/coronavirus-information-center
 
-International Clinical Trials Registry Portal
-
-lists COVID-19 trials
-
-http://apps.who.int/trialsearch/AdvSearch.aspx?SearchTermStat=117&ReturnUrl=~/ListBy.aspx?TypeListing=0
 
 Kaggle
 
@@ -154,12 +172,6 @@ scispacy BioNER
 https://github.com/nasa-jpl-cord-19/Biomolecular-Named-Entities/blob/master/SciSpacy%20NER.ipynb
  
 ### clinical data
-Clinicaltrial.gov
-
-Cochrane Central Register of Controlled Trials (CENTRAL)
-
-https://leoss.net/statistics/
- 
  
 COVID-19 chest CT and x-rays
 
@@ -167,6 +179,9 @@ https://github.com/ieee8023/covid-chestxray-dataset/blob/master/README.md?fbclid
 
 
 ## hackathons and citizen science
+https://euvsvirus.org/
+
+
 https://covid-global-hackathon.devpost.com/submissions
 
 https://wirvsvirushackathon.org/
