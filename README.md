@@ -127,8 +127,9 @@ https://coronavirustechhandbook.com/self-reporting
 
 https://github.com/Co-Epi
 
+EMBL-EBI COVID-19 portal
 
-
+https://www.ebi.ac.uk/covid-19
 
 ### tools
 BERT base model finetuned on CORD-19 data
