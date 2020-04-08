@@ -96,7 +96,6 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-
 
 
 Elsevier corona virus page
-inlcuding article download
 
 https://www.elsevier.com/connect/coronavirus-information-center
 
@@ -106,6 +105,10 @@ Kaggle
 has lots of COVID-19 related datasets, notebooks, discussions
 
 https://www.kaggle.com/
+
+Nextstain.org visualization tool
+
+https://nextstrain.org/ncov
 
 Dimensions COIVD-19 database
 
