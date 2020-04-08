@@ -30,6 +30,14 @@ Wiley
 
 https://novel-coronavirus.onlinelibrary.wiley.com/
 
+### Lists of publishers which make their content available
+
+http://libguides.lub.lu.se/c.php?g=297899&p=4838427
+
+https://coronavirustechhandbook.com/self-reporting
+
+https://github.com/Co-Epi
+
 ## corona resources
 CDC Research Guide on COVID-19
 
