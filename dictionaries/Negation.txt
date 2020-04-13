@@ -1,3 +1,4 @@
+non-
 no
 not
 never
@@ -5,6 +6,7 @@ cannot
 without
 neither
 nor
+negative
 can't
 wouldn't
 shouldn't
@@ -17,7 +19,29 @@ don't
 didn't
 not now
 not ever
+not once
 not at all
+not any
+not one
 none
 nobody
 nothing
+nope
+no one
+no-one
+noone
+on no account
+on no occasion
+at no time
+by no means
+no way
+free from
+lack of
+lacks
+lacked
+lacking
+devoid of
+absent
+barely
+hardly
+rarely
