@@ -55,6 +55,12 @@ coughing
 coughed
 dry cough
 wet cough
+persistent cough
+continous cough
+coughing a lot
+coughing without break
+coughing episodes
+coughing fit
 chest becomes tight
 chest feels tight
 fever
@@ -63,6 +69,7 @@ over 100 degrees
 over 37.7 degrees Celsius
 over 37.7 degrees
 high temperature
+feels hot
 stomach pain
 headache
 pain when urinating
@@ -172,6 +179,20 @@ insomnia
 earache
 deaf
 deafness
+cannot smell
+loss of smell
+lost my smell
+loss of sense of smell
+loss of my sense of smell
+cannot smell
+can't smell
+could not smell
+couldn't smell
+no sense of smell
+absent sense of smell
+difficulty smelling
+hard to smell
+smelling problems
 cannot hear
 can't hear
 cannot hear
@@ -180,6 +201,7 @@ could not hear
 impaired hearing
 reduced hearing
 hearing difficulties
+hearing problems
 difficulty hearing
 difficulties hearing
 trouble hearing
