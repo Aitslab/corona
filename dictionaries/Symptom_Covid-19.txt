@@ -4,6 +4,10 @@ respiratory distress
 breathing difficulties
 difficulty breathing
 difficulties breathing
+difficult to breathe
+hard to breathe
+cannot breathe
+can't breathe
 trouble breathing
 breathing troubles
 breathing trouble
@@ -13,8 +17,6 @@ out of breath
 gasp for air
 gasped for air
 gasps for air
-cannot breathe
-can't breathe
 cannot talk without catching my breath
 cannot talk without catching his breath
 cannot talk without catching her breath
@@ -23,7 +25,6 @@ can't talk without catching my breath
 can't talk without catching his breath
 can't talk without catching her breath
 can't talk without catching their breath
-hard to breathe
 respiratory effects
 lower respiratory tract symptoms
 lower respiratory tract symptom
@@ -192,6 +193,7 @@ no sense of smell
 absent sense of smell
 difficulty smelling
 hard to smell
+difficult to smell
 smelling problems
 cannot hear
 can't hear
@@ -206,9 +208,7 @@ difficulty hearing
 difficulties hearing
 trouble hearing
 hearing troubles
-difficult to breathe
 difficult to hear
-hard to breath
 hard to hear
 tinitus
 tinnitus
