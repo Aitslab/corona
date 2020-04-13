@@ -7,7 +7,14 @@ without
 neither
 nor
 negative
+isn't
+aren't
 can't
+couldn't
+hasn't
+haven't
+wasn't
+weren't
 wouldn't
 shouldn't
 won't
@@ -43,6 +50,10 @@ lacked
 lacking
 devoid of
 absent
+absence of
+failed
+fails
+failing
 barely
 hardly
 rarely
