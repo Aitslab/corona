@@ -177,38 +177,69 @@ small symptoms
 not sleeping well
 keep waking up
 insomnia
-earache
-deaf
-deafness
-cannot smell
-loss of smell
-lost my smell
-loss of sense of smell
-loss of my sense of smell
 cannot smell
 can't smell
 could not smell
 couldn't smell
+impaired smell
+reduced smell
+smelling difficulties
+problems smelling
+smelling problems
+difficulty smelling
+difficulties smelling
+trouble smelling
+smelling troubles
+difficult to smell
+hard to smell
+loss of smell
+lost my smell
+loss of sense of smell
+loss of my sense of smell
 no sense of smell
 absent sense of smell
-difficulty smelling
-hard to smell
-difficult to smell
-smelling problems
+earache
+deaf
+deafness
 cannot hear
 can't hear
-cannot hear
 couldn't hear
 could not hear
 impaired hearing
 reduced hearing
 hearing difficulties
 hearing problems
+problems hearing
 difficulty hearing
 difficulties hearing
 trouble hearing
 hearing troubles
 difficult to hear
 hard to hear
+loss of hearing
+lost my hearing
+no hearing
+absent hearing
 tinitus
 tinnitus
+cannot taste
+can't taste
+could not taste
+couldn't taste
+impaired taste
+reduced taste
+tasting difficulties
+problems tasting
+tasting problems
+difficulty tasting
+difficulties tasting
+trouble tasting
+tasting troubles
+difficult to taste
+hard to taste
+loss of taste
+lost my taste
+loss of sense of taste
+loss of my sense of taste
+no sense of taste
+absent sense of taste
