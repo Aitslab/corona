@@ -4,7 +4,8 @@ Artificiell intelligens
 Machine learning 
 Maskininlärning 
 Deep learning 
-Autonomous systems (autonoma system?) 
+Autonomous systems
+autonoma system
 Pattern recognition 
 Image recognition 
 Natural language processing
@@ -36,3 +37,9 @@ intelligent robots
 social robots
 human-robot interaction
 intelligent tutoring systems
+Computational linguistics
+Computational methods
+Computational social science
+Computational sociology
+Digital history
+Digital humanities
