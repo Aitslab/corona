@@ -19,4 +19,20 @@ Data mining
 Computer vision 
 Predictive analytics 
 Neurala nätverk 
-Neural network 
+Neural network
+Image Analysis
+bildanalys
+datorseende
+språkteknologi
+clustering
+classification
+klustring
+klassificering
+unsupervised learning
+supervised learning
+cognitive robotics
+autonomous robots
+intelligent robots
+social robots
+human-robot interaction
+intelligent tutoring systems
