@@ -73,6 +73,8 @@ https://coronavirustechhandbook.com/self-reporting
 https://github.com/Co-Epi
 
 ## corona resources
+https://www.covid19dataportal.org/
+
 CDC Research Guide on COVID-19
 
 https://www.cdc.gov/library/researchguides/2019NovelCoronavirus.html
@@ -207,6 +209,8 @@ https://github.com/virtual-biohackathons/covid-19-bh20
 https://codevscovid19.devpost.com/submissions
 
 http://eu-citizen.science/citizen-science-resources-related-to-the-covid19-pandemic/
+
+https://github.com/virtual-biohackathons/covid-19-bh20
 
 # structural biology
 
