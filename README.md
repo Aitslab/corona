@@ -186,6 +186,10 @@ https://colab.research.google.com/drive/1Qw74IpbvO105J2fTExqKURnrZuT0NW7X
 scispacy BioNER
 
 https://github.com/nasa-jpl-cord-19/Biomolecular-Named-Entities/blob/master/SciSpacy%20NER.ipynb
+
+Coronavirus Tech Handbook
+
+https://coronavirustechhandbook.com/home
  
 ### clinical data
  
