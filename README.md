@@ -54,9 +54,13 @@ Curated database of COVID-19 literature from NIH
 
 https://www.ncbi.nlm.nih.gov/research/coronavirus/
 
-Twitter dataset
+Twitter datasets
 
 https://zenodo.org/record/3738018#.Xp7jQyNS-Mo
+
+https://www.kaggle.com/smid80/coronavirus-covid19-tweets
+
+https://github.com/echen102/COVID-19-TweetIDs
 
 ### Clinical trial info
 
