@@ -42,11 +42,21 @@ CORD-19 data set
 
 https://pages.semanticscholar.org/coronavirus-research
 
+CORD-19 Annotations
+
+https://github.com/SciBiteLabs/CORD19
+
+https://github.com/fhircat/CORD-19-on-FHIR
+
 LitCOVID
 
 Curated database of COVID-19 literature from NIH
 
 https://www.ncbi.nlm.nih.gov/research/coronavirus/
+
+Twitter dataset
+
+https://zenodo.org/record/3738018#.Xp7jQyNS-Mo
 
 ### Clinical trial info
 
@@ -249,6 +259,8 @@ https://www.coronawhy.org/
 https://trello.com/b/y4odX7yZ/covid-19-global-team
 
 https://discourse.data-against-covid.org/
+
+https://groups.google.com/forum/#!forum/virtual-biohackathon
 
 
 # videos
