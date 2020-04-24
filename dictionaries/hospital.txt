@@ -4,3 +4,9 @@ clinic
 intensive care
 ventilation
 admission
+clinical trial
+clinicaltrial.gov
+multicentre study
+multi-centre study
+multicenter study
+multi-center study
