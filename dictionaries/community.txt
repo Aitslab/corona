@@ -54,6 +54,8 @@ inmate
 prison
 incarceration
 incarcerated
+detention
 correction facility
 refugee
+asylum seeker
 camp
