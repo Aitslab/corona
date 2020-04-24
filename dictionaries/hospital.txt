@@ -10,3 +10,4 @@ multicentre study
 multi-centre study
 multicenter study
 multi-center study
+nosocomial
