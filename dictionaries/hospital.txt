@@ -1,0 +1,6 @@
+hospital
+university hospital
+clinic
+intensive care
+ventilation
+admission
