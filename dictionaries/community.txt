@@ -60,3 +60,5 @@ refugee
 asylum seeker
 camp
 rural
+sewage
+waste water
