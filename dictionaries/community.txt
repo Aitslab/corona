@@ -59,3 +59,4 @@ correction facility
 refugee
 asylum seeker
 camp
+rural
