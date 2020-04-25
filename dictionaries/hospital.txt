@@ -1,15 +1,16 @@
 hospital
 university hospital
-clinic
 intensive care
 ventilation
 admission
-clinical trial
-clinicaltrial.gov
-multicentre study
-multi-centre study
-multicenter study
-multi-center study
+admitted
+multicentre 
+multi-centre
+multicenter
+multi-center
 nosocomial
 secondary care
 tertiary care
+surgery
+transplantation
+operation
