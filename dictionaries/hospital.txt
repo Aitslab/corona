@@ -14,3 +14,4 @@ tertiary care
 surgery
 transplantation
 operation
+ward
