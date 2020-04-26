@@ -81,6 +81,8 @@ International Clinical Trials Registry Portal
 lists COVID-19 trials
 
 http://apps.who.int/trialsearch/AdvSearch.aspx?SearchTermStat=117&ReturnUrl=~/ListBy.aspx?TypeListing=0
+
+http://www.encepp.eu/encepp/studiesDatabase.jsp
  
  ### Lists of publishers which make their content available
 
