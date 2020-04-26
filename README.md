@@ -64,6 +64,10 @@ https://github.com/echen102/COVID-19-TweetIDs
 
 ### Clinical trial info
 
+EU Clinical Trials Register - trials related to COVID-19
+
+https://www.clinicaltrialsregister.eu/ctr-search/search?query=covid-19&page=2
+
 Clinicaltrial.gov
 
 https://clinicaltrials.gov/
