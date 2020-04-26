@@ -216,6 +216,21 @@ https://medium.com/@nigam/an-ehr-derived-summary-of-the-presenting-symptoms-of-p
 
 https://docs.google.com/spreadsheets/d/1iZZvbv94fpZdC6XaiPosiniMOh18etSPliAXVlLLr1w/edit#gid=344371264
 
+### Link lists to many resources
+https://pages.semanticscholar.org/coronavirus-research
+
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov
+
+https://github.com/virtual-biohackathons/covid-19-bh20/blob/master/datasets_and_tools.md
+
+https://discourse.data-against-covid.org/t/community-wiki-resources-on-data-science-and-friends-vs-covid-19/731
+
+https://swelife.se/verktyg/covid-19/
+
+https://vgrblogg.se/utveckling/2020/03/31/covid19-resurser-for-dig-som-vill-hacka-krisen/
+
+https://www.hackthecrisis.se/inspiration
+
 ## hackathons and citizen science
 https://euvsvirus.org/
 
@@ -244,7 +259,7 @@ http://eu-citizen.science/citizen-science-resources-related-to-the-covid19-pande
 
 https://github.com/virtual-biohackathons/covid-19-bh20
 
-# structural biology
+## structural biology
 
 SARS-CoV2 structure predictions
 
@@ -255,22 +270,6 @@ https://deepmind.com/research/open-source/computational-predictions-of-protein-s
 http://3dskane.se/doku.php
 
 https://3dprintingindustry.com/news/3d-printing-community-responds-to-covid-19-and-coronavirus-resources-169143/
-
-
-## Link lists to many resources
-https://pages.semanticscholar.org/coronavirus-research
-
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov
-
-https://github.com/virtual-biohackathons/covid-19-bh20/blob/master/datasets_and_tools.md
-
-https://discourse.data-against-covid.org/t/community-wiki-resources-on-data-science-and-friends-vs-covid-19/731
-
-https://swelife.se/verktyg/covid-19/
-
-https://vgrblogg.se/utveckling/2020/03/31/covid19-resurser-for-dig-som-vill-hacka-krisen/
-
-https://www.hackthecrisis.se/inspiration
 
 
 ## discussion groups
