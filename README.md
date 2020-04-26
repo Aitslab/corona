@@ -216,6 +216,11 @@ https://medium.com/@nigam/an-ehr-derived-summary-of-the-presenting-symptoms-of-p
 
 https://docs.google.com/spreadsheets/d/1iZZvbv94fpZdC6XaiPosiniMOh18etSPliAXVlLLr1w/edit#gid=344371264
 
+## symptom tracker websites and apps for self-reporting
+
+https://barrel.ai/covid19_symptoms_tracker/
+
+
 ### Link lists to many resources
 https://pages.semanticscholar.org/coronavirus-research
 
