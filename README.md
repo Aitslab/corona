@@ -62,7 +62,7 @@ https://www.kaggle.com/smid80/coronavirus-covid19-tweets
 
 https://github.com/echen102/COVID-19-TweetIDs
 
-### Clinical trial info
+### Clinical trial and pharmacovigilance
 
 EU Clinical Trials Register - trials related to COVID-19
 
@@ -81,6 +81,8 @@ International Clinical Trials Registry Portal
 lists COVID-19 trials
 
 http://apps.who.int/trialsearch/AdvSearch.aspx?SearchTermStat=117&ReturnUrl=~/ListBy.aspx?TypeListing=0
+
+The European Union electronic Register of Post-Authorisation Studies (EU PAS Register)
 
 http://www.encepp.eu/encepp/studiesDatabase.jsp
  
