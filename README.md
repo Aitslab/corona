@@ -62,7 +62,15 @@ https://www.kaggle.com/smid80/coronavirus-covid19-tweets
 
 https://github.com/echen102/COVID-19-TweetIDs
 
-### Clinical trial and pharmacovigilance
+### Lists of publishers which make their content available
+
+http://libguides.lub.lu.se/c.php?g=297899&p=4838427
+
+https://coronavirustechhandbook.com/self-reporting
+
+https://github.com/Co-Epi
+
+## Clinical trials and pharmacovigilance
 
 EU Clinical Trials Register - trials related to COVID-19
 
@@ -86,15 +94,8 @@ The European Union electronic Register of Post-Authorisation Studies (EU PAS Reg
 
 http://www.encepp.eu/encepp/studiesDatabase.jsp
  
- ### Lists of publishers which make their content available
-
-http://libguides.lub.lu.se/c.php?g=297899&p=4838427
-
-https://coronavirustechhandbook.com/self-reporting
-
-https://github.com/Co-Epi
-
-## corona resources
+ 
+## corona data, tools and other resources
 https://www.covid19dataportal.org/
 
 CDC Research Guide on COVID-19
@@ -284,5 +285,5 @@ https://discourse.data-against-covid.org/
 https://groups.google.com/forum/#!forum/virtual-biohackathon
 
 
-# videos
+## videos
 https://ellis.eu/covid-19
