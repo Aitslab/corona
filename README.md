@@ -38,7 +38,7 @@ https://covid-19.cochrane.org/
 
 CORD-19 data set
 
-9,000 scholarly articles, including over 13,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses
+over 50000 scholarly articles, many with full text, about COVID-19, SARS-CoV-2, and related coronaviruses
 
 https://pages.semanticscholar.org/coronavirus-research
 
@@ -47,6 +47,10 @@ CORD-19 Annotations
 https://github.com/SciBiteLabs/CORD19
 
 https://github.com/fhircat/CORD-19-on-FHIR
+
+Miso COVID-19 paper set
+
+https://docs.google.com/spreadsheets/d/1c6M0XmvSaRfA56AtgUc1j6ECXD-B2bva4vON7JD18ho/edit#gid=1440796014
 
 LitCOVID
 
@@ -96,6 +100,8 @@ http://www.encepp.eu/encepp/studiesDatabase.jsp
  
  
 ## corona data, tools and other resources
+ELIXIR Covid-19 portal
+
 https://www.covid19dataportal.org/
 
 CDC Research Guide on COVID-19
@@ -158,6 +164,10 @@ https://github.com/Co-Epi
 EMBL-EBI COVID-19 portal
 
 https://www.ebi.ac.uk/covid-19
+
+Miso question answering literture search
+
+https://covid19.askmiso.com/
 
 ### tools
 BERT base model finetuned on CORD-19 data
