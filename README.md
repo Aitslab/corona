@@ -111,6 +111,10 @@ KG-COVID-19
 https://github.com/Knowledge-Graph-Hub/kg-covid-19/wiki
 
 ## corona data, tools and other resources
+Ourworldindata
+
+https://ourworldindata.org/coronavirus
+
 ELIXIR Covid-19 portal
 
 https://www.covid19dataportal.org/
