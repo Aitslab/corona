@@ -1,12 +1,12 @@
 # corona
-a repository with an NLP toolbox (in manuscript folder) and other resources for SARS-CoV-2/COVID-19 research. 
+a repository with an NLP toolbox (in manuscript folder) and other resources for SARS-CoV-2/COVID-19 research.
 
 
-If you use our tools please cite our manuscript:
+If you use our NLP tools please cite our manuscript:
  "English dictionaries, gold and silver standard corpora for biomedical natural language processing related to SARS-CoV-2 and COVID-19" by Salma Kazemi Rashed, Johan Frid, Sonja Aits (https://arxiv.org/abs/2003.09865, cite as arXiv:2003.09865 [q-bio.OT]). Additional licence conditions are in the license file.
  
  
-This might be useful for everyone participating in the COVID-19 Open Research Dataset Challenge (CORD-19) or other COVID-19 hackathons: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
+This repo is hopefully useful for everyone participating in the COVID-19 Open Research Dataset Challenge (CORD-19) or other COVID-19 hackathons: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
 
 
 ## corona literature and study reports
@@ -99,6 +99,17 @@ The European Union electronic Register of Post-Authorisation Studies (EU PAS Reg
 http://www.encepp.eu/encepp/studiesDatabase.jsp
  
  
+## knowledge graphs
+COVID graph
+
+https://covidgraph.org/
+
+https://github.com/covidgraph/documentation/wiki
+
+KG-COVID-19
+
+https://github.com/Knowledge-Graph-Hub/kg-covid-19/wiki
+
 ## corona data, tools and other resources
 ELIXIR Covid-19 portal
 
@@ -153,11 +164,7 @@ https://www.microsoft.com/en-us/research/project/academic/articles/microsoft-aca
 
 https://www.lif.se/forskningsoversikt-coronavirus/
 
-List of publishers which make their content available
-
-http://libguides.lub.lu.se/c.php?g=297899&p=4838427
-
-https://coronavirustechhandbook.com/self-reporting
+https://coronavirustechhandbook.com/
 
 https://github.com/Co-Epi
 
@@ -169,7 +176,6 @@ Miso question answering literture search
 
 https://covid19.askmiso.com/
 
-### tools
 BERT base model finetuned on CORD-19 data
 
 https://huggingface.co/deepset/covid_bert_base
