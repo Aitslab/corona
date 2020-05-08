@@ -48,6 +48,8 @@ https://github.com/SciBiteLabs/CORD19
 
 https://github.com/fhircat/CORD-19-on-FHIR
 
+https://github.com/fhircat/CORD-19-on-FHIR/wiki/CORD-19-Semantic-Annotation-Projects
+
 Miso COVID-19 paper set
 
 https://docs.google.com/spreadsheets/d/1c6M0XmvSaRfA56AtgUc1j6ECXD-B2bva4vON7JD18ho/edit#gid=1440796014
