@@ -119,6 +119,12 @@ ELIXIR Covid-19 portal
 
 https://www.covid19dataportal.org/
 
+Graphen genomic data
+
+http://www.graphen.ai/covid.html
+
+http://www.graphen.ai/covid/types.html
+
 CDC Research Guide on COVID-19
 
 https://www.cdc.gov/library/researchguides/2019NovelCoronavirus.html
