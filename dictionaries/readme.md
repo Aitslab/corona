@@ -2,7 +2,7 @@ dictionaries which can be used with the dictionary-based tagger (dictionary anno
 
 dictionary name is equal to annotation class name
 
-The protein dictionary is made by extracting protein and gene names from the Uniprot and Human Gene Nomenclature Committee databases. This is a preliminary version of this dictionary.
+The protein dictionary is made by extracting protein and gene names from the Uniprot and Human Gene Nomenclature Committee databases. This is a preliminary version of this dictionary. The code for extracting the names can be found here: https://github.com/mariamsm1/Masterthesis2020
 
 The epidemiology dictionary contains terms added by experts and from
 - Epidemiology Ontology: https://code.google.com/archive/p/epidemiology-ontology/downloads
