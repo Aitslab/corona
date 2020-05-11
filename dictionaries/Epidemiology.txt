@@ -1,3 +1,5 @@
+survey
+interview
 analytical epidemiological study
 case report
 case series
@@ -7,6 +9,7 @@ randomised controlled trial
 randomised clinical trial
 cross-sectional study
 observational study
+cohort
 incidence
 incidence rate
 odds ratio
@@ -23,8 +26,6 @@ epidemiological
 confounding bias
 confounder
 convenience sampling
-survey
-interview
 cumulative incidence
 direction of bias
 observational uniformity
@@ -364,25 +365,17 @@ morbidity rate
 person-time incidence rate 
 
 secondary attack rate 
-
 survival rate 
-
 cumulative incidence ratio 
-
 exposure ratio 
-
 incidence rate ratio 
-
 mantel-haenszel estimate 
-
 mortality:incidence ratio 
-
 cancer mortality:incidence ratio 
-
 standardized incidence ratio 
-
 incidence rate 
-
 force of morbidity 
-
 instantaneous incidence rate
+household transmissibility
+transmission
+transmissibility
