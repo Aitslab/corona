@@ -345,5 +345,7 @@ https://groups.google.com/forum/#!forum/virtual-biohackathon
 
 https://crowdfightcovid19.org/
 
+https://www.facebook.com/groups/494650038080423/about/
+
 ## videos
 https://ellis.eu/covid-19
