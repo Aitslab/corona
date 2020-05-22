@@ -99,6 +99,8 @@ http://apps.who.int/trialsearch/AdvSearch.aspx?SearchTermStat=117&ReturnUrl=~/Li
 The European Union electronic Register of Post-Authorisation Studies (EU PAS Register)
 
 http://www.encepp.eu/encepp/studiesDatabase.jsp
+
+https://lif.se/forskningsoversikt-coronavirus/
  
  
 ## knowledge graphs
@@ -121,11 +123,6 @@ ELIXIR Covid-19 portal
 
 https://www.covid19dataportal.org/
 
-Graphen genomic data
-
-http://www.graphen.ai/covid.html
-
-http://www.graphen.ai/covid/types.html
 
 CDC Research Guide on COVID-19
 
@@ -148,6 +145,13 @@ WHO COVID-19 database
 
 https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov
 
+Italy's data
+
+https://github.com/pcm-dpc/COVID-19
+
+Swedish intensive care register
+
+https://www.icuregswe.org/data--resultat/covid-19-i-svensk-intensivvard/
 
 Elsevier corona virus page
 
@@ -160,9 +164,6 @@ has lots of COVID-19 related datasets, notebooks, discussions
 
 https://www.kaggle.com/
 
-Nextstain.org visualization tool
-
-https://nextstrain.org/ncov
 
 Dimensions COIVD-19 database
 
@@ -232,6 +233,22 @@ Coronavirus Tech Handbook
 
 https://coronavirustechhandbook.com/home
  
+### genomic data
+
+Nextstain.org visualization tool
+
+https://nextstrain.org/ncov
+
+https://www.gisaid.org/
+
+
+Graphen genomic data
+
+http://www.graphen.ai/covid.html
+
+http://www.graphen.ai/covid/types.html
+
+
 ### clinical data
  
 COVID-19 chest CT and x-rays
@@ -254,6 +271,8 @@ https://leoss.net/
 
 https://barrel.ai/covid19_symptoms_tracker/
 
+https://corona.sll.se/
+
 
 ### Link lists to many resources
 https://pages.semanticscholar.org/coronavirus-research
@@ -269,6 +288,8 @@ https://swelife.se/verktyg/covid-19/
 https://vgrblogg.se/utveckling/2020/03/31/covid19-resurser-for-dig-som-vill-hacka-krisen/
 
 https://www.hackthecrisis.se/inspiration
+
+http://open-source-covid-19.weileizeng.com/index
 
 ## hackathons and citizen science
 https://euvsvirus.org/
@@ -311,7 +332,7 @@ http://3dskane.se/doku.php
 https://3dprintingindustry.com/news/3d-printing-community-responds-to-covid-19-and-coronavirus-resources-169143/
 
 
-## discussion groups
+## discussion groups and platforms connecting researchers and volunteers
 https://cooperativeco-sr49362.slack.com/join/shared_invite/zt-cvqkh1af-NZuGk7nnHZel~0H73~8q0A
 
 https://www.coronawhy.org/
@@ -322,6 +343,7 @@ https://discourse.data-against-covid.org/
 
 https://groups.google.com/forum/#!forum/virtual-biohackathon
 
+https://crowdfightcovid19.org/
 
 ## videos
 https://ellis.eu/covid-19
