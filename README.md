@@ -283,13 +283,15 @@ https://leoss.net/
 
 
 
-## symptom tracker websites and apps for self-reporting
+## symptom tracker websites, fitness bands and apps for self-reporting
 
 https://barrel.ai/covid19_symptoms_tracker/
 
 https://corona.sll.se/
 
 https://www.coronaviruscensuscollective.org/
+
+https://quantifiedflu.org/
 
 ## Link lists to many resources
 https://pages.semanticscholar.org/coronavirus-research
