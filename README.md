@@ -295,6 +295,8 @@ https://www.hackthecrisis.se/inspiration
 
 http://open-source-covid-19.weileizeng.com/index
 
+https://www.producthunt.com/@chrismessina/collections/coronavirus
+
 ## hackathons and citizen science
 https://euvsvirus.org/
 
