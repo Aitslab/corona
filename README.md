@@ -60,6 +60,8 @@ Curated database of COVID-19 literature from NIH
 
 https://www.ncbi.nlm.nih.gov/research/coronavirus/
 
+https://asm.org/COVID/COVID-19-Research-Registry/Home
+
 Twitter datasets
 
 https://zenodo.org/record/3738018#.Xp7jQyNS-Mo
@@ -67,6 +69,7 @@ https://zenodo.org/record/3738018#.Xp7jQyNS-Mo
 https://www.kaggle.com/smid80/coronavirus-covid19-tweets
 
 https://github.com/echen102/COVID-19-TweetIDs
+
 
 ### Lists of publishers which make their content available
 
@@ -161,6 +164,7 @@ Elsevier corona virus page
 
 https://www.elsevier.com/connect/coronavirus-information-center
 
+https://covid19.healthdata.org/
 
 Kaggle
 
@@ -237,6 +241,10 @@ Coronavirus Tech Handbook
 
 https://coronavirustechhandbook.com/home
  
+### mobility data
+
+https://www.apple.com/covid19/mobility
+
 ### genomic data
 
 Nextstain.org visualization tool
@@ -251,6 +259,8 @@ Graphen genomic data
 http://www.graphen.ai/covid.html
 
 http://www.graphen.ai/covid/types.html
+
+https://artic.network/hCoV-19-viz
 
 
 ### clinical data
@@ -355,3 +365,8 @@ https://www.facebook.com/groups/494650038080423/about/
 
 ## videos
 https://ellis.eu/covid-19
+
+
+## research funding
+
+https://coronavirus.frontiersin.org/covid-19-research-funding-monitor
