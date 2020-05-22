@@ -104,6 +104,8 @@ The European Union electronic Register of Post-Authorisation Studies (EU PAS Reg
 http://www.encepp.eu/encepp/studiesDatabase.jsp
 
 https://lif.se/forskningsoversikt-coronavirus/
+
+https://www.covid-trials.org/
  
  
 ## knowledge graphs
@@ -287,8 +289,9 @@ https://barrel.ai/covid19_symptoms_tracker/
 
 https://corona.sll.se/
 
+https://www.coronaviruscensuscollective.org/
 
-### Link lists to many resources
+## Link lists to many resources
 https://pages.semanticscholar.org/coronavirus-research
 
 https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov
@@ -341,6 +344,20 @@ SARS-CoV2 structure predictions
 
 https://deepmind.com/research/open-source/computational-predictions-of-protein-structures-associated-with-COVID-19
 
+## systems biology, proteomics, drug targets
+
+https://covid.pages.uni.lu/
+
+https://www.nature.com/articles/s41586-020-2286-9
+
+https://www.biorxiv.org/content/10.1101/2020.03.22.002386v3
+
+https://www.researchsquare.com/article/rs-17218/v1
+
+https://www.covid19cellatlas.org/
+
+https://covid.barabasilab.com/2020/04/network-based-embedding-of-all-human.html
+
 
 ## 3D printing
 http://3dskane.se/doku.php
@@ -363,10 +380,16 @@ https://crowdfightcovid19.org/
 
 https://www.facebook.com/groups/494650038080423/about/
 
+https://forum.scilifelab.se/
+
 ## videos
 https://ellis.eu/covid-19
 
 
-## research funding
+## research funding and infrastructure support
 
 https://coronavirus.frontiersin.org/covid-19-research-funding-monitor
+
+https://www.xsede.org/covid19-hpc-consortium
+
+https://prace-ri.eu/
