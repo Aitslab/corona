@@ -153,6 +153,10 @@ Swedish intensive care register
 
 https://www.icuregswe.org/data--resultat/covid-19-i-svensk-intensivvard/
 
+Iceland data
+
+https://www.covid.is/data
+
 Elsevier corona virus page
 
 https://www.elsevier.com/connect/coronavirus-information-center
