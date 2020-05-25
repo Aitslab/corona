@@ -397,3 +397,6 @@ https://coronavirus.frontiersin.org/covid-19-research-funding-monitor
 https://www.xsede.org/covid19-hpc-consortium
 
 https://prace-ri.eu/
+
+## COVID-19 AI articles
+https://www.nature.com/articles/s41591-020-0931-3
