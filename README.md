@@ -294,8 +294,6 @@ https://www.coronaviruscensuscollective.org/
 https://quantifiedflu.org/
 
 ## Link lists to many resources
-https://pages.semanticscholar.org/coronavirus-research
-
 https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov
 
 https://github.com/virtual-biohackathons/covid-19-bh20/blob/master/datasets_and_tools.md
