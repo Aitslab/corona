@@ -187,8 +187,6 @@ https://www.microsoft.com/en-us/research/project/academic/articles/microsoft-aca
 
 https://www.lif.se/forskningsoversikt-coronavirus/
 
-https://coronavirustechhandbook.com/
-
 https://github.com/Co-Epi
 
 EMBL-EBI COVID-19 portal
