@@ -174,6 +174,9 @@ has lots of COVID-19 related datasets, notebooks, discussions
 
 https://www.kaggle.com/
 
+COVID19 data on Harvard Dataverse
+
+https://dataverse.harvard.edu/dataverse/covid19
 
 Dimensions COIVD-19 database
 
