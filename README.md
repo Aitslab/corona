@@ -266,7 +266,7 @@ http://www.graphen.ai/covid/types.html
 https://artic.network/hCoV-19-viz
 
 
-### clinical data
+### clinical data and patient registries
  
 COVID-19 chest CT and x-rays
 
@@ -278,13 +278,91 @@ https://medium.com/@nigam/an-ehr-derived-summary-of-the-presenting-symptoms-of-p
 
 https://docs.google.com/spreadsheets/d/1iZZvbv94fpZdC6XaiPosiniMOh18etSPliAXVlLLr1w/edit#gid=344371264
 
+
+
+ASH RC COVID-19 Registry
+
+https://www.ashresearchcollaborative.org/s/covid-19-registry-data-summaries
+
+COVID-19 Registry for Hematology
+
+
+COVID-Hep.net
+
+https://covid-hep.net/
+
+Coronavirus (COVID-19) in liver disease reporting registry
+
+
+ELSO registry
+
+https://www.elso.org/Registry/FullCOVID19RegistryDashboard.aspx
+
+COVID-19 patients on ECMO
+
+EUROELSO
+
+https://www.euroelso.net/covid-19/covid-19-survey/
+
+ECMO use in adult COVID-19 patients in Europe
+
 LEOSS register
 
 https://leoss.net/
 
+IntubateCOVID
+
+https://www.intubatecovid.org/dashboards
+
+COVID-10 Intubation registry 
+
+
+Pediatric COVID-19 U.S. Registry
+
+https://www.pedscovid19registry.com/current-data.html
+
+
+PSOProtect
+
+https://psoprotect.org/current-data/
+
+Psoriasis Registry for Outcomes, Therapy and Epidemiology of COVID-19 Infection
+
+SECURE-Cirrhosis
+
+https://covidcirrhosis.web.unc.edu/updates-and-data/
+
+Reporting Registry for COVID-19 in liver disease
+
+SECURE-IBD
+
+https://covidibd.org/current-data/
+
+COVID-19 and Inflammatory Bowel Disease (IBD) Reporting Registry
+
+SECURE-SCD 
+
+https://covidsicklecell.org/updates-data/
+
+COVID-19 and Sickle Cell Disease Registry
+
+The COVID-19 Global Rheumatology Alliance Global Registry
+
+https://rheum-covid.org/updates/combined-data.html
+
+Registers with data provided by providers and patients
+
+VIRUS COVID-19 Registry
+
+https://sccmcovid19.org/
+
+Register of current ICU and hospital care patients
 
 
 ## symptom tracker websites, fitness bands and apps for self-reporting
+COVID19 Symptom Study (Swedish self-reporting app from Lund and Uppsala Universities)
+
+https://csss-resultat.shinyapps.io/csss_dashboard/
 
 https://barrel.ai/covid19_symptoms_tracker/
 
@@ -295,6 +373,8 @@ https://www.coronaviruscensuscollective.org/
 https://quantifiedflu.org/
 
 ## Link lists to many resources
+https://dataverse.harvard.edu/dataverse/covid19
+
 https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov
 
 https://github.com/virtual-biohackathons/covid-19-bh20/blob/master/datasets_and_tools.md
