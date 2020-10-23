@@ -1,6 +1,5 @@
 TMPRSS2
 Transmembrane protease serine 2
-EC 3.4.21.-
 Serine protease 10
 Transmembrane protease serine 2 non-catalytic chain
 Transmembrane protease serine 2 catalytic chain
@@ -212,7 +211,6 @@ Angiotensin-converting enzyme homolog
 ACEH
 Angiotensin-converting enzyme-related carboxypeptidase
 ACE-related carboxypeptidase
-EC 3.4.17.-
 Metalloprotease MPROT15
 Processed angiotensin-converting enzyme 2
 UNQ868
