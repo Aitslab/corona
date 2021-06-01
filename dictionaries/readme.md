@@ -13,3 +13,6 @@ https://depts.washington.edu/physdx/eglossary.html
 
 Additional dictionaries are to be added for other target groups, making use of existing ontologies and input from domain experts.
 
+German negation dictionary
+http://macss.dfki.de/negex/negex_trigger_german_biotxtm_2016.txt
+
