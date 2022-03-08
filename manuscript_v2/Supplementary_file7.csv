@@ -1,0 +1,200 @@
+pmid,type,id,entity_type,text,location/reference,infon
+31991541,annotation,A01,Virus_SARS-CoV-2,2019-nCoV,27:9,NCBI:txid:2697049
+31991541,annotation,A02,Virus_family,Coronavirus,14:11,NCBI:txid:693995
+31991541,annotation,A03,Virus_other,SARS-CoV,114:8,NCBI:txid:694009 
+31991541,annotation,A04,Virus_SARS-CoV-2,most recent emergent group 2B coronavirus,293:41,NCBI:txid:2697049
+31991541,annotation,A05,Virus_SARS-CoV-2,novel coronavirus,57:17,NCBI:txid:2697049
+31991541,annotation,A06,Virus_SARS-CoV-2,2019-nCoV,76:9,NCBI:txid:2697049
+32013309,annotation,A01,Virus_family,coronavirus,25:11,NCBI:txid:693995
+32013309,annotation,A02,Symptom,inflammation,45:12,
+32013309,annotation,A03,Cell,Mast cells,0:10,
+32013309,annotation,A04,Virus_SARS-CoV-2,Coronavirus,91:11,NCBI:txid:2697049
+32013309,annotation,A05,Disease_other,respiratory syndrome,120:20,
+32013309,annotation,A06,Virus_family,Coronavirus,221:11,NCBI:txid:693995
+32013309,annotation,A07,Disease_other,Human coronavirus infections,340:28,
+32013309,annotation,A08,Disease_other,respiratory diseases,404:20,
+32013309,annotation,A09,Symptom,inflammation,435:12,
+32013309,annotation,A10,Symptom,fever,454:5,
+32013309,annotation,A11,Symptom,cough,461:5,
+32013309,annotation,A12,Disease_other,respiratory tract infection,474:27,
+32013309,annotation,A13,Symptom,dysfunction of internal organs,506:30,
+32013309,annotation,A14,Symptom,death,554:5,
+32013309,annotation,A15,Disease_other,Coronavirus infection,561:21,
+32013309,annotation,A16,Virus_family,corona virus,619:12,NCBI:txid:693995
+32013309,annotation,A17,Virus_family,Virus,845:5,
+32013309,annotation,A18,Symptom,inflammation,1103:12,
+32013309,annotation,A19,Protein,IL-1,1046:4,
+32013309,annotation,A20,Protein,IL-33,1055:5,
+32013309,annotation,A21,Virus_family,coronavirus,1119:11,
+32013309,annotation,A22,Cell,immune cells,658:12,
+32013309,annotation,A23,Cell,mast cells,681:10,
+32013309,annotation,A24,Cell,MCs,693:3,
+32013309,annotation,A25,Cell,MCs,860:3,
+32013309,annotation,A26,Chemical,histamine,926:9,
+32013309,annotation,A27,Species_human,man,282:3,
+32013309,annotation,A28,Species_human,man,289:3,
+32007643,annotation,A01,Virus_SARS-CoV-2,novel coronavirus,59:17,NCBI:txid:2697049
+32007643,annotation,A02,Virus_SARS-CoV-2,2019-nCoV,78:9,NCBI:txid:2697049
+32007643,annotation,A03,Disease_COVID-19,novel coronavirus (2019-nCoV) pneumonia,215:39,
+32007643,annotation,A04,Virus_SARS-CoV-2,2019-nCoV,444:9,NCBI:txid:2697049
+32007643,annotation,A05,Virus_SARS-CoV-2,2019-nCoV,604:9,NCBI:txid:2697049
+32007643,annotation,A06,Disease_other,coronavirus diseases,841:20,
+32007643,annotation,A07,Disease_other,MERS,863:4,
+32007643,annotation,A08,Disease_other,SARS,872:4,
+32007643,annotation,A09,Virus_SARS-CoV-2,2019-nCoV,1282:9,NCBI:txid:2697049
+32007643,annotation,A10,Virus_SARS-CoV-2,2019-nCoV,1393:9,NCBI:txid:2697049
+32036774,annotation,A01,Virus_SARS-CoV-2,Emerging novel coronavirus,0:26,NCBI:txid:2697049
+32036774,annotation,A02,Virus_SARS-CoV-2,2019-nCoV,28:9,NCBI:txid:2697049
+32036774,annotation,A03,Virus_family,Coronaviruses,132:13,NCBI:txid:693995
+32036774,annotation,A04,Disease_other,respiratory,181:11,
+32036774,annotation,A05,Disease_other,enteric,194:7,
+32036774,annotation,A06,Disease_other,systemic infections,206:19,
+32036774,annotation,A07,Virus_family,coronaviruses,319:13,NCBI:txid:693995
+32036774,annotation,A08,Virus_other,Severe Acute Respiratory Syndrome coronavirus,366:45,
+32036774,annotation,A09,Virus_other,SARS-CoV,413:8,
+32036774,annotation,A10,Virus_other,Middle East Respiratory Syndrome CoV,458:36,
+32036774,annotation,A11,Virus_other,MERS-CoV,496:8,NCBI:txid:1335626
+32036774,annotation,A12,Virus_SARS-CoV-2,This decade's first CoV,507:23,NCBI:txid:2697049
+32036774,annotation,A13,Virus_SARS-CoV-2,2019-nCoV,538:9,NCBI:txid:2697049
+32036774,annotation,A14,Virus_SARS-CoV-2,2019-nCoV,1034:9,NCBI:txid:2697049
+32036774,annotation,A15,Virus_SARS-CoV-2,nCoV,1135:4,NCBI:txid:2697049
+32036774,annotation,A16,Virus_SARS-CoV-2,novel virus,1110:11,NCBI:txid:2697049
+32036774,annotation,A17,Virus_family,viruses,1207:7,
+32036774,annotation,A18,Virus_SARS-CoV-2,virus,1281:5,NCBI:txid:2697049
+32036774,annotation,A19,Virus_SARS-CoV-2,virus,1423:5,NCBI:txid:2697049
+32036774,annotation,A20,Virus_SARS-CoV-2,virus,835:5,NCBI:txid:2697049
+32036774,annotation,A21,Species_human,man,261:3,
+32036774,annotation,A22,Species_other,mammals,266:7,
+32036774,annotation,A23,Species_other,fish,275:4,
+32036774,annotation,A24,Species_other,avian,285:5,
+32036774,annotation,A25,Species_other,bats,998:4,
+31992388,annotation,A01,Disease_COVID-19,novel coronavirus infections,73:28,
+31992388,annotation,A02,Virus_SARS-CoV-2,novel coronavirus,144:17,NCBI:txid:2697049
+31992388,annotation,A03,Disease_COVID-19,severe acute respiratory disease,182:32,
+31992388,annotation,A04,Virus_SARS-CoV-2,2019-nCoV,163:9,NCBI:txid:2697049
+32020836,annotation,A01,Virus_SARS-CoV-2,novel human coronavirus,37:23,NCBI:txid:2697049
+32020836,annotation,A02,Disease_other,pneumonia,81:9,
+32020836,annotation,A03,Disease_other,pneumonia,164:9,
+32020836,annotation,A04,Disease_other,respiratory syndromes,344:21,
+32020836,annotation,A05,Symptom,fever,477:5,
+32020836,annotation,A06,Symptom,cough,484:5,
+32020836,annotation,A07,Virus_SARS-CoV-2,novel coronavirus,761:17,NCBI:txid:2697049
+32020836,annotation,A08,Virus_SARS-CoV-2,2019-nCoV,786:9,NCBI:txid:2697049
+32020836,annotation,A09,Virus_family,Î²-coronavirus,1131:13,
+32020836,annotation,A10,Virus_SARS-CoV-2,2019-nCoV,1189:9,NCBI:txid:2697049
+32020836,annotation,A11,Virus_family,coronaviruses,1211:13,
+32020836,annotation,A12,Virus_family,CoVs,1226:4,
+32020836,annotation,A13,Virus_other,bat coronavirus strain BtCoV/4991,1335:33,NCBI:txid:1788497
+32020836,annotation,A14,Virus_other,bat coronavirus strain bat-SL-CoVZC45,1480:37,
+32020836,annotation,A15,Virus_other,bat-SL-CoVZXC21,1522:15,
+32020836,annotation,A16,Virus_SARS-CoV-2,2019-nCoV,1609:9,NCBI:txid:2697049
+32020836,annotation,A17,Virus_family,CoV,1642:3,
+32020836,annotation,A18,Protein,RdRp,1407:4,
+32020836,annotation,A19,Species_human,patients,315:8,
+32020836,annotation,A20,Species_human,patients,426:8,
+32020836,annotation,A21,Species_other,Rhinolophus,1247:11,
+32020836,annotation,A22,Species_other,Horseshoe bats,1260:14,
+32020836,annotation,A23,Protein,ORF1a/1b,1570:8,
+32020836,annotation,A24,Protein,S,1580:1,
+32020836,annotation,A25,Protein,N,1587:1,
+32020836,annotation,A26,Species_human,humans,1687:6,
+32015508,annotation,A01,Virus_SARS-CoV-2,new coronavirus,2:15,NCBI:txid:2697049
+32015508,annotation,A02,Disease_other,respiratory disease,40:19,
+32015508,annotation,A03,Disease_other,infectious diseases,79:19,
+32015508,annotation,A04,Disease_other,severe acute respiratory syndrome,108:33,
+32015508,annotation,A05,Disease_other,SARS,143:4,
+32015508,annotation,A06,Disease_other,Zika virus disease,153:18,
+32015508,annotation,A07,Disease_COVID-19,severe respiratory disease,341:26,
+32015508,annotation,A08,Disease_COVID-19,respiratory syndrome,822:20,
+32015508,annotation,A09,Symptom,fever,857:5,
+32015508,annotation,A10,Symptom,dizziness,864:9,
+32015508,annotation,A11,Symptom,cough,880:5,
+32015508,annotation,A12,Virus_SARS-CoV-2,new RNA virus strain from the family Coronaviridae,989:50,NCBI:txid:2697049
+32015508,annotation,A13,Virus_SARS-CoV-2,'WH-Human 1' coronavirus,1066:24,NCBI:txid:2697049
+32015508,annotation,A14,Virus_SARS-CoV-2,2019-nCoV,1126:9,NCBI:txid:2697049
+32015508,annotation,A15,Virus_SARS-CoV-2,virus,1229:5,NCBI:txid:2697049
+32015508,annotation,A16,Virus_family,SARS-like coronaviruses,1304:23,
+32015508,annotation,A17,Virus_family,Betacoronavirus,1335:15,
+32015508,annotation,A18,Virus_family,Sarbecovirus,1361:12,
+32015508,annotation,A19,Species_human,patient,501:7,
+32015508,annotation,A20,Species_human,patient,681:7,
+32015508,annotation,A21,Species_human,worker,699:6,
+32015508,annotation,A22,Species_human,patient,968:7,
+32015508,annotation,A23,Species_other,bats,1409:4,
+32015508,annotation,A24,Species_human,humans,1530:6,
+31986264,annotation,A01,Virus_SARS-CoV-2,2019 novel coronavirus,44:22,
+31986264,annotation,A02,Species_human,patients,21:8,
+31986264,annotation,A7,Symptom,pneumonia,116:9,
+31986264,annotation,A03,Virus_SARS-CoV-2,novel betacoronavirus,165:21,
+31986264,annotation,A04,Virus_SARS-CoV-2,2019 novel coronavirus,192:22,
+31986264,annotation,A05,Virus_SARS-CoV-2,2019-nCoV,216:9,
+31986264,annotation,A06,Virus_SARS-CoV-2,2019-nCoV,406:9,
+31986264,annotation,A07,Disease_COVID-19,2019-nCoV infection,548:19,
+31986264,annotation,A08,Disease_COVID-19,2019-nCoV infection,1155:19,
+31986264,annotation,A09,Disease_other,diabetes,1294:8,
+31986264,annotation,A10,Disease_other,hypertension,1318:12,
+31986264,annotation,A11,Disease_other,cardiovascular disease,1348:22,
+31986264,annotation,A12,Symptom,fever,1565:5,
+31986264,annotation,A13,Symptom,cough,1598:5,
+31986264,annotation,A14,Symptom,myalgia,1620:7,
+31986264,annotation,A15,Symptom,fatigue,1631:7,
+31986264,annotation,A16,Symptom,sputum production,1677:17,
+31986264,annotation,A17,Symptom,headache,1713:8,
+31986264,annotation,A18,Symptom,haemoptysis,1742:11,
+31986264,annotation,A19,Symptom,diarrhoea,1776:9,
+31986264,annotation,A20,Symptom,Dyspnoea,1804:8,
+31986264,annotation,A21,Symptom,dyspnoea,1885:8,
+31986264,annotation,A22,Symptom,lymphopenia,1948:11,
+31986264,annotation,A23,Symptom,pneumonia,1981:9,
+31986264,annotation,A24,Symptom,acute respiratory distress syndrome,2050:35,
+31986264,annotation,A25,Symptom,RNAaemia,2098:8,
+31986264,annotation,A26,Symptom,acute cardiac injury,2120:20,
+31986264,annotation,A27,Disease_other,secondary infection,2158:19,
+31986264,annotation,A28,Protein,IL2,2327:3,
+31986264,annotation,A29,Protein,IL7,2332:3,
+31986264,annotation,A30,Protein,IL10,2337:4,
+31986264,annotation,A31,Protein,GSCF,2343:4,
+31986264,annotation,A32,Protein,IP10,2349:4,
+31986264,annotation,A33,Protein,MCP1,2355:4,
+31986264,annotation,A34,Protein,MIP1A,2361:5,
+31986264,annotation,A35,Protein,TNFÎ±,2372:4,
+31986264,annotation,A36,Disease_COVID-19,2019-nCoV infection,2398:19,
+31986264,annotation,A37,Disease_other,severe respiratory illness,2437:26,
+31986264,annotation,A38,Virus_other,severe acute respiratory syndrome coronavirus,2475:45,
+31986264,annotation,A39,Species_human,patients,359:8,
+31986264,annotation,A40,Species_human,patients,382:8,
+31986264,annotation,A41,Species_human,patients,513:8,
+31986264,annotation,A42,Species_human,patients,851:8,
+31986264,annotation,A43,Species_human,Researchers,807:11,
+31986264,annotation,A44,Species_human,families,869:8,
+31986264,annotation,A45,Species_human,patients,961:8,
+31986264,annotation,A46,Species_human,patients,1095:8,
+31986264,annotation,A47,Species_human,patients,1197:8,
+31986264,annotation,A48,Species_human,men,1211:3,
+31986264,annotation,A49,Species_human,patients,1442:8,
+31986264,annotation,A50,Species_human,patients,1587:8,
+31986264,annotation,A51,Species_human,patients,1841:8,
+31986264,annotation,A52,Species_human,patients,1935:8,
+31986264,annotation,A53,Species_human,patients,1968:8,
+31986264,annotation,A54,Species_human,patients,2201:8,
+32029004,annotation,A01,Disease_COVID-19,2019 novel coronavirus (2019-nCoV) infected pneumonia,60:53,
+32029004,annotation,A02,Disease_COVID-19,new type viral pneumonia,154:24,
+32029004,annotation,A03,Virus_SARS-CoV-2,2019 novel coronavirus,236:22,
+32029004,annotation,A04,Virus_SARS-CoV-2,2019-nCoV,260:9,
+32029004,annotation,A05,Disease_other,respiratory disease,366:19,
+32029004,annotation,A06,Disease_COVID-19,2019-nCoV infected pneumonia,594:28,
+32029004,annotation,A07,Disease_other,nosocomial infection,1124:20,
+32029004,annotation,A08,Disease_COVID-19,2019-nCoV,1196:9,
+32029004,annotation,A09,Disease_COVID-19,2019-nCoV infected pneumonia,1294:28,
+32029004,annotation,A10,Disease_COVID-19,2019-nCoV infections,1373:20,
+32029004,annotation,A11,Virus_SARS-CoV-2,2019-nCoV,1633:9,
+31996494,annotation,A01,Virus_SARS-CoV-2,2019-new coronavirus,31:20,NCBI:txid:2697049
+31996494,annotation,A02,Virus_SARS-CoV-2,2019-nCoV,53:9,NCBI:txid:2697049
+31996494,annotation,A03,Virus_SARS-CoV-2,2019-new coronavirus,117:20,NCBI:txid:2697049
+31996494,annotation,A04,Virus_SARS-CoV-2,2019-nCoV,139:9,NCBI:txid:2697049
+31996494,annotation,A05,Virus_family,coronavirus,294:11,NCBI:txid:693995
+31996494,annotation,A06,Virus_SARS-CoV-2,2019-nCoV,410:9,NCBI:txid:2697049
+31996494,annotation,A07,Virus_family,coronaviruses,719:13,NCBI:txid:693995
+31996494,annotation,A08,Virus_family,human pathogen coronavirus,792:26,
+31996494,annotation,A09,Virus_SARS-CoV-2,2019-nCoV,1160:9,NCBI:txid:2697049
+31996494,annotation,A10,Virus_SARS-CoV-2,2019- nCoV,1223:10,NCBI:txid:2697049
