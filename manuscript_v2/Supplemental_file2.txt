@@ -446,10 +446,6 @@
 2019novel wuhan virus
 2019novel wuhancorona virus
 2019novel wuhancoronavirus
-DiseasesDB:60833
-MeSH:M000679178
-NCBI Taxonomy ID: 2697049
-NCBI:txid2697049
 acute respiratory syndrome coronavirus 2
 acute respiratory syndrome coronavirus 2 2019
 china cov
@@ -754,7 +750,6 @@ severe acute respiratory syndromerelated coronavirus 2
 severe acute respiratory syndromerelated coronavirus 2 2019
 severe acute respiratory syndromerelated coronavirus2
 severe acute respiratory syndromerelated coronavirus2 2019
-txid2697049
 virus causing 2019 corona disease
 virus causing 2019 coronavirus disease
 virus causing corona disease
