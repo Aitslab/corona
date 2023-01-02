@@ -30,6 +30,12 @@ Wiley
 
 https://novel-coronavirus.onlinelibrary.wiley.com/
 
+OpenAIRE COVID-19 gateway
+
+Covid-19 publications, datasets, software and projects metadata
+
+https://covid-19.openaire.eu/
+
 ### Curated sets and databases
 
 Cochrane
