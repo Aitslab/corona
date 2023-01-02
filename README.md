@@ -378,6 +378,12 @@ https://www.coronaviruscensuscollective.org/
 
 https://quantifiedflu.org/
 
+## Social media data
+
+Large-scale COVID-19 Twitter chatter dataset 
+
+https://zenodo.org/record/7497980#.Y7MgQxXMJEY
+
 ## Link lists to many resources
 https://dataverse.harvard.edu/dataverse/covid19
 
