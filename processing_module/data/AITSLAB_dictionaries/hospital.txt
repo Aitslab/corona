@@ -1,0 +1,17 @@
+hospital
+university hospital
+intensive care
+ventilation
+admission
+admitted
+multicentre 
+multi-centre
+multicenter
+multi-center
+nosocomial
+secondary care
+tertiary care
+surgery
+transplantation
+operation
+ward

@@ -1,0 +1,2757 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BioQRator</title>
+    <meta content="authenticity_token" name="csrf-param" />
+<meta content="PxonGRLt8RIMW9mnIjHOW4FQcFVNOsc+ZbUHNTUsU5o=" name="csrf-token" />
+<!-- Javascripts
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/assets/application-c26f63442f0c49076853277fd0bf739b.js" type="text/javascript"></script>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.1/html5shiv.js" type="text/javascript"></script>
+    <![endif]-->
+
+    <link href="/assets/application-adcf646bbad232628e140cade54f748a.css" media="all" rel="stylesheet" type="text/css" />
+
+    <!-- For all other devices -->
+    <!-- Size should be 32 x 32 pixels -->
+    <link href="/assets/favicon-a3ea7288bb97d6aa760179e077fa7d26.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+
+</head>
+
+<body>
+  <div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="fa fa-bar"></span>
+          <span class="fa fa-bar"></span>
+          <span class="fa fa-bar"></span>
+        </button>
+        <span class=""><a class="brand" href="/"><i class="fa fa-check"></i> <span style="color:#FF9;">Bio</span><span style="color:#5CE5FF;">Q</span><span style="color:#9F9;">Rator</span></a></span>
+
+          <div class="btn-group pull-right">
+            <a href="#" class="btn dropdown-toggle" data-toggle="dropdown">
+              <i class="fa fa-user"></i> <span class="hidden-phone">Sonja Aits</span>
+              <span class="caret"></span>
+            </a>
+
+            <ul class="dropdown-menu">
+              <li><a href="/users/edit">Edit Profile</a></li>
+              <li class="divider"></li>
+              <li><a href="/users/sign_out" data-method="delete" rel="nofollow">Sign Out</a></li>
+            </ul>
+          </div>
+        <div class="nav-collapse collapse">
+          <ul class="nav">
+            
+            <li >
+              <a href="/collections">
+                <i class="fa fa-book"></i>
+                Collections
+</a>            </li>
+          <li>
+            <a href="#" onclick="window.open(&#x27;https://sites.google.com/site/bioqratorhelp/&#x27;, &#x27;bioqrator_tutorial&#x27;, &#x27;width=810,height=800,menubar=no,location=no,scrollbars=yes,toolbar=no,status=no,resizable=yes&#x27;);return false;">
+              <i class="fa fa-question-sign"></i> Tutorial
+</a>          </li>
+          <li>
+            <a href="#" onclick="window.open(&#x27;https://sites.google.com/site/bioqratorhelp/guidelines&#x27;, &#x27;bioqrator_tutorial&#x27;, &#x27;width=810,height=800,menubar=no,location=no,scrollbars=yes,toolbar=no,status=no,resizable=yes&#x27;);return false;">
+              <i class="fa fa-info-sign"></i>
+              Annotation Guidelines
+</a>          </li>
+          <li >
+            <a href="/home/about">
+              <i class="fa fa-asterisk"></i>
+              About
+            </a>
+          </li>
+        </ul>
+      </div><!--/.nav-collapse -->
+    </div>
+  </div>
+</div>
+<div class="container main-contents">
+  <div id="main-notice" class="hide">
+  </div>
+  <div class="page-header">
+  <h2>Corona_gold</h2>
+</div>
+
+<div class="actions" style="margin-bottom:20px;">
+    <a href="/collections/627/edit" class="btn">
+  	<i class="fa fa-edit"></i>
+  	Edit
+</a>
+<a href="/collections/627/share" class="btn">
+	<i class="fa fa-share"></i>
+	Share
+</a>
+
+<a href="#uploadModal" class="btn btn-info" data-toggle="modal" role="button">
+	<i class="fa fa-cloud-upload"></i>
+	Upload &amp; Merge BioC
+</a>
+
+<a id="downloadButton" role="button" class ="btn btn-info">
+	<i class="fa fa-cloud-download"></i>
+	Download BioC / CSV
+</a>
+
+<div class="modal hide fade" id="downloadModal">
+  <form class="form-horizontal" method="get" style="margin:0;padding:0">
+    <div class="modal-header">
+      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+      <h3>Select a Filename for Download</h3>
+    </div>
+    <div class="modal-body">
+      <div class="control-group">
+        <label class="control-label" for="filename">Filename</label>
+        <div class="controls">
+          <input type="text" name="filename" value="" autofocus="autofocus" placeholder="input file name here" class="span4">
+        </div>
+      </div>
+      <div class="control-group">
+        <label class="control-label" for="pmids">File Type</label>
+        <div class="controls">
+          <select name="filetype">
+            <option value="xml">XML (BioC file fotmat)</option>
+            <option value="csv">CSV (Comma-Separated Values)</option>
+          </select>
+        </div>
+      </div>
+      <div class="control-group">
+        <label class="control-label" for="pmids">PMID list</label>
+        <div class="controls">
+          <textarea name="pmids" id="upload-pmids" cols="40" rows="5" readonly class="span4"></textarea>
+        </div>
+      </div>
+    </div>
+    <div class="modal-footer">
+      <button class="btn" type="button" data-dismiss="modal" aria-hidden="true">Close</button>
+      <button class="btn btn-primary" onclick="$('#downloadModal').modal('hide');">Download</button>
+    </div>
+  </form>
+</div>
+<script>
+$(function() {
+  $("#downloadModal").on("shown", function() {
+    $("#downloadModal input[name=filename]").focus();
+  });
+
+  $("#downloadModal form").on("submit", function() {
+    if ($("#downloadModal form select[name=filetype]").val() == "xml") {
+      $("#downloadModal form").attr("action", "/collections/627/annotations.xml");
+    } else {
+      $("#downloadModal form").attr("action", "/collections/627/annotations.csv");
+    }
+    return true;
+  });
+
+  $("#downloadButton").click(function() {
+    var values = _.map($(".doc-checkbox:checked"), function(e) {
+      return $(e).val();
+    });
+    if (values.length == 0) {
+      if (!confirm("No document selected. Are you sure?")) {
+        return;
+      }
+    }
+    $("#upload-pmids").val(values.join(","));
+    $("#downloadModal").modal("show");
+  })
+});
+  
+</script>
+
+<div class="btn-group">
+  <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
+    <i class="fa fa-gear"></i> Option
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu">
+    <li>
+      <a href="/collections/627/remove_documents" class="link-danger" data-confirm="Are you sure?">
+        <i class="fa fa-trash"></i>
+        Remove All Documents
+</a>    </li>
+    <li>
+      <a href="/collections/627/remove_annotations" class="link-danger" data-confirm="Are you sure?">
+        <i class="fa fa-trash"></i>
+        Remove All Annotations / Relations
+</a>    </li>
+  </ul>
+</div>
+</div>
+<div>
+  <ul class="nav nav-tabs" id="document-tab">
+    <li class="">
+      <a href="/collections/627">
+        <i class="fa fa-file-alt"></i>
+        Documents
+</a>    </li>
+    <li class="active">
+      <a href="/collections/627/annotations">
+        <i class="fa fa-comment-alt"></i>
+        Annotations
+</a>    </li>
+    <li class="">
+      <a href="/collections/627/relations">
+        <i class="fa fa-link"></i>
+        Relations
+</a>    </li>
+    <li class="">
+      <a href="/collections/627/entity_types">
+        <i class="fa fa-tags"></i>
+        Types
+</a>    </li>
+    <li class="">
+      <a href="/collections/627/recommenders">
+        <i class="fa fa-magic"></i>
+        Recommenders
+</a>    </li>
+  </ul>
+</div>
+
+<div class="tab-content">
+  <div class="tab-pane active" id="annotations">
+      <div class="" style="font-size:0.8em;color:#ccc; font-style:italic; font-weight:200;">
+  <i class="fa fa-sort-by-attributes"></i> By clicking a header column, you can sort data by the column.
+</div>
+
+      <table class="table table-striped sortable">
+        <tr>
+          <th>Document</th>
+          <th>ID</th>
+          <th>Type</th>
+          <th style="text-align:right">Offset</th>
+          <th style="text-align:right">Length</th>
+          <th>Text</th>
+        </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31991541">31991541</a></td>
+              <td>005</td>
+              <td>Virus_other</td>
+              <td style="text-align:right">
+                  114<br/>
+              </td>
+              <td style="text-align:right">
+                  8<br/>
+              </td>
+              <td>SARS-CoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31991541">31991541</a></td>
+              <td>006</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  293<br/>
+              </td>
+              <td style="text-align:right">
+                  41<br/>
+              </td>
+              <td>most recent emergent group 2B coronavirus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31991541">31991541</a></td>
+              <td>002</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  27<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>2019-nCoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31991541">31991541</a></td>
+              <td>001</td>
+              <td>Virus_family</td>
+              <td style="text-align:right">
+                  14<br/>
+              </td>
+              <td style="text-align:right">
+                  11<br/>
+              </td>
+              <td>Coronavirus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31991541">31991541</a></td>
+              <td>003</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  57<br/>
+              </td>
+              <td style="text-align:right">
+                  17<br/>
+              </td>
+              <td>novel coronavirus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31991541">31991541</a></td>
+              <td>004</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  76<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>2019-nCoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A65</td>
+              <td>Virus_family</td>
+              <td style="text-align:right">
+                  25<br/>
+              </td>
+              <td style="text-align:right">
+                  11<br/>
+              </td>
+              <td>coronavirus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A66</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  45<br/>
+              </td>
+              <td style="text-align:right">
+                  12<br/>
+              </td>
+              <td>inflammation</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A67</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  91<br/>
+              </td>
+              <td style="text-align:right">
+                  11<br/>
+              </td>
+              <td>Coronavirus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A68</td>
+              <td>Disease_other</td>
+              <td style="text-align:right">
+                  120<br/>
+              </td>
+              <td style="text-align:right">
+                  20<br/>
+              </td>
+              <td>respiratory syndrome</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A69</td>
+              <td>Virus_family</td>
+              <td style="text-align:right">
+                  221<br/>
+              </td>
+              <td style="text-align:right">
+                  11<br/>
+              </td>
+              <td>Coronavirus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A70</td>
+              <td>Disease_other</td>
+              <td style="text-align:right">
+                  340<br/>
+              </td>
+              <td style="text-align:right">
+                  28<br/>
+              </td>
+              <td>Human coronavirus infections</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A71</td>
+              <td>Disease_other</td>
+              <td style="text-align:right">
+                  404<br/>
+              </td>
+              <td style="text-align:right">
+                  20<br/>
+              </td>
+              <td>respiratory diseases</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A72</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  435<br/>
+              </td>
+              <td style="text-align:right">
+                  12<br/>
+              </td>
+              <td>inflammation</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A73</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  454<br/>
+              </td>
+              <td style="text-align:right">
+                  5<br/>
+              </td>
+              <td>fever</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A74</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  461<br/>
+              </td>
+              <td style="text-align:right">
+                  5<br/>
+              </td>
+              <td>cough</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A75</td>
+              <td>Disease_other</td>
+              <td style="text-align:right">
+                  474<br/>
+              </td>
+              <td style="text-align:right">
+                  27<br/>
+              </td>
+              <td>respiratory tract infection</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A77</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  506<br/>
+              </td>
+              <td style="text-align:right">
+                  30<br/>
+              </td>
+              <td>dysfunction of internal organs</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A78</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  554<br/>
+              </td>
+              <td style="text-align:right">
+                  5<br/>
+              </td>
+              <td>death</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A79</td>
+              <td>Disease_other</td>
+              <td style="text-align:right">
+                  561<br/>
+              </td>
+              <td style="text-align:right">
+                  21<br/>
+              </td>
+              <td>Coronavirus infection</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A80</td>
+              <td>Virus_family</td>
+              <td style="text-align:right">
+                  619<br/>
+              </td>
+              <td style="text-align:right">
+                  12<br/>
+              </td>
+              <td>corona virus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A81</td>
+              <td>Virus_family</td>
+              <td style="text-align:right">
+                  845<br/>
+              </td>
+              <td style="text-align:right">
+                  5<br/>
+              </td>
+              <td>Virus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A83</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  1,103<br/>
+              </td>
+              <td style="text-align:right">
+                  12<br/>
+              </td>
+              <td>inflammation</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A84</td>
+              <td>Protein</td>
+              <td style="text-align:right">
+                  1,046<br/>
+              </td>
+              <td style="text-align:right">
+                  4<br/>
+              </td>
+              <td>IL-1</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A85</td>
+              <td>Protein</td>
+              <td style="text-align:right">
+                  1,055<br/>
+              </td>
+              <td style="text-align:right">
+                  5<br/>
+              </td>
+              <td>IL-33</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A156</td>
+              <td>Virus_family</td>
+              <td style="text-align:right">
+                  1,119<br/>
+              </td>
+              <td style="text-align:right">
+                  11<br/>
+              </td>
+              <td>coronavirus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A157</td>
+              <td>Cell</td>
+              <td style="text-align:right">
+                  0<br/>
+              </td>
+              <td style="text-align:right">
+                  10<br/>
+              </td>
+              <td>Mast cells</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A158</td>
+              <td>Cell</td>
+              <td style="text-align:right">
+                  658<br/>
+              </td>
+              <td style="text-align:right">
+                  12<br/>
+              </td>
+              <td>immune cells</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A159</td>
+              <td>Cell</td>
+              <td style="text-align:right">
+                  681<br/>
+              </td>
+              <td style="text-align:right">
+                  10<br/>
+              </td>
+              <td>mast cells</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A160</td>
+              <td>Cell</td>
+              <td style="text-align:right">
+                  693<br/>
+              </td>
+              <td style="text-align:right">
+                  3<br/>
+              </td>
+              <td>MCs</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A161</td>
+              <td>Cell</td>
+              <td style="text-align:right">
+                  860<br/>
+              </td>
+              <td style="text-align:right">
+                  3<br/>
+              </td>
+              <td>MCs</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A162</td>
+              <td>Chemical</td>
+              <td style="text-align:right">
+                  926<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>histamine</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A164</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  282<br/>
+              </td>
+              <td style="text-align:right">
+                  3<br/>
+              </td>
+              <td>man</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32013309">32013309</a></td>
+              <td>A165</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  289<br/>
+              </td>
+              <td style="text-align:right">
+                  3<br/>
+              </td>
+              <td>man</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32007643">32007643</a></td>
+              <td>A104</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  59<br/>
+              </td>
+              <td style="text-align:right">
+                  17<br/>
+              </td>
+              <td>novel coronavirus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32007643">32007643</a></td>
+              <td>A105</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  78<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>2019-nCoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32007643">32007643</a></td>
+              <td>A106</td>
+              <td>Disease_COVID-19</td>
+              <td style="text-align:right">
+                  215<br/>
+              </td>
+              <td style="text-align:right">
+                  39<br/>
+              </td>
+              <td>novel coronavirus (2019-nCoV) pneumonia</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32007643">32007643</a></td>
+              <td>A107</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  444<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>2019-nCoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32007643">32007643</a></td>
+              <td>A108</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  604<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>2019-nCoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32007643">32007643</a></td>
+              <td>A109</td>
+              <td>Disease_other</td>
+              <td style="text-align:right">
+                  841<br/>
+              </td>
+              <td style="text-align:right">
+                  20<br/>
+              </td>
+              <td>coronavirus diseases</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32007643">32007643</a></td>
+              <td>A110</td>
+              <td>Disease_other</td>
+              <td style="text-align:right">
+                  863<br/>
+              </td>
+              <td style="text-align:right">
+                  4<br/>
+              </td>
+              <td>MERS</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32007643">32007643</a></td>
+              <td>A111</td>
+              <td>Disease_other</td>
+              <td style="text-align:right">
+                  872<br/>
+              </td>
+              <td style="text-align:right">
+                  4<br/>
+              </td>
+              <td>SARS</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32007643">32007643</a></td>
+              <td>A112</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  1,282<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>2019-nCoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32007643">32007643</a></td>
+              <td>A113</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  1,393<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>2019-nCoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32036774">32036774</a></td>
+              <td>A114</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  0<br/>
+              </td>
+              <td style="text-align:right">
+                  26<br/>
+              </td>
+              <td>Emerging novel coronavirus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32036774">32036774</a></td>
+              <td>A115</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  28<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>2019-nCoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32036774">32036774</a></td>
+              <td>A116</td>
+              <td>Virus_family</td>
+              <td style="text-align:right">
+                  132<br/>
+              </td>
+              <td style="text-align:right">
+                  13<br/>
+              </td>
+              <td>Coronaviruses</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32036774">32036774</a></td>
+              <td>A117</td>
+              <td>Disease_other</td>
+              <td style="text-align:right">
+                  181<br/>
+              </td>
+              <td style="text-align:right">
+                  11<br/>
+              </td>
+              <td>respiratory</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32036774">32036774</a></td>
+              <td>A118</td>
+              <td>Disease_other</td>
+              <td style="text-align:right">
+                  194<br/>
+              </td>
+              <td style="text-align:right">
+                  7<br/>
+              </td>
+              <td>enteric</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32036774">32036774</a></td>
+              <td>A119</td>
+              <td>Disease_other</td>
+              <td style="text-align:right">
+                  206<br/>
+              </td>
+              <td style="text-align:right">
+                  19<br/>
+              </td>
+              <td>systemic infections</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32036774">32036774</a></td>
+              <td>A120</td>
+              <td>Virus_family</td>
+              <td style="text-align:right">
+                  319<br/>
+              </td>
+              <td style="text-align:right">
+                  13<br/>
+              </td>
+              <td>coronaviruses</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32036774">32036774</a></td>
+              <td>A121</td>
+              <td>Virus_other</td>
+              <td style="text-align:right">
+                  366<br/>
+              </td>
+              <td style="text-align:right">
+                  45<br/>
+              </td>
+              <td>Severe Acute Respiratory Syndrome coronavirus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32036774">32036774</a></td>
+              <td>A122</td>
+              <td>Virus_other</td>
+              <td style="text-align:right">
+                  413<br/>
+              </td>
+              <td style="text-align:right">
+                  8<br/>
+              </td>
+              <td>SARS-CoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32036774">32036774</a></td>
+              <td>A123</td>
+              <td>Virus_other</td>
+              <td style="text-align:right">
+                  458<br/>
+              </td>
+              <td style="text-align:right">
+                  36<br/>
+              </td>
+              <td>Middle East Respiratory Syndrome CoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32036774">32036774</a></td>
+              <td>A124</td>
+              <td>Virus_other</td>
+              <td style="text-align:right">
+                  496<br/>
+              </td>
+              <td style="text-align:right">
+                  8<br/>
+              </td>
+              <td>MERS-CoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32036774">32036774</a></td>
+              <td>A125</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  507<br/>
+              </td>
+              <td style="text-align:right">
+                  23<br/>
+              </td>
+              <td>This decade&#x27;s first CoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32036774">32036774</a></td>
+              <td>A126</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  538<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>2019-nCoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32036774">32036774</a></td>
+              <td>A127</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  1,034<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>2019-nCoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32036774">32036774</a></td>
+              <td>A128</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  1,135<br/>
+              </td>
+              <td style="text-align:right">
+                  4<br/>
+              </td>
+              <td>nCoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32036774">32036774</a></td>
+              <td>A129</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  1,110<br/>
+              </td>
+              <td style="text-align:right">
+                  11<br/>
+              </td>
+              <td>novel virus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32036774">32036774</a></td>
+              <td>A130</td>
+              <td>Virus_family</td>
+              <td style="text-align:right">
+                  1,207<br/>
+              </td>
+              <td style="text-align:right">
+                  7<br/>
+              </td>
+              <td>viruses</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32036774">32036774</a></td>
+              <td>A131</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  1,281<br/>
+              </td>
+              <td style="text-align:right">
+                  5<br/>
+              </td>
+              <td>virus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32036774">32036774</a></td>
+              <td>A132</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  1,423<br/>
+              </td>
+              <td style="text-align:right">
+                  5<br/>
+              </td>
+              <td>virus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32036774">32036774</a></td>
+              <td>A133</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  835<br/>
+              </td>
+              <td style="text-align:right">
+                  5<br/>
+              </td>
+              <td>virus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32036774">32036774</a></td>
+              <td>A163</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  261<br/>
+              </td>
+              <td style="text-align:right">
+                  3<br/>
+              </td>
+              <td>man</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32036774">32036774</a></td>
+              <td>A166</td>
+              <td>Species_other</td>
+              <td style="text-align:right">
+                  266<br/>
+              </td>
+              <td style="text-align:right">
+                  7<br/>
+              </td>
+              <td>mammals</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32036774">32036774</a></td>
+              <td>A168</td>
+              <td>Species_other</td>
+              <td style="text-align:right">
+                  275<br/>
+              </td>
+              <td style="text-align:right">
+                  4<br/>
+              </td>
+              <td>fish</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32036774">32036774</a></td>
+              <td>A169</td>
+              <td>Species_other</td>
+              <td style="text-align:right">
+                  285<br/>
+              </td>
+              <td style="text-align:right">
+                  5<br/>
+              </td>
+              <td>avian</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32036774">32036774</a></td>
+              <td>A170</td>
+              <td>Species_other</td>
+              <td style="text-align:right">
+                  998<br/>
+              </td>
+              <td style="text-align:right">
+                  4<br/>
+              </td>
+              <td>bats</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31992388">31992388</a></td>
+              <td>A134</td>
+              <td>Disease_COVID-19</td>
+              <td style="text-align:right">
+                  73<br/>
+              </td>
+              <td style="text-align:right">
+                  28<br/>
+              </td>
+              <td>novel coronavirus infections</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31992388">31992388</a></td>
+              <td>A135</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  144<br/>
+              </td>
+              <td style="text-align:right">
+                  17<br/>
+              </td>
+              <td>novel coronavirus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31992388">31992388</a></td>
+              <td>A136</td>
+              <td>Disease_COVID-19</td>
+              <td style="text-align:right">
+                  182<br/>
+              </td>
+              <td style="text-align:right">
+                  32<br/>
+              </td>
+              <td>severe acute respiratory disease</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31992388">31992388</a></td>
+              <td>A137</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  163<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>2019-nCoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32020836">32020836</a></td>
+              <td>A86</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  37<br/>
+              </td>
+              <td style="text-align:right">
+                  23<br/>
+              </td>
+              <td>novel human coronavirus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32020836">32020836</a></td>
+              <td>A87</td>
+              <td>Disease_other</td>
+              <td style="text-align:right">
+                  81<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>pneumonia</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32020836">32020836</a></td>
+              <td>A88</td>
+              <td>Disease_other</td>
+              <td style="text-align:right">
+                  164<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>pneumonia</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32020836">32020836</a></td>
+              <td>A89</td>
+              <td>Disease_other</td>
+              <td style="text-align:right">
+                  344<br/>
+              </td>
+              <td style="text-align:right">
+                  21<br/>
+              </td>
+              <td>respiratory syndromes</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32020836">32020836</a></td>
+              <td>A90</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  477<br/>
+              </td>
+              <td style="text-align:right">
+                  5<br/>
+              </td>
+              <td>fever</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32020836">32020836</a></td>
+              <td>A91</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  484<br/>
+              </td>
+              <td style="text-align:right">
+                  5<br/>
+              </td>
+              <td>cough</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32020836">32020836</a></td>
+              <td>A92</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  761<br/>
+              </td>
+              <td style="text-align:right">
+                  17<br/>
+              </td>
+              <td>novel coronavirus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32020836">32020836</a></td>
+              <td>A93</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  786<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>2019-nCoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32020836">32020836</a></td>
+              <td>A94</td>
+              <td>Virus_family</td>
+              <td style="text-align:right">
+                  1,131<br/>
+              </td>
+              <td style="text-align:right">
+                  13<br/>
+              </td>
+              <td>β-coronavirus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32020836">32020836</a></td>
+              <td>A95</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  1,189<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>2019-nCoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32020836">32020836</a></td>
+              <td>A96</td>
+              <td>Virus_family</td>
+              <td style="text-align:right">
+                  1,211<br/>
+              </td>
+              <td style="text-align:right">
+                  13<br/>
+              </td>
+              <td>coronaviruses</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32020836">32020836</a></td>
+              <td>A97</td>
+              <td>Virus_family</td>
+              <td style="text-align:right">
+                  1,226<br/>
+              </td>
+              <td style="text-align:right">
+                  4<br/>
+              </td>
+              <td>CoVs</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32020836">32020836</a></td>
+              <td>A98</td>
+              <td>Virus_other</td>
+              <td style="text-align:right">
+                  1,335<br/>
+              </td>
+              <td style="text-align:right">
+                  33<br/>
+              </td>
+              <td>bat coronavirus strain BtCoV/4991</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32020836">32020836</a></td>
+              <td>A99</td>
+              <td>Virus_other</td>
+              <td style="text-align:right">
+                  1,480<br/>
+              </td>
+              <td style="text-align:right">
+                  37<br/>
+              </td>
+              <td>bat coronavirus strain bat-SL-CoVZC45</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32020836">32020836</a></td>
+              <td>A100</td>
+              <td>Virus_other</td>
+              <td style="text-align:right">
+                  1,522<br/>
+              </td>
+              <td style="text-align:right">
+                  15<br/>
+              </td>
+              <td>bat-SL-CoVZXC21</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32020836">32020836</a></td>
+              <td>A101</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  1,609<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>2019-nCoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32020836">32020836</a></td>
+              <td>A102</td>
+              <td>Virus_family</td>
+              <td style="text-align:right">
+                  1,642<br/>
+              </td>
+              <td style="text-align:right">
+                  3<br/>
+              </td>
+              <td>CoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32020836">32020836</a></td>
+              <td>A103</td>
+              <td>Protein</td>
+              <td style="text-align:right">
+                  1,407<br/>
+              </td>
+              <td style="text-align:right">
+                  4<br/>
+              </td>
+              <td>RdRp</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32020836">32020836</a></td>
+              <td>A171</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  315<br/>
+              </td>
+              <td style="text-align:right">
+                  8<br/>
+              </td>
+              <td>patients</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32020836">32020836</a></td>
+              <td>A172</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  426<br/>
+              </td>
+              <td style="text-align:right">
+                  8<br/>
+              </td>
+              <td>patients</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32020836">32020836</a></td>
+              <td>A173</td>
+              <td>Species_other</td>
+              <td style="text-align:right">
+                  1,247<br/>
+              </td>
+              <td style="text-align:right">
+                  11<br/>
+              </td>
+              <td>Rhinolophus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32020836">32020836</a></td>
+              <td>A174</td>
+              <td>Species_other</td>
+              <td style="text-align:right">
+                  1,260<br/>
+              </td>
+              <td style="text-align:right">
+                  14<br/>
+              </td>
+              <td>Horseshoe bats</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32020836">32020836</a></td>
+              <td>A175</td>
+              <td>Protein</td>
+              <td style="text-align:right">
+                  1,570<br/>
+              </td>
+              <td style="text-align:right">
+                  8<br/>
+              </td>
+              <td>ORF1a/1b</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32020836">32020836</a></td>
+              <td>A176</td>
+              <td>Protein</td>
+              <td style="text-align:right">
+                  1,580<br/>
+              </td>
+              <td style="text-align:right">
+                  1<br/>
+              </td>
+              <td>S</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32020836">32020836</a></td>
+              <td>A177</td>
+              <td>Protein</td>
+              <td style="text-align:right">
+                  1,587<br/>
+              </td>
+              <td style="text-align:right">
+                  1<br/>
+              </td>
+              <td>N</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32020836">32020836</a></td>
+              <td>A178</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  1,687<br/>
+              </td>
+              <td style="text-align:right">
+                  6<br/>
+              </td>
+              <td>humans</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32015508">32015508</a></td>
+              <td>A138</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  2<br/>
+              </td>
+              <td style="text-align:right">
+                  15<br/>
+              </td>
+              <td>new coronavirus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32015508">32015508</a></td>
+              <td>A139</td>
+              <td>Disease_other</td>
+              <td style="text-align:right">
+                  40<br/>
+              </td>
+              <td style="text-align:right">
+                  19<br/>
+              </td>
+              <td>respiratory disease</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32015508">32015508</a></td>
+              <td>A140</td>
+              <td>Disease_other</td>
+              <td style="text-align:right">
+                  79<br/>
+              </td>
+              <td style="text-align:right">
+                  19<br/>
+              </td>
+              <td>infectious diseases</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32015508">32015508</a></td>
+              <td>A141</td>
+              <td>Disease_other</td>
+              <td style="text-align:right">
+                  108<br/>
+              </td>
+              <td style="text-align:right">
+                  33<br/>
+              </td>
+              <td>severe acute respiratory syndrome</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32015508">32015508</a></td>
+              <td>A142</td>
+              <td>Disease_other</td>
+              <td style="text-align:right">
+                  143<br/>
+              </td>
+              <td style="text-align:right">
+                  4<br/>
+              </td>
+              <td>SARS</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32015508">32015508</a></td>
+              <td>A143</td>
+              <td>Disease_other</td>
+              <td style="text-align:right">
+                  153<br/>
+              </td>
+              <td style="text-align:right">
+                  18<br/>
+              </td>
+              <td>Zika virus disease</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32015508">32015508</a></td>
+              <td>A144</td>
+              <td>Disease_COVID-19</td>
+              <td style="text-align:right">
+                  341<br/>
+              </td>
+              <td style="text-align:right">
+                  26<br/>
+              </td>
+              <td>severe respiratory disease</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32015508">32015508</a></td>
+              <td>A145</td>
+              <td>Disease_COVID-19</td>
+              <td style="text-align:right">
+                  822<br/>
+              </td>
+              <td style="text-align:right">
+                  20<br/>
+              </td>
+              <td>respiratory syndrome</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32015508">32015508</a></td>
+              <td>A146</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  857<br/>
+              </td>
+              <td style="text-align:right">
+                  5<br/>
+              </td>
+              <td>fever</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32015508">32015508</a></td>
+              <td>A147</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  864<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>dizziness</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32015508">32015508</a></td>
+              <td>A148</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  880<br/>
+              </td>
+              <td style="text-align:right">
+                  5<br/>
+              </td>
+              <td>cough</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32015508">32015508</a></td>
+              <td>A149</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  989<br/>
+              </td>
+              <td style="text-align:right">
+                  50<br/>
+              </td>
+              <td>new RNA virus strain from the family Coronaviridae</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32015508">32015508</a></td>
+              <td>A150</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  1,066<br/>
+              </td>
+              <td style="text-align:right">
+                  24<br/>
+              </td>
+              <td>&#x27;WH-Human 1&#x27; coronavirus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32015508">32015508</a></td>
+              <td>A151</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  1,126<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>2019-nCoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32015508">32015508</a></td>
+              <td>A152</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  1,229<br/>
+              </td>
+              <td style="text-align:right">
+                  5<br/>
+              </td>
+              <td>virus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32015508">32015508</a></td>
+              <td>A153</td>
+              <td>Virus_family</td>
+              <td style="text-align:right">
+                  1,304<br/>
+              </td>
+              <td style="text-align:right">
+                  23<br/>
+              </td>
+              <td>SARS-like coronaviruses</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32015508">32015508</a></td>
+              <td>A154</td>
+              <td>Virus_family</td>
+              <td style="text-align:right">
+                  1,335<br/>
+              </td>
+              <td style="text-align:right">
+                  15<br/>
+              </td>
+              <td>Betacoronavirus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32015508">32015508</a></td>
+              <td>A155</td>
+              <td>Virus_family</td>
+              <td style="text-align:right">
+                  1,361<br/>
+              </td>
+              <td style="text-align:right">
+                  12<br/>
+              </td>
+              <td>Sarbecovirus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32015508">32015508</a></td>
+              <td>A156</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  501<br/>
+              </td>
+              <td style="text-align:right">
+                  7<br/>
+              </td>
+              <td>patient</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32015508">32015508</a></td>
+              <td>A157</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  681<br/>
+              </td>
+              <td style="text-align:right">
+                  7<br/>
+              </td>
+              <td>patient</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32015508">32015508</a></td>
+              <td>A158</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  699<br/>
+              </td>
+              <td style="text-align:right">
+                  6<br/>
+              </td>
+              <td>worker</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32015508">32015508</a></td>
+              <td>A159</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  968<br/>
+              </td>
+              <td style="text-align:right">
+                  7<br/>
+              </td>
+              <td>patient</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32015508">32015508</a></td>
+              <td>A160</td>
+              <td>Species_other</td>
+              <td style="text-align:right">
+                  1,409<br/>
+              </td>
+              <td style="text-align:right">
+                  4<br/>
+              </td>
+              <td>bats</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32015508">32015508</a></td>
+              <td>A161</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  1,530<br/>
+              </td>
+              <td style="text-align:right">
+                  6<br/>
+              </td>
+              <td>humans</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A10</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  44<br/>
+              </td>
+              <td style="text-align:right">
+                  22<br/>
+              </td>
+              <td>2019 novel coronavirus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A7</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  116<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>pneumonia</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A8</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  165<br/>
+              </td>
+              <td style="text-align:right">
+                  21<br/>
+              </td>
+              <td>novel betacoronavirus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A9</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  192<br/>
+              </td>
+              <td style="text-align:right">
+                  22<br/>
+              </td>
+              <td>2019 novel coronavirus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A11</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  216<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>2019-nCoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A12</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  406<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>2019-nCoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A13</td>
+              <td>Disease_COVID-19</td>
+              <td style="text-align:right">
+                  548<br/>
+              </td>
+              <td style="text-align:right">
+                  19<br/>
+              </td>
+              <td>2019-nCoV infection</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A14</td>
+              <td>Disease_COVID-19</td>
+              <td style="text-align:right">
+                  1,155<br/>
+              </td>
+              <td style="text-align:right">
+                  19<br/>
+              </td>
+              <td>2019-nCoV infection</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A15</td>
+              <td>Disease_other</td>
+              <td style="text-align:right">
+                  1,294<br/>
+              </td>
+              <td style="text-align:right">
+                  8<br/>
+              </td>
+              <td>diabetes</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A16</td>
+              <td>Disease_other</td>
+              <td style="text-align:right">
+                  1,318<br/>
+              </td>
+              <td style="text-align:right">
+                  12<br/>
+              </td>
+              <td>hypertension</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A17</td>
+              <td>Disease_other</td>
+              <td style="text-align:right">
+                  1,348<br/>
+              </td>
+              <td style="text-align:right">
+                  22<br/>
+              </td>
+              <td>cardiovascular disease</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A18</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  1,565<br/>
+              </td>
+              <td style="text-align:right">
+                  5<br/>
+              </td>
+              <td>fever</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A19</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  1,598<br/>
+              </td>
+              <td style="text-align:right">
+                  5<br/>
+              </td>
+              <td>cough</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A20</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  1,620<br/>
+              </td>
+              <td style="text-align:right">
+                  7<br/>
+              </td>
+              <td>myalgia</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A21</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  1,631<br/>
+              </td>
+              <td style="text-align:right">
+                  7<br/>
+              </td>
+              <td>fatigue</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A22</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  1,677<br/>
+              </td>
+              <td style="text-align:right">
+                  17<br/>
+              </td>
+              <td>sputum production</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A23</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  1,713<br/>
+              </td>
+              <td style="text-align:right">
+                  8<br/>
+              </td>
+              <td>headache</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A24</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  1,742<br/>
+              </td>
+              <td style="text-align:right">
+                  11<br/>
+              </td>
+              <td>haemoptysis</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A26</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  1,776<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>diarrhoea</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A27</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  1,804<br/>
+              </td>
+              <td style="text-align:right">
+                  8<br/>
+              </td>
+              <td>Dyspnoea</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A28</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  1,885<br/>
+              </td>
+              <td style="text-align:right">
+                  8<br/>
+              </td>
+              <td>dyspnoea</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A29</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  1,948<br/>
+              </td>
+              <td style="text-align:right">
+                  11<br/>
+              </td>
+              <td>lymphopenia</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A30</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  1,981<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>pneumonia</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A31</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  2,050<br/>
+              </td>
+              <td style="text-align:right">
+                  35<br/>
+              </td>
+              <td>acute respiratory distress syndrome</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A32</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  2,098<br/>
+              </td>
+              <td style="text-align:right">
+                  8<br/>
+              </td>
+              <td>RNAaemia</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A33</td>
+              <td>Symptom</td>
+              <td style="text-align:right">
+                  2,120<br/>
+              </td>
+              <td style="text-align:right">
+                  20<br/>
+              </td>
+              <td>acute cardiac injury</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A34</td>
+              <td>Disease_other</td>
+              <td style="text-align:right">
+                  2,158<br/>
+              </td>
+              <td style="text-align:right">
+                  19<br/>
+              </td>
+              <td>secondary infection</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A35</td>
+              <td>Protein</td>
+              <td style="text-align:right">
+                  2,327<br/>
+              </td>
+              <td style="text-align:right">
+                  3<br/>
+              </td>
+              <td>IL2</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A36</td>
+              <td>Protein</td>
+              <td style="text-align:right">
+                  2,332<br/>
+              </td>
+              <td style="text-align:right">
+                  3<br/>
+              </td>
+              <td>IL7</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A37</td>
+              <td>Protein</td>
+              <td style="text-align:right">
+                  2,337<br/>
+              </td>
+              <td style="text-align:right">
+                  4<br/>
+              </td>
+              <td>IL10</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A38</td>
+              <td>Protein</td>
+              <td style="text-align:right">
+                  2,343<br/>
+              </td>
+              <td style="text-align:right">
+                  4<br/>
+              </td>
+              <td>GSCF</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A39</td>
+              <td>Protein</td>
+              <td style="text-align:right">
+                  2,349<br/>
+              </td>
+              <td style="text-align:right">
+                  4<br/>
+              </td>
+              <td>IP10</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A40</td>
+              <td>Protein</td>
+              <td style="text-align:right">
+                  2,355<br/>
+              </td>
+              <td style="text-align:right">
+                  4<br/>
+              </td>
+              <td>MCP1</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A41</td>
+              <td>Protein</td>
+              <td style="text-align:right">
+                  2,361<br/>
+              </td>
+              <td style="text-align:right">
+                  5<br/>
+              </td>
+              <td>MIP1A</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A42</td>
+              <td>Protein</td>
+              <td style="text-align:right">
+                  2,372<br/>
+              </td>
+              <td style="text-align:right">
+                  4<br/>
+              </td>
+              <td>TNFα</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A43</td>
+              <td>Disease_COVID-19</td>
+              <td style="text-align:right">
+                  2,398<br/>
+              </td>
+              <td style="text-align:right">
+                  19<br/>
+              </td>
+              <td>2019-nCoV infection</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A44</td>
+              <td>Disease_other</td>
+              <td style="text-align:right">
+                  2,437<br/>
+              </td>
+              <td style="text-align:right">
+                  26<br/>
+              </td>
+              <td>severe respiratory illness</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A45</td>
+              <td>Virus_other</td>
+              <td style="text-align:right">
+                  2,475<br/>
+              </td>
+              <td style="text-align:right">
+                  45<br/>
+              </td>
+              <td>severe acute respiratory syndrome coronavirus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A46</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  21<br/>
+              </td>
+              <td style="text-align:right">
+                  8<br/>
+              </td>
+              <td>patients</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A47</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  359<br/>
+              </td>
+              <td style="text-align:right">
+                  8<br/>
+              </td>
+              <td>patients</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A48</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  382<br/>
+              </td>
+              <td style="text-align:right">
+                  8<br/>
+              </td>
+              <td>patients</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A49</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  513<br/>
+              </td>
+              <td style="text-align:right">
+                  8<br/>
+              </td>
+              <td>patients</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A50</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  851<br/>
+              </td>
+              <td style="text-align:right">
+                  8<br/>
+              </td>
+              <td>patients</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A51</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  807<br/>
+              </td>
+              <td style="text-align:right">
+                  11<br/>
+              </td>
+              <td>Researchers</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A52</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  869<br/>
+              </td>
+              <td style="text-align:right">
+                  8<br/>
+              </td>
+              <td>families</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A53</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  961<br/>
+              </td>
+              <td style="text-align:right">
+                  8<br/>
+              </td>
+              <td>patients</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A54</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  1,095<br/>
+              </td>
+              <td style="text-align:right">
+                  8<br/>
+              </td>
+              <td>patients</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A55</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  1,197<br/>
+              </td>
+              <td style="text-align:right">
+                  8<br/>
+              </td>
+              <td>patients</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A56</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  1,211<br/>
+              </td>
+              <td style="text-align:right">
+                  3<br/>
+              </td>
+              <td>men</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A57</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  1,442<br/>
+              </td>
+              <td style="text-align:right">
+                  8<br/>
+              </td>
+              <td>patients</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A58</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  1,587<br/>
+              </td>
+              <td style="text-align:right">
+                  8<br/>
+              </td>
+              <td>patients</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A59</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  1,841<br/>
+              </td>
+              <td style="text-align:right">
+                  8<br/>
+              </td>
+              <td>patients</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A60</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  1,935<br/>
+              </td>
+              <td style="text-align:right">
+                  8<br/>
+              </td>
+              <td>patients</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A61</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  1,968<br/>
+              </td>
+              <td style="text-align:right">
+                  8<br/>
+              </td>
+              <td>patients</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31986264">31986264</a></td>
+              <td>A62</td>
+              <td>Species_human</td>
+              <td style="text-align:right">
+                  2,201<br/>
+              </td>
+              <td style="text-align:right">
+                  8<br/>
+              </td>
+              <td>patients</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32029004">32029004</a></td>
+              <td>A46</td>
+              <td>Disease_COVID-19</td>
+              <td style="text-align:right">
+                  60<br/>
+              </td>
+              <td style="text-align:right">
+                  53<br/>
+              </td>
+              <td>2019 novel coronavirus (2019-nCoV) infected pneumonia</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32029004">32029004</a></td>
+              <td>A47</td>
+              <td>Disease_COVID-19</td>
+              <td style="text-align:right">
+                  154<br/>
+              </td>
+              <td style="text-align:right">
+                  24<br/>
+              </td>
+              <td>new type viral pneumonia</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32029004">32029004</a></td>
+              <td>A48</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  236<br/>
+              </td>
+              <td style="text-align:right">
+                  22<br/>
+              </td>
+              <td>2019 novel coronavirus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32029004">32029004</a></td>
+              <td>A49</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  260<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>2019-nCoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32029004">32029004</a></td>
+              <td>A50</td>
+              <td>Disease_other</td>
+              <td style="text-align:right">
+                  366<br/>
+              </td>
+              <td style="text-align:right">
+                  19<br/>
+              </td>
+              <td>respiratory disease</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32029004">32029004</a></td>
+              <td>A51</td>
+              <td>Disease_COVID-19</td>
+              <td style="text-align:right">
+                  594<br/>
+              </td>
+              <td style="text-align:right">
+                  28<br/>
+              </td>
+              <td>2019-nCoV infected pneumonia</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32029004">32029004</a></td>
+              <td>A52</td>
+              <td>Disease_other</td>
+              <td style="text-align:right">
+                  1,124<br/>
+              </td>
+              <td style="text-align:right">
+                  20<br/>
+              </td>
+              <td>nosocomial infection</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32029004">32029004</a></td>
+              <td>A53</td>
+              <td>Disease_COVID-19</td>
+              <td style="text-align:right">
+                  1,196<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>2019-nCoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32029004">32029004</a></td>
+              <td>A54</td>
+              <td>Disease_COVID-19</td>
+              <td style="text-align:right">
+                  1,294<br/>
+              </td>
+              <td style="text-align:right">
+                  28<br/>
+              </td>
+              <td>2019-nCoV infected pneumonia</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32029004">32029004</a></td>
+              <td>A55</td>
+              <td>Disease_COVID-19</td>
+              <td style="text-align:right">
+                  1,373<br/>
+              </td>
+              <td style="text-align:right">
+                  20<br/>
+              </td>
+              <td>2019-nCoV infections</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/32029004">32029004</a></td>
+              <td>A56</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  1,633<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>2019-nCoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31996494">31996494</a></td>
+              <td>A55</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  31<br/>
+              </td>
+              <td style="text-align:right">
+                  20<br/>
+              </td>
+              <td>2019-new coronavirus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31996494">31996494</a></td>
+              <td>A56</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  53<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>2019-nCoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31996494">31996494</a></td>
+              <td>A57</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  117<br/>
+              </td>
+              <td style="text-align:right">
+                  20<br/>
+              </td>
+              <td>2019-new coronavirus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31996494">31996494</a></td>
+              <td>A58</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  139<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>2019-nCoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31996494">31996494</a></td>
+              <td>A59</td>
+              <td>Virus_family</td>
+              <td style="text-align:right">
+                  294<br/>
+              </td>
+              <td style="text-align:right">
+                  11<br/>
+              </td>
+              <td>coronavirus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31996494">31996494</a></td>
+              <td>A60</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  410<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>2019-nCoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31996494">31996494</a></td>
+              <td>A61</td>
+              <td>Virus_family</td>
+              <td style="text-align:right">
+                  719<br/>
+              </td>
+              <td style="text-align:right">
+                  13<br/>
+              </td>
+              <td>coronaviruses</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31996494">31996494</a></td>
+              <td>A62</td>
+              <td>Virus_family</td>
+              <td style="text-align:right">
+                  792<br/>
+              </td>
+              <td style="text-align:right">
+                  26<br/>
+              </td>
+              <td>human pathogen coronavirus</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31996494">31996494</a></td>
+              <td>A63</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  1,160<br/>
+              </td>
+              <td style="text-align:right">
+                  9<br/>
+              </td>
+              <td>2019-nCoV</td>
+            </tr>
+            <tr>
+              <td><a href="/collections/627/documents/31996494">31996494</a></td>
+              <td>A64</td>
+              <td>Virus_SARS-CoV-2</td>
+              <td style="text-align:right">
+                  1,223<br/>
+              </td>
+              <td style="text-align:right">
+                  10<br/>
+              </td>
+              <td>2019- nCoV</td>
+            </tr>
+      </table>
+  </div>
+</div>
+
+
+<div class="modal hide fade" id="queryModal">
+    <div class="modal-header">
+      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+      <h3>Add Documents</h3>
+    </div>
+    <div class="modal-body">
+        <form accept-charset="UTF-8" action="/collections/627/documents/new" class="form-inline" method="get" style="margin:0"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+          <h4>Search Documents</h4>
+          <div style="margin-left:20px;">
+            Publication Date in <div id="reportrange" class="range-picker">
+                <i class="fa fa-calendar fa-lg"></i>
+                <span>2022/01/16 ~ 2022/02/16</span> <b class="caret"></b>
+            </div>
+            <input type="hidden" name="date" value="" id="range-date">
+            <br>
+
+            <input type="text" name="term" value="" autofocus="true" class="span4" placeholder="Enter a query">
+            <input type="submit" value="Query" class="btn btn-success">
+            <br>
+            <div class="alert alert-block alert-info" style="margin-top:5px;font-size:0.8em" id="query-help">
+  Users can enter exactly the same query format used in PubMed. The followings are examples of possible queries:
+  <ul>
+    <li>PTEN (Search PTEN in all fields)</li>
+    <li>Alzheimer[title] (Search Alzheimer in titles)</li>
+  </ul>
+</div>
+          </div>
+</form>      <hr>
+        <form accept-charset="UTF-8" action="/collections/627/documents/new" class="form-inline" enctype="multipart/form-data" id="form_pmid_upload" method="post" style="margin:0"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="PxonGRLt8RIMW9mnIjHOW4FQcFVNOsc+ZbUHNTUsU5o=" /></div>
+          <h4>Upload PMID List from File</h4>
+          <div style="margin-left:20px;">
+            <input type="file" id="input_upload_pmid" name="upload" placeholder="PMID List">
+            <input type="submit" value="Upload" class="btn btn-primary">
+          </div>
+</form>    </div>
+    <div class="modal-footer">
+      <a href="#" data-dismiss="modal" aria-hidden="true" class="btn">Close</a>
+    </div>
+</div>
+
+<script type="text/javascript">
+$("#form_pmid_upload").on("submit", function() {
+  var filename = $("#input_upload_pmid").val();
+  if (!filename || filename.length == 0) {
+    alert("Please select a file");
+    return false;
+  }
+  return true;
+});
+$('#reportrange').daterangepicker(
+    {
+      ranges: {
+         'Last 30 Days': [moment().subtract('days', 29), moment()],
+         'This Month': [moment().startOf('month'), moment().endOf('month')],
+         'Last Month': [moment().subtract('month', 1).startOf('month'), moment().subtract('month', 1).endOf('month')],
+         'This Year': [moment().startOf('year'), moment().endOf('year')],
+         'All Range': [moment("00010101", "YYYYMMDD"), moment()]
+      }
+    },
+    function(start, end) {
+        $("#range-date").val(start.format('YYYY/MM/DD') + ':' + end.format('YYYY/MM/DD'));
+        $('#reportrange span').html(start.format('YYYY/MM/DD') + ' ~ ' + end.format('YYYY/MM/DD'));
+    }
+);
+$("#reportrange").data("daterangepicker").cb(moment().startOf('month'), moment().endOf('month'));
+</script>
+
+<div class="modal hide fade" id="uploadModal">
+  <form accept-charset="UTF-8" action="/collections/627/upload" enctype="multipart/form-data" id="bioc_upload_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="PxonGRLt8RIMW9mnIjHOW4FQcFVNOsc+ZbUHNTUsU5o=" /></div>
+    <div class="modal-header">
+      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+      <h3 id="myModalLabel">Select a BioC File</h3>
+    </div>
+    <div class="modal-body">
+      <p>
+        <input type="file" name="upload" placeholder="BioC file">
+      </p>
+    </div>
+    <div class="modal-footer">
+      <a href="#" class="btn" data-dismiss="modal" >Close</a>
+      <input class="btn btn-primary" data-disable-with="Uploading..." name="commit" type="submit" value="Upload" />
+    </div>
+</form></div>
+<script type="text/javascript">
+$("#bioc_upload_form").on("submit", function() {
+  var filename = $("#bioc_upload_form input[type=file]").val();
+  if (!filename || filename.length == 0) {
+    alert("Please select a file");
+    return false;
+  }
+  return true;
+});
+</script>
+
+</div> <!-- /container -->
+
+<footer class="footer">
+  <div class="container">
+    <div class="comment">
+      Copyright &copy; 2013 <b>BioQRator</b>: <a href="http://www.bioqrator.org">http://www.bioqrator.org</a>,
+      Contact us: <a href="mailto:sun.kim@nih.gov">sun.kim@nih.gov</a> <br>
+    </div>
+    <!-- <div style="text-align:center">
+      Department of Computer Engineering, College of Engineering, Myongji University, South Korea<br>
+      Department of Biomedical Informatics, Asan Medical Center, University of Ulsan College of Medicine, South Korea<br>
+      National Center for Biotechnology Information (NCBI), National Institutes of Health (NIH), USA<br>
+        
+
+    </div> -->
+  </div>
+</footer>
+</body>
+<script>
+if (/msie/.test(navigator.userAgent.toLowerCase())) {
+  $("#ie_warning").slideDown();
+}
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43557382-1', 'bioqrator.org');
+  ga('send', 'pageview');
+
+</script>
+</html>
+

@@ -1,0 +1,187 @@
+{
+    "cord_uid": "t8s4s0wo",
+    "sourcedb": "PMC",
+    "sourceid": "PMC7077245",
+    "text": "Return of the Coronavirus: 2019-nCoV. ",
+    "denotations": [
+        {
+            "id": "A01",
+            "span": {
+                "begin": 27,
+                "end": 36
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A02",
+            "span": {
+                "begin": 14,
+                "end": 25
+            },
+            "obj": "Virus_family"
+        }
+    ]
+}{
+    "cord_uid": "t8s4s0wo",
+    "sourcedb": "PMC",
+    "sourceid": "PMC7077245",
+    "text": "The emergence of a novel coronavirus (2019-nCoV) has awakened the echoes of SARS-CoV from nearly two decades ago. Yet, with technological advances and important lessons gained from previous outbreaks, perhaps the world is better equipped to deal with the most recent emergent group 2B coronavirus. ",
+    "denotations": [
+        {
+            "id": "A03",
+            "span": {
+                "begin": 76,
+                "end": 84
+            },
+            "obj": "Virus_other"
+        },
+        {
+            "id": "A04",
+            "span": {
+                "begin": 255,
+                "end": 296
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A05",
+            "span": {
+                "begin": 19,
+                "end": 36
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A06",
+            "span": {
+                "begin": 38,
+                "end": 47
+            },
+            "obj": "Virus_SARS-CoV-2"
+        }
+    ]
+}{
+    "cord_uid": "t8s4s0wo",
+    "sourcedb": "PMC",
+    "sourceid": "PMC7077245",
+    "text": "Return of the Coronavirus: 2019-nCoV. ",
+    "denotations": [
+        {
+            "id": "A01",
+            "span": {
+                "begin": 27,
+                "end": 36
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A02",
+            "span": {
+                "begin": 14,
+                "end": 25
+            },
+            "obj": "Virus_family"
+        }
+    ]
+}{
+    "cord_uid": "t8s4s0wo",
+    "sourcedb": "PMC",
+    "sourceid": "PMC7077245",
+    "text": "The emergence of a novel coronavirus (2019-nCoV) has awakened the echoes of SARS-CoV from nearly two decades ago. Yet, with technological advances and important lessons gained from previous outbreaks, perhaps the world is better equipped to deal with the most recent emergent group 2B coronavirus. ",
+    "denotations": [
+        {
+            "id": "A03",
+            "span": {
+                "begin": 76,
+                "end": 84
+            },
+            "obj": "Virus_other"
+        },
+        {
+            "id": "A04",
+            "span": {
+                "begin": 255,
+                "end": 296
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A05",
+            "span": {
+                "begin": 19,
+                "end": 36
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A06",
+            "span": {
+                "begin": 38,
+                "end": 47
+            },
+            "obj": "Virus_SARS-CoV-2"
+        }
+    ]
+}{"cord_uid": "t8s4s0wo", "sourcedb": "PMC", "sourceid": "PMC7077245", "text": "Return of the Coronavirus: 2019-nCoV. ", "denotations": [{"id": "A01", "span": {"begin": 27, "end": 36}, "obj": "Virus_SARS-CoV-2"}, {"id": "A02", "span": {"begin": 14, "end": 25}, "obj": "Virus_family"}]}{"cord_uid": "t8s4s0wo", "sourcedb": "PMC", "sourceid": "PMC7077245", "text": "The emergence of a novel coronavirus (2019-nCoV) has awakened the echoes of SARS-CoV from nearly two decades ago. Yet, with technological advances and important lessons gained from previous outbreaks, perhaps the world is better equipped to deal with the most recent emergent group 2B coronavirus. ", "denotations": [{"id": "A03", "span": {"begin": 76, "end": 84}, "obj": "Virus_other"}, {"id": "A04", "span": {"begin": 255, "end": 296}, "obj": "Virus_SARS-CoV-2"}, {"id": "A05", "span": {"begin": 19, "end": 36}, "obj": "Virus_SARS-CoV-2"}, {"id": "A06", "span": {"begin": 38, "end": 47}, "obj": "Virus_SARS-CoV-2"}]}{
+    "cord_uid": "t8s4s0wo",
+    "sourcedb": "PMC",
+    "sourceid": "PMC7077245",
+    "text": "Return of the Coronavirus: 2019-nCoV. ",
+    "denotations": [
+        {
+            "id": "A01",
+            "span": {
+                "begin": 27,
+                "end": 36
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A02",
+            "span": {
+                "begin": 14,
+                "end": 25
+            },
+            "obj": "Virus_family"
+        }
+    ]
+}{
+    "cord_uid": "t8s4s0wo",
+    "sourcedb": "PMC",
+    "sourceid": "PMC7077245",
+    "text": "The emergence of a novel coronavirus (2019-nCoV) has awakened the echoes of SARS-CoV from nearly two decades ago. Yet, with technological advances and important lessons gained from previous outbreaks, perhaps the world is better equipped to deal with the most recent emergent group 2B coronavirus. ",
+    "denotations": [
+        {
+            "id": "A03",
+            "span": {
+                "begin": 76,
+                "end": 84
+            },
+            "obj": "Virus_other"
+        },
+        {
+            "id": "A04",
+            "span": {
+                "begin": 255,
+                "end": 296
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A05",
+            "span": {
+                "begin": 19,
+                "end": 36
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A06",
+            "span": {
+                "begin": 38,
+                "end": 47
+            },
+            "obj": "Virus_SARS-CoV-2"
+        }
+    ]
+}

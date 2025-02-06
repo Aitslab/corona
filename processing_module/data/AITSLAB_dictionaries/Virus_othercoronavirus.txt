@@ -1,0 +1,17 @@
+alpha coronavirus
+beta coronavirus
+gamma coronavirus
+delta coronavirus
+alpha coronaviruses
+beta coronaviruses
+gamma coronaviruses
+delta coronaviruses
+229E
+NL63
+OC43
+HKU1
+severe acute respiratory syndrome-related coronavirus
+SARSr-CoV
+enveloped, positive-sense, single-stranded RNA viruses
+bat coronavirus
+

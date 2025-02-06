@@ -1,0 +1,240 @@
+TMPRSS2
+Transmembrane protease serine 2
+Serine protease 10
+Transmembrane protease serine 2 non-catalytic chain
+Transmembrane protease serine 2 catalytic chain
+PRSS10
+SGTA
+Small glutamine-rich tetratricopeptide repeat-containing protein alpha
+Alpha-SGT
+Vpu-binding protein
+UBP
+SGT
+SGT1
+IL6
+Interleukin-6
+IL-6
+B-cell stimulatory factor 2
+BSF-2
+CTL differentiation factor
+CDF
+Hybridoma growth factor
+Interferon beta-2
+IFN-beta-2
+IFNB2
+CTSL
+Procathepsin L
+EC 3.4.22.15
+Cathepsin L1
+Major excreted protein
+MEP
+Cathepsin L
+Cathepsin L heavy chain
+Cathepsin L light chain
+CTSL1
+IL6R
+Interleukin-6 receptor subunit alpha
+IL-6 receptor subunit alpha
+IL-6R subunit alpha
+IL-6R-alpha
+IL-6RA
+IL-6R 1
+Membrane glycoprotein 80
+gp80
+CD antigen CD126
+Soluble interleukin-6 receptor subunit alpha
+sIL6R
+FURIN
+Furin
+EC 3.4.21.75
+Dibasic-processing enzyme
+Paired basic amino acid residue-cleaving enzyme
+PACE
+FUR
+PCSK3
+ITGAL
+Integrin alpha-L
+CD11 antigen-like family member A
+Leukocyte adhesion glycoprotein LFA-1 alpha chain
+LFA-1A
+Leukocyte function-associated molecule 1 alpha chain
+CD antigen CD11a
+CD11A
+PHB
+Prohibitin
+PHB1
+BSG
+Basigin
+5F7
+Collagenase stimulatory factor
+Extracellular matrix metalloproteinase inducer
+EMMPRIN
+Hepatoma-associated antigen
+HAb18G
+Leukocyte activation antigen M6
+OK blood group antigen
+Tumor cell-derived collagenase stimulatory factor
+TCSF
+CD antigen CD147
+UNQ6505
+PRO21383
+IL6ST
+Interleukin-6 receptor subunit beta
+IL-6 receptor subunit beta
+IL-6R subunit beta
+IL-6R-beta
+IL-6RB
+CDw130
+Interleukin-6 signal transducer
+Membrane glycoprotein 130
+gp130
+Oncostatin-M receptor subunit alpha
+CD antigen CD130
+KPNA2
+Importin subunit alpha-1
+Karyopherin subunit alpha-2
+RAG cohort protein 1
+SRP1-alpha
+RCH1
+SRP1
+PPIA
+Peptidyl-prolyl cis-trans isomerase A
+PPIase A
+EC 5.2.1.8
+Cyclophilin A
+Cyclosporin A-binding protein
+Rotamase A
+N-terminally processed
+CYPA
+SMAD3
+Mothers against decapentaplegic homolog 3
+MAD homolog 3
+Mad3
+Mothers against DPP homolog 3
+hMAD-3
+JV15-2
+SMAD family member 3
+SMAD 3
+Smad3
+hSMAD3
+MADH3
+BST2
+Bone marrow stromal antigen 2
+BST-2
+HM1.24 antigen
+Tetherin
+CD antigen CD317
+IRF3
+Interferon regulatory factor 3
+IRF-3
+IL17A
+Interleukin-17A
+IL-17
+IL-17A
+Cytotoxic T-lymphocyte-associated antigen 8
+CTLA-8
+CTLA8
+IL17
+LY6E
+Lymphocyte antigen 6E
+Ly-6E
+Retinoic acid-induced gene E protein
+RIG-E
+Stem cell antigen 2
+SCA-2
+Thymic shared antigen 1
+TSA-1
+9804
+RIGE
+SCA2
+TSA1
+HIF1A
+Hypoxia-inducible factor 1-alpha
+HIF-1-alpha
+HIF1-alpha
+ARNT-interacting protein
+Basic-helix-loop-helix-PAS protein MOP1
+Class E basic helix-loop-helix protein 78
+bHLHe78
+Member of PAS protein 1
+PAS domain-containing protein 8
+BHLHE78
+MOP1
+PASD8
+MPP5
+MAGUK p55 subfamily member 5
+PALS1
+IL17RC
+Interleukin-17 receptor C
+IL-17 receptor C
+IL-17RC
+Interleukin-17 receptor homolog
+IL17Rhom
+Interleukin-17 receptor-like protein
+IL-17RL
+ZcytoR14
+UNQ6118
+PRO20040
+PRO38901
+TPCN2
+Two pore calcium channel protein 2
+Voltage-dependent calcium channel protein TPC2
+TPC2
+DDX1
+ATP-dependent RNA helicase DDX1
+EC 3.6.4.13
+DEAD box protein 1
+DEAD box protein retinoblastoma
+DBP-RB
+IL17RA
+Interleukin-17 receptor A
+IL-17 receptor A
+IL-17RA
+CDw217
+CD antigen CD217
+IL17R
+IL17F
+Interleukin-17F
+IL-17F
+Cytokine ML-1
+PHB2
+Prohibitin-2
+B-cell receptor-associated protein BAP37
+D-prohibitin
+Repressor of estrogen receptor activity
+BAP
+REA
+ACE2
+Angiotensin-converting enzyme 2
+EC 3.4.17.23
+Angiotensin-converting enzyme homolog
+ACEH
+Angiotensin-converting enzyme-related carboxypeptidase
+ACE-related carboxypeptidase
+Metalloprotease MPROT15
+Processed angiotensin-converting enzyme 2
+UNQ868
+PRO1885
+TMPRSS4
+Transmembrane protease serine 4
+Channel-activating protease 2
+CAPH2
+Membrane-type serine protease 2
+MT-SP2
+Transmembrane protease serine 4 catalytic chain
+TMPRSS3
+UNQ776
+PRO1570
+PIKFYVE
+1-phosphatidylinositol 3-phosphate 5-kinase
+Phosphatidylinositol 3-phosphate 5-kinase
+EC 2.7.1.150
+FYVE finger-containing phosphoinositide kinase
+PIKfyve
+Phosphatidylinositol 3-phosphate 5-kinase type III
+PIPkin-III
+Type III PIP kinase
+Serine-protein kinase PIKFYVE
+EC 2.7.11.1
+KIAA0981
+PIP5K3

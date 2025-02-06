@@ -1,0 +1,667 @@
+{
+    "cord_uid": "ea99j2qn",
+    "sourcedb": "PMC",
+    "sourceid": "PMC7033720",
+    "text": "RNA based mNGS approach identifies a novel human coronavirus from two individual pneumonia cases in 2019 Wuhan outbreak. ",
+    "denotations": [
+        {
+            "id": "A01",
+            "span": {
+                "begin": 37,
+                "end": 60
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A02",
+            "span": {
+                "begin": 81,
+                "end": 90
+            },
+            "obj": "Disease_other"
+        }
+    ]
+}{
+    "cord_uid": "ea99j2qn",
+    "sourcedb": "PMC",
+    "sourceid": "PMC7033720",
+    "text": "From December 2019, an outbreak of unusual pneumonia was reported in Wuhan with many cases linked to Huanan Seafood Market that sells seafood as well as live exotic animals. We investigated two patients who developed acute respiratory syndromes after independent contact history with this market. The two patients shared common clinical features including fever, cough, and multiple ground-glass opacities in the bilateral lung field with patchy infiltration. Here, we highlight the use of a low-input metagenomic next-generation sequencing (mNGS) approach on RNA extracted from bronchoalveolar lavage fluid (BALF). It rapidly identified a novel coronavirus (named 2019-nCoV according to World Health Organization announcement) which was the sole pathogens in the sample with very high abundance level (1.5% and 0.62% of total RNA sequenced). The entire viral genome is 29,881\u2005nt in length (GenBank MN988668 and MN988669, Sequence Read Archive database Bioproject accession PRJNA601736) and is classified into \u03b2-coronavirus genus. Phylogenetic analysis indicates that 2019-nCoV is close to coronaviruses (CoVs) circulating in Rhinolophus (Horseshoe bats), such as 98.7% nucleotide identity to partial RdRp gene of bat coronavirus strain BtCoV/4991 (GenBank KP876546, 370\u2005nt sequence of RdRp and lack of other genome sequence) and 87.9% nucleotide identity to bat coronavirus strain bat-SL-CoVZC45 and bat-SL-CoVZXC21. Evolutionary analysis based on ORF1a/1b, S, and N genes also suggests 2019-nCoV is more likely a novel CoV independently introduced from animals to humans. ",
+    "denotations": [
+        {
+            "id": "A03",
+            "span": {
+                "begin": 43,
+                "end": 52
+            },
+            "obj": "Disease_other"
+        },
+        {
+            "id": "A04",
+            "span": {
+                "begin": 223,
+                "end": 244
+            },
+            "obj": "Disease_other"
+        },
+        {
+            "id": "A05",
+            "span": {
+                "begin": 356,
+                "end": 361
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A06",
+            "span": {
+                "begin": 363,
+                "end": 368
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A07",
+            "span": {
+                "begin": 640,
+                "end": 657
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A08",
+            "span": {
+                "begin": 665,
+                "end": 674
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A09",
+            "span": {
+                "begin": 1010,
+                "end": 1023
+            },
+            "obj": "Virus_family"
+        },
+        {
+            "id": "A10",
+            "span": {
+                "begin": 1068,
+                "end": 1077
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A11",
+            "span": {
+                "begin": 1090,
+                "end": 1103
+            },
+            "obj": "Virus_family"
+        },
+        {
+            "id": "A12",
+            "span": {
+                "begin": 1105,
+                "end": 1109
+            },
+            "obj": "Virus_family"
+        },
+        {
+            "id": "A13",
+            "span": {
+                "begin": 1214,
+                "end": 1247
+            },
+            "obj": "Virus_other"
+        },
+        {
+            "id": "A14",
+            "span": {
+                "begin": 1359,
+                "end": 1396
+            },
+            "obj": "Virus_other"
+        },
+        {
+            "id": "A15",
+            "span": {
+                "begin": 1401,
+                "end": 1416
+            },
+            "obj": "Virus_other"
+        },
+        {
+            "id": "A16",
+            "span": {
+                "begin": 1488,
+                "end": 1497
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A17",
+            "span": {
+                "begin": 1521,
+                "end": 1524
+            },
+            "obj": "Virus_family"
+        },
+        {
+            "id": "A18",
+            "span": {
+                "begin": 1286,
+                "end": 1290
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A19",
+            "span": {
+                "begin": 194,
+                "end": 202
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A20",
+            "span": {
+                "begin": 305,
+                "end": 313
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A21",
+            "span": {
+                "begin": 1126,
+                "end": 1137
+            },
+            "obj": "Species_other"
+        },
+        {
+            "id": "A22",
+            "span": {
+                "begin": 1139,
+                "end": 1153
+            },
+            "obj": "Species_other"
+        },
+        {
+            "id": "A23",
+            "span": {
+                "begin": 1449,
+                "end": 1457
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A24",
+            "span": {
+                "begin": 1459,
+                "end": 1460
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A25",
+            "span": {
+                "begin": 1466,
+                "end": 1467
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A26",
+            "span": {
+                "begin": 1566,
+                "end": 1572
+            },
+            "obj": "Species_human"
+        }
+    ]
+}{
+    "cord_uid": "ea99j2qn",
+    "sourcedb": "PMC",
+    "sourceid": "PMC7033720",
+    "text": "RNA based mNGS approach identifies a novel human coronavirus from two individual pneumonia cases in 2019 Wuhan outbreak. ",
+    "denotations": [
+        {
+            "id": "A01",
+            "span": {
+                "begin": 37,
+                "end": 60
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A02",
+            "span": {
+                "begin": 81,
+                "end": 90
+            },
+            "obj": "Disease_other"
+        }
+    ]
+}{
+    "cord_uid": "ea99j2qn",
+    "sourcedb": "PMC",
+    "sourceid": "PMC7033720",
+    "text": "From December 2019, an outbreak of unusual pneumonia was reported in Wuhan with many cases linked to Huanan Seafood Market that sells seafood as well as live exotic animals. We investigated two patients who developed acute respiratory syndromes after independent contact history with this market. The two patients shared common clinical features including fever, cough, and multiple ground-glass opacities in the bilateral lung field with patchy infiltration. Here, we highlight the use of a low-input metagenomic next-generation sequencing (mNGS) approach on RNA extracted from bronchoalveolar lavage fluid (BALF). It rapidly identified a novel coronavirus (named 2019-nCoV according to World Health Organization announcement) which was the sole pathogens in the sample with very high abundance level (1.5% and 0.62% of total RNA sequenced). The entire viral genome is 29,881\u2005nt in length (GenBank MN988668 and MN988669, Sequence Read Archive database Bioproject accession PRJNA601736) and is classified into \u03b2-coronavirus genus. Phylogenetic analysis indicates that 2019-nCoV is close to coronaviruses (CoVs) circulating in Rhinolophus (Horseshoe bats), such as 98.7% nucleotide identity to partial RdRp gene of bat coronavirus strain BtCoV/4991 (GenBank KP876546, 370\u2005nt sequence of RdRp and lack of other genome sequence) and 87.9% nucleotide identity to bat coronavirus strain bat-SL-CoVZC45 and bat-SL-CoVZXC21. Evolutionary analysis based on ORF1a/1b, S, and N genes also suggests 2019-nCoV is more likely a novel CoV independently introduced from animals to humans. ",
+    "denotations": [
+        {
+            "id": "A03",
+            "span": {
+                "begin": 43,
+                "end": 52
+            },
+            "obj": "Disease_other"
+        },
+        {
+            "id": "A04",
+            "span": {
+                "begin": 223,
+                "end": 244
+            },
+            "obj": "Disease_other"
+        },
+        {
+            "id": "A05",
+            "span": {
+                "begin": 356,
+                "end": 361
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A06",
+            "span": {
+                "begin": 363,
+                "end": 368
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A07",
+            "span": {
+                "begin": 640,
+                "end": 657
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A08",
+            "span": {
+                "begin": 665,
+                "end": 674
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A09",
+            "span": {
+                "begin": 1010,
+                "end": 1023
+            },
+            "obj": "Virus_family"
+        },
+        {
+            "id": "A10",
+            "span": {
+                "begin": 1068,
+                "end": 1077
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A11",
+            "span": {
+                "begin": 1090,
+                "end": 1103
+            },
+            "obj": "Virus_family"
+        },
+        {
+            "id": "A12",
+            "span": {
+                "begin": 1105,
+                "end": 1109
+            },
+            "obj": "Virus_family"
+        },
+        {
+            "id": "A13",
+            "span": {
+                "begin": 1214,
+                "end": 1247
+            },
+            "obj": "Virus_other"
+        },
+        {
+            "id": "A14",
+            "span": {
+                "begin": 1359,
+                "end": 1396
+            },
+            "obj": "Virus_other"
+        },
+        {
+            "id": "A15",
+            "span": {
+                "begin": 1401,
+                "end": 1416
+            },
+            "obj": "Virus_other"
+        },
+        {
+            "id": "A16",
+            "span": {
+                "begin": 1488,
+                "end": 1497
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A17",
+            "span": {
+                "begin": 1521,
+                "end": 1524
+            },
+            "obj": "Virus_family"
+        },
+        {
+            "id": "A18",
+            "span": {
+                "begin": 1286,
+                "end": 1290
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A19",
+            "span": {
+                "begin": 194,
+                "end": 202
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A20",
+            "span": {
+                "begin": 305,
+                "end": 313
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A21",
+            "span": {
+                "begin": 1126,
+                "end": 1137
+            },
+            "obj": "Species_other"
+        },
+        {
+            "id": "A22",
+            "span": {
+                "begin": 1139,
+                "end": 1153
+            },
+            "obj": "Species_other"
+        },
+        {
+            "id": "A23",
+            "span": {
+                "begin": 1449,
+                "end": 1457
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A24",
+            "span": {
+                "begin": 1459,
+                "end": 1460
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A25",
+            "span": {
+                "begin": 1466,
+                "end": 1467
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A26",
+            "span": {
+                "begin": 1566,
+                "end": 1572
+            },
+            "obj": "Species_human"
+        }
+    ]
+}{"cord_uid": "ea99j2qn", "sourcedb": "PMC", "sourceid": "PMC7033720", "text": "RNA based mNGS approach identifies a novel human coronavirus from two individual pneumonia cases in 2019 Wuhan outbreak. ", "denotations": [{"id": "A01", "span": {"begin": 37, "end": 60}, "obj": "Virus_SARS-CoV-2"}, {"id": "A02", "span": {"begin": 81, "end": 90}, "obj": "Disease_other"}]}{"cord_uid": "ea99j2qn", "sourcedb": "PMC", "sourceid": "PMC7033720", "text": "From December 2019, an outbreak of unusual pneumonia was reported in Wuhan with many cases linked to Huanan Seafood Market that sells seafood as well as live exotic animals. We investigated two patients who developed acute respiratory syndromes after independent contact history with this market. The two patients shared common clinical features including fever, cough, and multiple ground-glass opacities in the bilateral lung field with patchy infiltration. Here, we highlight the use of a low-input metagenomic next-generation sequencing (mNGS) approach on RNA extracted from bronchoalveolar lavage fluid (BALF). It rapidly identified a novel coronavirus (named 2019-nCoV according to World Health Organization announcement) which was the sole pathogens in the sample with very high abundance level (1.5% and 0.62% of total RNA sequenced). The entire viral genome is 29,881\u2005nt in length (GenBank MN988668 and MN988669, Sequence Read Archive database Bioproject accession PRJNA601736) and is classified into \u03b2-coronavirus genus. Phylogenetic analysis indicates that 2019-nCoV is close to coronaviruses (CoVs) circulating in Rhinolophus (Horseshoe bats), such as 98.7% nucleotide identity to partial RdRp gene of bat coronavirus strain BtCoV/4991 (GenBank KP876546, 370\u2005nt sequence of RdRp and lack of other genome sequence) and 87.9% nucleotide identity to bat coronavirus strain bat-SL-CoVZC45 and bat-SL-CoVZXC21. Evolutionary analysis based on ORF1a/1b, S, and N genes also suggests 2019-nCoV is more likely a novel CoV independently introduced from animals to humans. ", "denotations": [{"id": "A03", "span": {"begin": 43, "end": 52}, "obj": "Disease_other"}, {"id": "A04", "span": {"begin": 223, "end": 244}, "obj": "Disease_other"}, {"id": "A05", "span": {"begin": 356, "end": 361}, "obj": "Symptom"}, {"id": "A06", "span": {"begin": 363, "end": 368}, "obj": "Symptom"}, {"id": "A07", "span": {"begin": 640, "end": 657}, "obj": "Virus_SARS-CoV-2"}, {"id": "A08", "span": {"begin": 665, "end": 674}, "obj": "Virus_SARS-CoV-2"}, {"id": "A09", "span": {"begin": 1010, "end": 1023}, "obj": "Virus_family"}, {"id": "A10", "span": {"begin": 1068, "end": 1077}, "obj": "Virus_SARS-CoV-2"}, {"id": "A11", "span": {"begin": 1090, "end": 1103}, "obj": "Virus_family"}, {"id": "A12", "span": {"begin": 1105, "end": 1109}, "obj": "Virus_family"}, {"id": "A13", "span": {"begin": 1214, "end": 1247}, "obj": "Virus_other"}, {"id": "A14", "span": {"begin": 1359, "end": 1396}, "obj": "Virus_other"}, {"id": "A15", "span": {"begin": 1401, "end": 1416}, "obj": "Virus_other"}, {"id": "A16", "span": {"begin": 1488, "end": 1497}, "obj": "Virus_SARS-CoV-2"}, {"id": "A17", "span": {"begin": 1521, "end": 1524}, "obj": "Virus_family"}, {"id": "A18", "span": {"begin": 1286, "end": 1290}, "obj": "Protein"}, {"id": "A19", "span": {"begin": 194, "end": 202}, "obj": "Species_human"}, {"id": "A20", "span": {"begin": 305, "end": 313}, "obj": "Species_human"}, {"id": "A21", "span": {"begin": 1126, "end": 1137}, "obj": "Species_other"}, {"id": "A22", "span": {"begin": 1139, "end": 1153}, "obj": "Species_other"}, {"id": "A23", "span": {"begin": 1449, "end": 1457}, "obj": "Protein"}, {"id": "A24", "span": {"begin": 1459, "end": 1460}, "obj": "Protein"}, {"id": "A25", "span": {"begin": 1466, "end": 1467}, "obj": "Protein"}, {"id": "A26", "span": {"begin": 1566, "end": 1572}, "obj": "Species_human"}]}{
+    "cord_uid": "ea99j2qn",
+    "sourcedb": "PMC",
+    "sourceid": "PMC7033720",
+    "text": "RNA based mNGS approach identifies a novel human coronavirus from two individual pneumonia cases in 2019 Wuhan outbreak. ",
+    "denotations": [
+        {
+            "id": "A01",
+            "span": {
+                "begin": 37,
+                "end": 60
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A02",
+            "span": {
+                "begin": 81,
+                "end": 90
+            },
+            "obj": "Disease_other"
+        }
+    ]
+}{
+    "cord_uid": "ea99j2qn",
+    "sourcedb": "PMC",
+    "sourceid": "PMC7033720",
+    "text": "From December 2019, an outbreak of unusual pneumonia was reported in Wuhan with many cases linked to Huanan Seafood Market that sells seafood as well as live exotic animals. We investigated two patients who developed acute respiratory syndromes after independent contact history with this market. The two patients shared common clinical features including fever, cough, and multiple ground-glass opacities in the bilateral lung field with patchy infiltration. Here, we highlight the use of a low-input metagenomic next-generation sequencing (mNGS) approach on RNA extracted from bronchoalveolar lavage fluid (BALF). It rapidly identified a novel coronavirus (named 2019-nCoV according to World Health Organization announcement) which was the sole pathogens in the sample with very high abundance level (1.5% and 0.62% of total RNA sequenced). The entire viral genome is 29,881\u2005nt in length (GenBank MN988668 and MN988669, Sequence Read Archive database Bioproject accession PRJNA601736) and is classified into \u03b2-coronavirus genus. Phylogenetic analysis indicates that 2019-nCoV is close to coronaviruses (CoVs) circulating in Rhinolophus (Horseshoe bats), such as 98.7% nucleotide identity to partial RdRp gene of bat coronavirus strain BtCoV/4991 (GenBank KP876546, 370\u2005nt sequence of RdRp and lack of other genome sequence) and 87.9% nucleotide identity to bat coronavirus strain bat-SL-CoVZC45 and bat-SL-CoVZXC21. Evolutionary analysis based on ORF1a/1b, S, and N genes also suggests 2019-nCoV is more likely a novel CoV independently introduced from animals to humans. ",
+    "denotations": [
+        {
+            "id": "A03",
+            "span": {
+                "begin": 43,
+                "end": 52
+            },
+            "obj": "Disease_other"
+        },
+        {
+            "id": "A04",
+            "span": {
+                "begin": 223,
+                "end": 244
+            },
+            "obj": "Disease_other"
+        },
+        {
+            "id": "A05",
+            "span": {
+                "begin": 356,
+                "end": 361
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A06",
+            "span": {
+                "begin": 363,
+                "end": 368
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A07",
+            "span": {
+                "begin": 640,
+                "end": 657
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A08",
+            "span": {
+                "begin": 665,
+                "end": 674
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A09",
+            "span": {
+                "begin": 1010,
+                "end": 1023
+            },
+            "obj": "Virus_family"
+        },
+        {
+            "id": "A10",
+            "span": {
+                "begin": 1068,
+                "end": 1077
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A11",
+            "span": {
+                "begin": 1090,
+                "end": 1103
+            },
+            "obj": "Virus_family"
+        },
+        {
+            "id": "A12",
+            "span": {
+                "begin": 1105,
+                "end": 1109
+            },
+            "obj": "Virus_family"
+        },
+        {
+            "id": "A13",
+            "span": {
+                "begin": 1214,
+                "end": 1247
+            },
+            "obj": "Virus_other"
+        },
+        {
+            "id": "A14",
+            "span": {
+                "begin": 1359,
+                "end": 1396
+            },
+            "obj": "Virus_other"
+        },
+        {
+            "id": "A15",
+            "span": {
+                "begin": 1401,
+                "end": 1416
+            },
+            "obj": "Virus_other"
+        },
+        {
+            "id": "A16",
+            "span": {
+                "begin": 1488,
+                "end": 1497
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A17",
+            "span": {
+                "begin": 1521,
+                "end": 1524
+            },
+            "obj": "Virus_family"
+        },
+        {
+            "id": "A18",
+            "span": {
+                "begin": 1286,
+                "end": 1290
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A19",
+            "span": {
+                "begin": 194,
+                "end": 202
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A20",
+            "span": {
+                "begin": 305,
+                "end": 313
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A21",
+            "span": {
+                "begin": 1126,
+                "end": 1137
+            },
+            "obj": "Species_other"
+        },
+        {
+            "id": "A22",
+            "span": {
+                "begin": 1139,
+                "end": 1153
+            },
+            "obj": "Species_other"
+        },
+        {
+            "id": "A23",
+            "span": {
+                "begin": 1449,
+                "end": 1457
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A24",
+            "span": {
+                "begin": 1459,
+                "end": 1460
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A25",
+            "span": {
+                "begin": 1466,
+                "end": 1467
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A26",
+            "span": {
+                "begin": 1566,
+                "end": 1572
+            },
+            "obj": "Species_human"
+        }
+    ]
+}

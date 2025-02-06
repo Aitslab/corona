@@ -1,0 +1,1363 @@
+{
+    "cord_uid": "0nhgxoim",
+    "sourcedb": "PMC",
+    "sourceid": "PMC7159299",
+    "text": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. ",
+    "denotations": [
+        {
+            "id": "A01",
+            "span": {
+                "begin": 44,
+                "end": 66
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A02",
+            "span": {
+                "begin": 21,
+                "end": 29
+            },
+            "obj": "Species_human"
+        }
+    ]
+}{
+    "cord_uid": "0nhgxoim",
+    "sourcedb": "PMC",
+    "sourceid": "PMC7159299",
+    "text": "BACKGROUND: A recent cluster of pneumonia cases in Wuhan, China, was caused by a novel betacoronavirus, the 2019 novel coronavirus (2019-nCoV). We report the epidemiological, clinical, laboratory, and radiological characteristics and treatment and clinical outcomes of these patients. METHODS: All patients with suspected 2019-nCoV were admitted to a designated hospital in Wuhan. We prospectively collected and analysed data on patients with laboratory-confirmed 2019-nCoV infection by real-time RT-PCR and next-generation sequencing. Data were obtained with standardised data collection forms shared by WHO and the International Severe Acute Respiratory and Emerging Infection Consortium from electronic medical records. Researchers also directly communicated with patients or their families to ascertain epidemiological and symptom data. Outcomes were also compared between patients who had been admitted to the intensive care unit (ICU) and those who had not. FINDINGS: By Jan 2, 2020, 41 admitted hospital patients had been identified as having laboratory-confirmed 2019-nCoV infection. Most of the infected patients were men (30 [73%] of 41); less than half had underlying diseases (13 [32%]), including diabetes (eight [20%]), hypertension (six [15%]), and cardiovascular disease (six [15%]). Median age was 49\u00b70 years (IQR 41\u00b70-58\u00b70). 27 (66%) of 41 patients had been exposed to Huanan seafood market. One family cluster was found. Common symptoms at onset of illness were fever (40 [98%] of 41 patients), cough (31 [76%]), and myalgia or fatigue (18 [44%]); less common symptoms were sputum production (11 [28%] of 39), headache (three [8%] of 38), haemoptysis (two [5%] of 39), and diarrhoea (one [3%] of 38). Dyspnoea developed in 22 (55%) of 40 patients (median time from illness onset to dyspnoea 8\u00b70 days [IQR 5\u00b70-13\u00b70]). 26 (63%) of 41 patients had lymphopenia. All 41 patients had pneumonia with abnormal findings on chest CT. Complications included acute respiratory distress syndrome (12 [29%]), RNAaemia (six [15%]), acute cardiac injury (five [12%]) and secondary infection (four [10%]). 13 (32%) patients were admitted to an ICU and six (15%) died. Compared with non-ICU patients, ICU patients had higher plasma levels of IL2, IL7, IL10, GSCF, IP10, MCP1, MIP1A, and TNF\u03b1. INTERPRETATION: The 2019-nCoV infection caused clusters of severe respiratory illness similar to severe acute respiratory syndrome coronavirus and was associated with ICU admission and high mortality. Major gaps in our knowledge of the origin, epidemiology, duration of human transmission, and clinical spectrum of disease need fulfilment by future studies. FUNDING: Ministry of Science and Technology, Chinese Academy of Medical Sciences, National Natural Science Foundation of China, and Beijing Municipal Science and Technology Commission. ",
+    "denotations": [
+        {
+            "id": "A7",
+            "span": {
+                "begin": 32,
+                "end": 41
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A03",
+            "span": {
+                "begin": 81,
+                "end": 102
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A04",
+            "span": {
+                "begin": 108,
+                "end": 130
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A05",
+            "span": {
+                "begin": 132,
+                "end": 141
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A06",
+            "span": {
+                "begin": 322,
+                "end": 331
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A07",
+            "span": {
+                "begin": 464,
+                "end": 483
+            },
+            "obj": "Disease_COVID-19"
+        },
+        {
+            "id": "A08",
+            "span": {
+                "begin": 1071,
+                "end": 1090
+            },
+            "obj": "Disease_COVID-19"
+        },
+        {
+            "id": "A09",
+            "span": {
+                "begin": 1210,
+                "end": 1218
+            },
+            "obj": "Disease_other"
+        },
+        {
+            "id": "A10",
+            "span": {
+                "begin": 1234,
+                "end": 1246
+            },
+            "obj": "Disease_other"
+        },
+        {
+            "id": "A11",
+            "span": {
+                "begin": 1264,
+                "end": 1286
+            },
+            "obj": "Disease_other"
+        },
+        {
+            "id": "A12",
+            "span": {
+                "begin": 1481,
+                "end": 1486
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A13",
+            "span": {
+                "begin": 1514,
+                "end": 1519
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A14",
+            "span": {
+                "begin": 1536,
+                "end": 1543
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A15",
+            "span": {
+                "begin": 1547,
+                "end": 1554
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A16",
+            "span": {
+                "begin": 1593,
+                "end": 1610
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A17",
+            "span": {
+                "begin": 1629,
+                "end": 1637
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A18",
+            "span": {
+                "begin": 1658,
+                "end": 1669
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A19",
+            "span": {
+                "begin": 1692,
+                "end": 1701
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A20",
+            "span": {
+                "begin": 1720,
+                "end": 1728
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A21",
+            "span": {
+                "begin": 1801,
+                "end": 1809
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A22",
+            "span": {
+                "begin": 1864,
+                "end": 1875
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A23",
+            "span": {
+                "begin": 1897,
+                "end": 1906
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A24",
+            "span": {
+                "begin": 1966,
+                "end": 2001
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A25",
+            "span": {
+                "begin": 2014,
+                "end": 2022
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A26",
+            "span": {
+                "begin": 2036,
+                "end": 2056
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A27",
+            "span": {
+                "begin": 2074,
+                "end": 2093
+            },
+            "obj": "Disease_other"
+        },
+        {
+            "id": "A28",
+            "span": {
+                "begin": 2243,
+                "end": 2246
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A29",
+            "span": {
+                "begin": 2248,
+                "end": 2251
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A30",
+            "span": {
+                "begin": 2253,
+                "end": 2257
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A31",
+            "span": {
+                "begin": 2259,
+                "end": 2263
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A32",
+            "span": {
+                "begin": 2265,
+                "end": 2269
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A33",
+            "span": {
+                "begin": 2271,
+                "end": 2275
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A34",
+            "span": {
+                "begin": 2277,
+                "end": 2282
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A35",
+            "span": {
+                "begin": 2288,
+                "end": 2292
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A36",
+            "span": {
+                "begin": 2314,
+                "end": 2333
+            },
+            "obj": "Disease_COVID-19"
+        },
+        {
+            "id": "A37",
+            "span": {
+                "begin": 2353,
+                "end": 2379
+            },
+            "obj": "Disease_other"
+        },
+        {
+            "id": "A38",
+            "span": {
+                "begin": 2391,
+                "end": 2436
+            },
+            "obj": "Virus_other"
+        },
+        {
+            "id": "A39",
+            "span": {
+                "begin": 275,
+                "end": 283
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A40",
+            "span": {
+                "begin": 298,
+                "end": 306
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A41",
+            "span": {
+                "begin": 429,
+                "end": 437
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A42",
+            "span": {
+                "begin": 767,
+                "end": 775
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A43",
+            "span": {
+                "begin": 723,
+                "end": 734
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A44",
+            "span": {
+                "begin": 785,
+                "end": 793
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A45",
+            "span": {
+                "begin": 877,
+                "end": 885
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A46",
+            "span": {
+                "begin": 1011,
+                "end": 1019
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A47",
+            "span": {
+                "begin": 1113,
+                "end": 1121
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A48",
+            "span": {
+                "begin": 1127,
+                "end": 1130
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A49",
+            "span": {
+                "begin": 1358,
+                "end": 1366
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A50",
+            "span": {
+                "begin": 1503,
+                "end": 1511
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A51",
+            "span": {
+                "begin": 1757,
+                "end": 1765
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A52",
+            "span": {
+                "begin": 1851,
+                "end": 1859
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A53",
+            "span": {
+                "begin": 1884,
+                "end": 1892
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A54",
+            "span": {
+                "begin": 2117,
+                "end": 2125
+            },
+            "obj": "Species_human"
+        }
+    ]
+}{
+    "cord_uid": "0nhgxoim",
+    "sourcedb": "PMC",
+    "sourceid": "PMC7159299",
+    "text": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. ",
+    "denotations": [
+        {
+            "id": "A01",
+            "span": {
+                "begin": 44,
+                "end": 66
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A02",
+            "span": {
+                "begin": 21,
+                "end": 29
+            },
+            "obj": "Species_human"
+        }
+    ]
+}{
+    "cord_uid": "0nhgxoim",
+    "sourcedb": "PMC",
+    "sourceid": "PMC7159299",
+    "text": "BACKGROUND: A recent cluster of pneumonia cases in Wuhan, China, was caused by a novel betacoronavirus, the 2019 novel coronavirus (2019-nCoV). We report the epidemiological, clinical, laboratory, and radiological characteristics and treatment and clinical outcomes of these patients. METHODS: All patients with suspected 2019-nCoV were admitted to a designated hospital in Wuhan. We prospectively collected and analysed data on patients with laboratory-confirmed 2019-nCoV infection by real-time RT-PCR and next-generation sequencing. Data were obtained with standardised data collection forms shared by WHO and the International Severe Acute Respiratory and Emerging Infection Consortium from electronic medical records. Researchers also directly communicated with patients or their families to ascertain epidemiological and symptom data. Outcomes were also compared between patients who had been admitted to the intensive care unit (ICU) and those who had not. FINDINGS: By Jan 2, 2020, 41 admitted hospital patients had been identified as having laboratory-confirmed 2019-nCoV infection. Most of the infected patients were men (30 [73%] of 41); less than half had underlying diseases (13 [32%]), including diabetes (eight [20%]), hypertension (six [15%]), and cardiovascular disease (six [15%]). Median age was 49\u00b70 years (IQR 41\u00b70-58\u00b70). 27 (66%) of 41 patients had been exposed to Huanan seafood market. One family cluster was found. Common symptoms at onset of illness were fever (40 [98%] of 41 patients), cough (31 [76%]), and myalgia or fatigue (18 [44%]); less common symptoms were sputum production (11 [28%] of 39), headache (three [8%] of 38), haemoptysis (two [5%] of 39), and diarrhoea (one [3%] of 38). Dyspnoea developed in 22 (55%) of 40 patients (median time from illness onset to dyspnoea 8\u00b70 days [IQR 5\u00b70-13\u00b70]). 26 (63%) of 41 patients had lymphopenia. All 41 patients had pneumonia with abnormal findings on chest CT. Complications included acute respiratory distress syndrome (12 [29%]), RNAaemia (six [15%]), acute cardiac injury (five [12%]) and secondary infection (four [10%]). 13 (32%) patients were admitted to an ICU and six (15%) died. Compared with non-ICU patients, ICU patients had higher plasma levels of IL2, IL7, IL10, GSCF, IP10, MCP1, MIP1A, and TNF\u03b1. INTERPRETATION: The 2019-nCoV infection caused clusters of severe respiratory illness similar to severe acute respiratory syndrome coronavirus and was associated with ICU admission and high mortality. Major gaps in our knowledge of the origin, epidemiology, duration of human transmission, and clinical spectrum of disease need fulfilment by future studies. FUNDING: Ministry of Science and Technology, Chinese Academy of Medical Sciences, National Natural Science Foundation of China, and Beijing Municipal Science and Technology Commission. ",
+    "denotations": [
+        {
+            "id": "A7",
+            "span": {
+                "begin": 32,
+                "end": 41
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A03",
+            "span": {
+                "begin": 81,
+                "end": 102
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A04",
+            "span": {
+                "begin": 108,
+                "end": 130
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A05",
+            "span": {
+                "begin": 132,
+                "end": 141
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A06",
+            "span": {
+                "begin": 322,
+                "end": 331
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A07",
+            "span": {
+                "begin": 464,
+                "end": 483
+            },
+            "obj": "Disease_COVID-19"
+        },
+        {
+            "id": "A08",
+            "span": {
+                "begin": 1071,
+                "end": 1090
+            },
+            "obj": "Disease_COVID-19"
+        },
+        {
+            "id": "A09",
+            "span": {
+                "begin": 1210,
+                "end": 1218
+            },
+            "obj": "Disease_other"
+        },
+        {
+            "id": "A10",
+            "span": {
+                "begin": 1234,
+                "end": 1246
+            },
+            "obj": "Disease_other"
+        },
+        {
+            "id": "A11",
+            "span": {
+                "begin": 1264,
+                "end": 1286
+            },
+            "obj": "Disease_other"
+        },
+        {
+            "id": "A12",
+            "span": {
+                "begin": 1481,
+                "end": 1486
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A13",
+            "span": {
+                "begin": 1514,
+                "end": 1519
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A14",
+            "span": {
+                "begin": 1536,
+                "end": 1543
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A15",
+            "span": {
+                "begin": 1547,
+                "end": 1554
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A16",
+            "span": {
+                "begin": 1593,
+                "end": 1610
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A17",
+            "span": {
+                "begin": 1629,
+                "end": 1637
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A18",
+            "span": {
+                "begin": 1658,
+                "end": 1669
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A19",
+            "span": {
+                "begin": 1692,
+                "end": 1701
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A20",
+            "span": {
+                "begin": 1720,
+                "end": 1728
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A21",
+            "span": {
+                "begin": 1801,
+                "end": 1809
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A22",
+            "span": {
+                "begin": 1864,
+                "end": 1875
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A23",
+            "span": {
+                "begin": 1897,
+                "end": 1906
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A24",
+            "span": {
+                "begin": 1966,
+                "end": 2001
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A25",
+            "span": {
+                "begin": 2014,
+                "end": 2022
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A26",
+            "span": {
+                "begin": 2036,
+                "end": 2056
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A27",
+            "span": {
+                "begin": 2074,
+                "end": 2093
+            },
+            "obj": "Disease_other"
+        },
+        {
+            "id": "A28",
+            "span": {
+                "begin": 2243,
+                "end": 2246
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A29",
+            "span": {
+                "begin": 2248,
+                "end": 2251
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A30",
+            "span": {
+                "begin": 2253,
+                "end": 2257
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A31",
+            "span": {
+                "begin": 2259,
+                "end": 2263
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A32",
+            "span": {
+                "begin": 2265,
+                "end": 2269
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A33",
+            "span": {
+                "begin": 2271,
+                "end": 2275
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A34",
+            "span": {
+                "begin": 2277,
+                "end": 2282
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A35",
+            "span": {
+                "begin": 2288,
+                "end": 2292
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A36",
+            "span": {
+                "begin": 2314,
+                "end": 2333
+            },
+            "obj": "Disease_COVID-19"
+        },
+        {
+            "id": "A37",
+            "span": {
+                "begin": 2353,
+                "end": 2379
+            },
+            "obj": "Disease_other"
+        },
+        {
+            "id": "A38",
+            "span": {
+                "begin": 2391,
+                "end": 2436
+            },
+            "obj": "Virus_other"
+        },
+        {
+            "id": "A39",
+            "span": {
+                "begin": 275,
+                "end": 283
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A40",
+            "span": {
+                "begin": 298,
+                "end": 306
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A41",
+            "span": {
+                "begin": 429,
+                "end": 437
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A42",
+            "span": {
+                "begin": 767,
+                "end": 775
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A43",
+            "span": {
+                "begin": 723,
+                "end": 734
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A44",
+            "span": {
+                "begin": 785,
+                "end": 793
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A45",
+            "span": {
+                "begin": 877,
+                "end": 885
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A46",
+            "span": {
+                "begin": 1011,
+                "end": 1019
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A47",
+            "span": {
+                "begin": 1113,
+                "end": 1121
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A48",
+            "span": {
+                "begin": 1127,
+                "end": 1130
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A49",
+            "span": {
+                "begin": 1358,
+                "end": 1366
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A50",
+            "span": {
+                "begin": 1503,
+                "end": 1511
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A51",
+            "span": {
+                "begin": 1757,
+                "end": 1765
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A52",
+            "span": {
+                "begin": 1851,
+                "end": 1859
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A53",
+            "span": {
+                "begin": 1884,
+                "end": 1892
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A54",
+            "span": {
+                "begin": 2117,
+                "end": 2125
+            },
+            "obj": "Species_human"
+        }
+    ]
+}{"cord_uid": "0nhgxoim", "sourcedb": "PMC", "sourceid": "PMC7159299", "text": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. ", "denotations": [{"id": "A01", "span": {"begin": 44, "end": 66}, "obj": "Virus_SARS-CoV-2"}, {"id": "A02", "span": {"begin": 21, "end": 29}, "obj": "Species_human"}]}{"cord_uid": "0nhgxoim", "sourcedb": "PMC", "sourceid": "PMC7159299", "text": "BACKGROUND: A recent cluster of pneumonia cases in Wuhan, China, was caused by a novel betacoronavirus, the 2019 novel coronavirus (2019-nCoV). We report the epidemiological, clinical, laboratory, and radiological characteristics and treatment and clinical outcomes of these patients. METHODS: All patients with suspected 2019-nCoV were admitted to a designated hospital in Wuhan. We prospectively collected and analysed data on patients with laboratory-confirmed 2019-nCoV infection by real-time RT-PCR and next-generation sequencing. Data were obtained with standardised data collection forms shared by WHO and the International Severe Acute Respiratory and Emerging Infection Consortium from electronic medical records. Researchers also directly communicated with patients or their families to ascertain epidemiological and symptom data. Outcomes were also compared between patients who had been admitted to the intensive care unit (ICU) and those who had not. FINDINGS: By Jan 2, 2020, 41 admitted hospital patients had been identified as having laboratory-confirmed 2019-nCoV infection. Most of the infected patients were men (30 [73%] of 41); less than half had underlying diseases (13 [32%]), including diabetes (eight [20%]), hypertension (six [15%]), and cardiovascular disease (six [15%]). Median age was 49\u00b70 years (IQR 41\u00b70-58\u00b70). 27 (66%) of 41 patients had been exposed to Huanan seafood market. One family cluster was found. Common symptoms at onset of illness were fever (40 [98%] of 41 patients), cough (31 [76%]), and myalgia or fatigue (18 [44%]); less common symptoms were sputum production (11 [28%] of 39), headache (three [8%] of 38), haemoptysis (two [5%] of 39), and diarrhoea (one [3%] of 38). Dyspnoea developed in 22 (55%) of 40 patients (median time from illness onset to dyspnoea 8\u00b70 days [IQR 5\u00b70-13\u00b70]). 26 (63%) of 41 patients had lymphopenia. All 41 patients had pneumonia with abnormal findings on chest CT. Complications included acute respiratory distress syndrome (12 [29%]), RNAaemia (six [15%]), acute cardiac injury (five [12%]) and secondary infection (four [10%]). 13 (32%) patients were admitted to an ICU and six (15%) died. Compared with non-ICU patients, ICU patients had higher plasma levels of IL2, IL7, IL10, GSCF, IP10, MCP1, MIP1A, and TNF\u03b1. INTERPRETATION: The 2019-nCoV infection caused clusters of severe respiratory illness similar to severe acute respiratory syndrome coronavirus and was associated with ICU admission and high mortality. Major gaps in our knowledge of the origin, epidemiology, duration of human transmission, and clinical spectrum of disease need fulfilment by future studies. FUNDING: Ministry of Science and Technology, Chinese Academy of Medical Sciences, National Natural Science Foundation of China, and Beijing Municipal Science and Technology Commission. ", "denotations": [{"id": "A7", "span": {"begin": 32, "end": 41}, "obj": "Symptom"}, {"id": "A03", "span": {"begin": 81, "end": 102}, "obj": "Virus_SARS-CoV-2"}, {"id": "A04", "span": {"begin": 108, "end": 130}, "obj": "Virus_SARS-CoV-2"}, {"id": "A05", "span": {"begin": 132, "end": 141}, "obj": "Virus_SARS-CoV-2"}, {"id": "A06", "span": {"begin": 322, "end": 331}, "obj": "Virus_SARS-CoV-2"}, {"id": "A07", "span": {"begin": 464, "end": 483}, "obj": "Disease_COVID-19"}, {"id": "A08", "span": {"begin": 1071, "end": 1090}, "obj": "Disease_COVID-19"}, {"id": "A09", "span": {"begin": 1210, "end": 1218}, "obj": "Disease_other"}, {"id": "A10", "span": {"begin": 1234, "end": 1246}, "obj": "Disease_other"}, {"id": "A11", "span": {"begin": 1264, "end": 1286}, "obj": "Disease_other"}, {"id": "A12", "span": {"begin": 1481, "end": 1486}, "obj": "Symptom"}, {"id": "A13", "span": {"begin": 1514, "end": 1519}, "obj": "Symptom"}, {"id": "A14", "span": {"begin": 1536, "end": 1543}, "obj": "Symptom"}, {"id": "A15", "span": {"begin": 1547, "end": 1554}, "obj": "Symptom"}, {"id": "A16", "span": {"begin": 1593, "end": 1610}, "obj": "Symptom"}, {"id": "A17", "span": {"begin": 1629, "end": 1637}, "obj": "Symptom"}, {"id": "A18", "span": {"begin": 1658, "end": 1669}, "obj": "Symptom"}, {"id": "A19", "span": {"begin": 1692, "end": 1701}, "obj": "Symptom"}, {"id": "A20", "span": {"begin": 1720, "end": 1728}, "obj": "Symptom"}, {"id": "A21", "span": {"begin": 1801, "end": 1809}, "obj": "Symptom"}, {"id": "A22", "span": {"begin": 1864, "end": 1875}, "obj": "Symptom"}, {"id": "A23", "span": {"begin": 1897, "end": 1906}, "obj": "Symptom"}, {"id": "A24", "span": {"begin": 1966, "end": 2001}, "obj": "Symptom"}, {"id": "A25", "span": {"begin": 2014, "end": 2022}, "obj": "Symptom"}, {"id": "A26", "span": {"begin": 2036, "end": 2056}, "obj": "Symptom"}, {"id": "A27", "span": {"begin": 2074, "end": 2093}, "obj": "Disease_other"}, {"id": "A28", "span": {"begin": 2243, "end": 2246}, "obj": "Protein"}, {"id": "A29", "span": {"begin": 2248, "end": 2251}, "obj": "Protein"}, {"id": "A30", "span": {"begin": 2253, "end": 2257}, "obj": "Protein"}, {"id": "A31", "span": {"begin": 2259, "end": 2263}, "obj": "Protein"}, {"id": "A32", "span": {"begin": 2265, "end": 2269}, "obj": "Protein"}, {"id": "A33", "span": {"begin": 2271, "end": 2275}, "obj": "Protein"}, {"id": "A34", "span": {"begin": 2277, "end": 2282}, "obj": "Protein"}, {"id": "A35", "span": {"begin": 2288, "end": 2292}, "obj": "Protein"}, {"id": "A36", "span": {"begin": 2314, "end": 2333}, "obj": "Disease_COVID-19"}, {"id": "A37", "span": {"begin": 2353, "end": 2379}, "obj": "Disease_other"}, {"id": "A38", "span": {"begin": 2391, "end": 2436}, "obj": "Virus_other"}, {"id": "A39", "span": {"begin": 275, "end": 283}, "obj": "Species_human"}, {"id": "A40", "span": {"begin": 298, "end": 306}, "obj": "Species_human"}, {"id": "A41", "span": {"begin": 429, "end": 437}, "obj": "Species_human"}, {"id": "A42", "span": {"begin": 767, "end": 775}, "obj": "Species_human"}, {"id": "A43", "span": {"begin": 723, "end": 734}, "obj": "Species_human"}, {"id": "A44", "span": {"begin": 785, "end": 793}, "obj": "Species_human"}, {"id": "A45", "span": {"begin": 877, "end": 885}, "obj": "Species_human"}, {"id": "A46", "span": {"begin": 1011, "end": 1019}, "obj": "Species_human"}, {"id": "A47", "span": {"begin": 1113, "end": 1121}, "obj": "Species_human"}, {"id": "A48", "span": {"begin": 1127, "end": 1130}, "obj": "Species_human"}, {"id": "A49", "span": {"begin": 1358, "end": 1366}, "obj": "Species_human"}, {"id": "A50", "span": {"begin": 1503, "end": 1511}, "obj": "Species_human"}, {"id": "A51", "span": {"begin": 1757, "end": 1765}, "obj": "Species_human"}, {"id": "A52", "span": {"begin": 1851, "end": 1859}, "obj": "Species_human"}, {"id": "A53", "span": {"begin": 1884, "end": 1892}, "obj": "Species_human"}, {"id": "A54", "span": {"begin": 2117, "end": 2125}, "obj": "Species_human"}]}{
+    "cord_uid": "0nhgxoim",
+    "sourcedb": "PMC",
+    "sourceid": "PMC7159299",
+    "text": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. ",
+    "denotations": [
+        {
+            "id": "A01",
+            "span": {
+                "begin": 44,
+                "end": 66
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A02",
+            "span": {
+                "begin": 21,
+                "end": 29
+            },
+            "obj": "Species_human"
+        }
+    ]
+}{
+    "cord_uid": "0nhgxoim",
+    "sourcedb": "PMC",
+    "sourceid": "PMC7159299",
+    "text": "BACKGROUND: A recent cluster of pneumonia cases in Wuhan, China, was caused by a novel betacoronavirus, the 2019 novel coronavirus (2019-nCoV). We report the epidemiological, clinical, laboratory, and radiological characteristics and treatment and clinical outcomes of these patients. METHODS: All patients with suspected 2019-nCoV were admitted to a designated hospital in Wuhan. We prospectively collected and analysed data on patients with laboratory-confirmed 2019-nCoV infection by real-time RT-PCR and next-generation sequencing. Data were obtained with standardised data collection forms shared by WHO and the International Severe Acute Respiratory and Emerging Infection Consortium from electronic medical records. Researchers also directly communicated with patients or their families to ascertain epidemiological and symptom data. Outcomes were also compared between patients who had been admitted to the intensive care unit (ICU) and those who had not. FINDINGS: By Jan 2, 2020, 41 admitted hospital patients had been identified as having laboratory-confirmed 2019-nCoV infection. Most of the infected patients were men (30 [73%] of 41); less than half had underlying diseases (13 [32%]), including diabetes (eight [20%]), hypertension (six [15%]), and cardiovascular disease (six [15%]). Median age was 49\u00b70 years (IQR 41\u00b70-58\u00b70). 27 (66%) of 41 patients had been exposed to Huanan seafood market. One family cluster was found. Common symptoms at onset of illness were fever (40 [98%] of 41 patients), cough (31 [76%]), and myalgia or fatigue (18 [44%]); less common symptoms were sputum production (11 [28%] of 39), headache (three [8%] of 38), haemoptysis (two [5%] of 39), and diarrhoea (one [3%] of 38). Dyspnoea developed in 22 (55%) of 40 patients (median time from illness onset to dyspnoea 8\u00b70 days [IQR 5\u00b70-13\u00b70]). 26 (63%) of 41 patients had lymphopenia. All 41 patients had pneumonia with abnormal findings on chest CT. Complications included acute respiratory distress syndrome (12 [29%]), RNAaemia (six [15%]), acute cardiac injury (five [12%]) and secondary infection (four [10%]). 13 (32%) patients were admitted to an ICU and six (15%) died. Compared with non-ICU patients, ICU patients had higher plasma levels of IL2, IL7, IL10, GSCF, IP10, MCP1, MIP1A, and TNF\u03b1. INTERPRETATION: The 2019-nCoV infection caused clusters of severe respiratory illness similar to severe acute respiratory syndrome coronavirus and was associated with ICU admission and high mortality. Major gaps in our knowledge of the origin, epidemiology, duration of human transmission, and clinical spectrum of disease need fulfilment by future studies. FUNDING: Ministry of Science and Technology, Chinese Academy of Medical Sciences, National Natural Science Foundation of China, and Beijing Municipal Science and Technology Commission. ",
+    "denotations": [
+        {
+            "id": "A7",
+            "span": {
+                "begin": 32,
+                "end": 41
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A03",
+            "span": {
+                "begin": 81,
+                "end": 102
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A04",
+            "span": {
+                "begin": 108,
+                "end": 130
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A05",
+            "span": {
+                "begin": 132,
+                "end": 141
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A06",
+            "span": {
+                "begin": 322,
+                "end": 331
+            },
+            "obj": "Virus_SARS-CoV-2"
+        },
+        {
+            "id": "A07",
+            "span": {
+                "begin": 464,
+                "end": 483
+            },
+            "obj": "Disease_COVID-19"
+        },
+        {
+            "id": "A08",
+            "span": {
+                "begin": 1071,
+                "end": 1090
+            },
+            "obj": "Disease_COVID-19"
+        },
+        {
+            "id": "A09",
+            "span": {
+                "begin": 1210,
+                "end": 1218
+            },
+            "obj": "Disease_other"
+        },
+        {
+            "id": "A10",
+            "span": {
+                "begin": 1234,
+                "end": 1246
+            },
+            "obj": "Disease_other"
+        },
+        {
+            "id": "A11",
+            "span": {
+                "begin": 1264,
+                "end": 1286
+            },
+            "obj": "Disease_other"
+        },
+        {
+            "id": "A12",
+            "span": {
+                "begin": 1481,
+                "end": 1486
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A13",
+            "span": {
+                "begin": 1514,
+                "end": 1519
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A14",
+            "span": {
+                "begin": 1536,
+                "end": 1543
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A15",
+            "span": {
+                "begin": 1547,
+                "end": 1554
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A16",
+            "span": {
+                "begin": 1593,
+                "end": 1610
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A17",
+            "span": {
+                "begin": 1629,
+                "end": 1637
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A18",
+            "span": {
+                "begin": 1658,
+                "end": 1669
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A19",
+            "span": {
+                "begin": 1692,
+                "end": 1701
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A20",
+            "span": {
+                "begin": 1720,
+                "end": 1728
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A21",
+            "span": {
+                "begin": 1801,
+                "end": 1809
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A22",
+            "span": {
+                "begin": 1864,
+                "end": 1875
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A23",
+            "span": {
+                "begin": 1897,
+                "end": 1906
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A24",
+            "span": {
+                "begin": 1966,
+                "end": 2001
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A25",
+            "span": {
+                "begin": 2014,
+                "end": 2022
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A26",
+            "span": {
+                "begin": 2036,
+                "end": 2056
+            },
+            "obj": "Symptom"
+        },
+        {
+            "id": "A27",
+            "span": {
+                "begin": 2074,
+                "end": 2093
+            },
+            "obj": "Disease_other"
+        },
+        {
+            "id": "A28",
+            "span": {
+                "begin": 2243,
+                "end": 2246
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A29",
+            "span": {
+                "begin": 2248,
+                "end": 2251
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A30",
+            "span": {
+                "begin": 2253,
+                "end": 2257
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A31",
+            "span": {
+                "begin": 2259,
+                "end": 2263
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A32",
+            "span": {
+                "begin": 2265,
+                "end": 2269
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A33",
+            "span": {
+                "begin": 2271,
+                "end": 2275
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A34",
+            "span": {
+                "begin": 2277,
+                "end": 2282
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A35",
+            "span": {
+                "begin": 2288,
+                "end": 2292
+            },
+            "obj": "Protein"
+        },
+        {
+            "id": "A36",
+            "span": {
+                "begin": 2314,
+                "end": 2333
+            },
+            "obj": "Disease_COVID-19"
+        },
+        {
+            "id": "A37",
+            "span": {
+                "begin": 2353,
+                "end": 2379
+            },
+            "obj": "Disease_other"
+        },
+        {
+            "id": "A38",
+            "span": {
+                "begin": 2391,
+                "end": 2436
+            },
+            "obj": "Virus_other"
+        },
+        {
+            "id": "A39",
+            "span": {
+                "begin": 275,
+                "end": 283
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A40",
+            "span": {
+                "begin": 298,
+                "end": 306
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A41",
+            "span": {
+                "begin": 429,
+                "end": 437
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A42",
+            "span": {
+                "begin": 767,
+                "end": 775
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A43",
+            "span": {
+                "begin": 723,
+                "end": 734
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A44",
+            "span": {
+                "begin": 785,
+                "end": 793
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A45",
+            "span": {
+                "begin": 877,
+                "end": 885
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A46",
+            "span": {
+                "begin": 1011,
+                "end": 1019
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A47",
+            "span": {
+                "begin": 1113,
+                "end": 1121
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A48",
+            "span": {
+                "begin": 1127,
+                "end": 1130
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A49",
+            "span": {
+                "begin": 1358,
+                "end": 1366
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A50",
+            "span": {
+                "begin": 1503,
+                "end": 1511
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A51",
+            "span": {
+                "begin": 1757,
+                "end": 1765
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A52",
+            "span": {
+                "begin": 1851,
+                "end": 1859
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A53",
+            "span": {
+                "begin": 1884,
+                "end": 1892
+            },
+            "obj": "Species_human"
+        },
+        {
+            "id": "A54",
+            "span": {
+                "begin": 2117,
+                "end": 2125
+            },
+            "obj": "Species_human"
+        }
+    ]
+}

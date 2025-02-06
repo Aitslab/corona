@@ -1,0 +1,21 @@
+man
+men
+woman
+women
+patient
+child
+children
+kid
+kids
+boy 
+boys
+girl
+girls
+student
+students
+worker
+workers
+employee
+employees
+human subject
+human subjects
