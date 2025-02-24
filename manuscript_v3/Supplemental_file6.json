@@ -1,0 +1,3155 @@
+{
+  "source": "Pubmed",
+  "date": "20200306",
+  "key": "",
+  "infons": {
+    "BQ_URL": "http://www.bioqrator.org",
+    "BQ_NAME": "Corona_gold"
+  },
+  "documents": [
+    {
+      "id": "31991541",
+      "infons": {
+        "BQ_FROM": "PubMed",
+        "BQ_PIESCORE": "-0.4251",
+        "BQ_DONE": "NO",
+        "BQ_CURATABLE": "YES"
+      },
+      "passages": [
+        {
+          "infons": {
+            "type": "title"
+          },
+          "offset": 0,
+          "text": "Return of the Coronavirus: 2019-nCoV. ",
+          "sentences": [],
+          "annotations": [
+            {
+              "id": "A01",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "2019-nCoV",
+              "locations": [
+                {
+                  "offset": 27,
+                  "length": 9
+                }
+              ]
+            },
+            {
+              "id": "A02",
+              "infons": {
+                "representative_name": "coronavirus",
+                "type": "Virus_family",
+                "NCBI:txid": "693995"
+              },
+              "text": "Coronavirus",
+              "locations": [
+                {
+                  "offset": 14,
+                  "length": 11
+                }
+              ]
+            }
+          ],
+          "relations": []
+        },
+        {
+          "infons": {
+            "type": "abstract"
+          },
+          "offset": 38,
+          "text": "The emergence of a novel coronavirus (2019-nCoV) has awakened the echoes of SARS-CoV from nearly two decades ago. Yet, with technological advances and important lessons gained from previous outbreaks, perhaps the world is better equipped to deal with the most recent emergent group 2B coronavirus. ",
+          "sentences": [],
+          "annotations": [
+            {
+              "id": "A03",
+              "infons": {
+                "type": "Virus_other",
+                "NCBI:txid": "694009 "
+              },
+              "text": "SARS-CoV",
+              "locations": [
+                {
+                  "offset": 114,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "A04",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "most recent emergent group 2B coronavirus",
+              "locations": [
+                {
+                  "offset": 293,
+                  "length": 41
+                }
+              ]
+            },
+            {
+              "id": "A05",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "novel coronavirus",
+              "locations": [
+                {
+                  "offset": 57,
+                  "length": 17
+                }
+              ]
+            },
+            {
+              "id": "A06",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "2019-nCoV",
+              "locations": [
+                {
+                  "offset": 76,
+                  "length": 9
+                }
+              ]
+            }
+          ],
+          "relations": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "32013309",
+      "infons": {
+        "BQ_FROM": "PubMed",
+        "BQ_PIESCORE": "-0.6238",
+        "BQ_DONE": "NO",
+        "BQ_CURATABLE": "YES"
+      },
+      "passages": [
+        {
+          "infons": {
+            "type": "title"
+          },
+          "offset": 0,
+          "text": "Mast cells contribute to coronavirus-induced inflammation: new anti-inflammatory strategy. ",
+          "sentences": [],
+          "annotations": [
+            {
+              "id": "A01",
+              "infons": {
+                "type": "Virus_family",
+                "NCBI:txid": "693995"
+              },
+              "text": "coronavirus",
+              "locations": [
+                {
+                  "offset": 25,
+                  "length": 11
+                }
+              ]
+            },
+            {
+              "id": "A02",
+              "infons": {
+                "type": "Symptom"
+              },
+              "text": "inflammation",
+              "locations": [
+                {
+                  "offset": 45,
+                  "length": 12
+                }
+              ]
+            },
+            {
+              "id": "A03",
+              "infons": {
+                "representative_name": "mast cells",
+                "type": "Cell"
+              },
+              "text": "Mast cells",
+              "locations": [
+                {
+                  "offset": 0,
+                  "length": 10
+                }
+              ]
+            }
+          ],
+          "relations": []
+        },
+        {
+          "infons": {
+            "type": "abstract"
+          },
+          "offset": 91,
+          "text": "Coronavirus, which can cause respiratory syndrome, to date has affected over seventeen thousand individuals, especially in China. Coronavirus is interspecies and can also be transmitted from man to man, with an incubation ranging from 1 to 14 days. Human coronavirus infections can induce not only mild to severe respiratory diseases, but also inflammation, high fever, cough, acute respiratory tract infection and dysfunction of internal organs that may lead to death. Coronavirus infection (regardless of the various types of corona virus) is primarily attacked by immune cells including mast cells (MCs), which are located in the submucosa of the respiratory tract and in the nasal cavity and represent a barrier of protection against microorganisms. Virus activate MCs which release early inflammatory chemical compounds including histamine and protease; while late activation provokes the generation of pro-inflammatory IL-1 family members including IL-1 and IL-33. Here, we propose for the first time that inflammation by coronavirus may be inhibited by anti-inflammatory cytokines belonging to the IL-1 family members. ",
+          "sentences": [],
+          "annotations": [
+            {
+              "id": "A04",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "Coronavirus",
+              "locations": [
+                {
+                  "offset": 91,
+                  "length": 11
+                }
+              ]
+            },
+            {
+              "id": "A05",
+              "infons": {
+                "representative_name": "respiratory disease",
+                "type": "Disease_other"
+              },
+              "text": "respiratory syndrome",
+              "locations": [
+                {
+                  "offset": 120,
+                  "length": 20
+                }
+              ]
+            },
+            {
+              "id": "A06",
+              "infons": {
+                "representative_name": "coronavirus",
+                "type": "Virus_family",
+                "NCBI:txid": "693995"
+              },
+              "text": "Coronavirus",
+              "locations": [
+                {
+                  "offset": 221,
+                  "length": 11
+                }
+              ]
+            },
+            {
+              "id": "A07",
+              "infons": {
+                "representative_name": "coronavirus infection",
+                "type": "Disease_other"
+              },
+              "text": "Human coronavirus infections",
+              "locations": [
+                {
+                  "offset": 340,
+                  "length": 28
+                }
+              ]
+            },
+            {
+              "id": "A08",
+              "infons": {
+                "representative_name": "respiratory disease",
+                "type": "Disease_other"
+              },
+              "text": "respiratory diseases",
+              "locations": [
+                {
+                  "offset": 404,
+                  "length": 20
+                }
+              ]
+            },
+            {
+              "id": "A09",
+              "infons": {
+                "type": "Symptom"
+              },
+              "text": "inflammation",
+              "locations": [
+                {
+                  "offset": 435,
+                  "length": 12
+                }
+              ]
+            },
+            {
+              "id": "A10",
+              "infons": {
+                "type": "Symptom"
+              },
+              "text": "fever",
+              "locations": [
+                {
+                  "offset": 454,
+                  "length": 5
+                }
+              ]
+            },
+            {
+              "id": "A11",
+              "infons": {
+                "type": "Symptom"
+              },
+              "text": "cough",
+              "locations": [
+                {
+                  "offset": 461,
+                  "length": 5
+                }
+              ]
+            },
+            {
+              "id": "A12",
+              "infons": {
+                "representative_name": "respiratory disease",
+                "type": "Disease_other"
+              },
+              "text": "respiratory tract infection",
+              "locations": [
+                {
+                  "offset": 474,
+                  "length": 27
+                }
+              ]
+            },
+            {
+              "id": "A13",
+              "infons": {
+                "representative_name": "organ dysfunction",
+                "type": "Symptom"
+              },
+              "text": "dysfunction of internal organs",
+              "locations": [
+                {
+                  "offset": 506,
+                  "length": 30
+                }
+              ]
+            },
+            {
+              "id": "A14",
+              "infons": {
+                "type": "Symptom"
+              },
+              "text": "death",
+              "locations": [
+                {
+                  "offset": 554,
+                  "length": 5
+                }
+              ]
+            },
+            {
+              "id": "A15",
+              "infons": {
+                "representative_name": "coronavirus infection",
+                "type": "Disease_other"
+              },
+              "text": "Coronavirus infection",
+              "locations": [
+                {
+                  "offset": 561,
+                  "length": 21
+                }
+              ]
+            },
+            {
+              "id": "A16",
+              "infons": {
+                "representative_name": "coronavirus",
+                "type": "Virus_family",
+                "NCBI:txid": "693995"
+              },
+              "text": "corona virus",
+              "locations": [
+                {
+                  "offset": 619,
+                  "length": 12
+                }
+              ]
+            },
+            {
+              "id": "A17",
+              "infons": {
+                "representative_name": "virus",
+                "type": "Virus_family"
+              },
+              "text": "Virus",
+              "locations": [
+                {
+                  "offset": 845,
+                  "length": 5
+                }
+              ]
+            },
+            {
+              "id": "A18",
+              "infons": {
+                "type": "Symptom"
+              },
+              "text": "inflammation",
+              "locations": [
+                {
+                  "offset": 1103,
+                  "length": 12
+                }
+              ]
+            },
+            {
+              "id": "A19",
+              "infons": {
+                "representative_name": "IL1A or IL1B",
+                "type": "Protein",
+                "Uniprot": "P01583 or P01584"
+              },
+              "text": "IL-1",
+              "locations": [
+                {
+                  "offset": 1046,
+                  "length": 4
+                }
+              ]
+            },
+            {
+              "id": "A20",
+              "infons": {
+                "representative_name": "IL33",
+                "type": "Protein",
+                "Uniprot": "O95760"
+              },
+              "text": "IL-33",
+              "locations": [
+                {
+                  "offset": 1055,
+                  "length": 5
+                }
+              ]
+            },
+            {
+              "id": "A21",
+              "infons": {
+                "type": "Virus_family"
+              },
+              "text": "coronavirus",
+              "locations": [
+                {
+                  "offset": 1119,
+                  "length": 11
+                }
+              ]
+            },
+            {
+              "id": "A22",
+              "infons": {
+                "representative_name": "immune cells",
+                "type": "Cell"
+              },
+              "text": "immune cells",
+              "locations": [
+                {
+                  "offset": 658,
+                  "length": 12
+                }
+              ]
+            },
+            {
+              "id": "A23",
+              "infons": {
+                "representative_name": "mast cells",
+                "type": "Cell"
+              },
+              "text": "mast cells",
+              "locations": [
+                {
+                  "offset": 681,
+                  "length": 10
+                }
+              ]
+            },
+            {
+              "id": "A24",
+              "infons": {
+                "representative_name": "mast cells",
+                "type": "Cell"
+              },
+              "text": "MCs",
+              "locations": [
+                {
+                  "offset": 693,
+                  "length": 3
+                }
+              ]
+            },
+            {
+              "id": "A25",
+              "infons": {
+                "representative_name": "mast cells",
+                "type": "Cell"
+              },
+              "text": "MCs",
+              "locations": [
+                {
+                  "offset": 860,
+                  "length": 3
+                }
+              ]
+            },
+            {
+              "id": "A26",
+              "infons": {
+                "type": "Chemical"
+              },
+              "text": "histamine",
+              "locations": [
+                {
+                  "offset": 926,
+                  "length": 9
+                }
+              ]
+            },
+            {
+              "id": "A27",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "man",
+              "locations": [
+                {
+                  "offset": 282,
+                  "length": 3
+                }
+              ]
+            },
+            {
+              "id": "A28",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "man",
+              "locations": [
+                {
+                  "offset": 289,
+                  "length": 3
+                }
+              ]
+            }
+          ],
+          "relations": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "32007643",
+      "infons": {
+        "BQ_FROM": "PubMed",
+        "BQ_PIESCORE": "-0.7921",
+        "BQ_DONE": "NO",
+        "BQ_CURATABLE": "YES"
+      },
+      "passages": [
+        {
+          "infons": {
+            "type": "title"
+          },
+          "offset": 0,
+          "text": "Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. ",
+          "sentences": [],
+          "annotations": [
+            {
+              "id": "A01",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "novel coronavirus",
+              "locations": [
+                {
+                  "offset": 59,
+                  "length": 17
+                }
+              ]
+            },
+            {
+              "id": "A02",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "2019-nCoV",
+              "locations": [
+                {
+                  "offset": 78,
+                  "length": 9
+                }
+              ]
+            }
+          ],
+          "relations": []
+        },
+        {
+          "infons": {
+            "type": "abstract"
+          },
+          "offset": 177,
+          "text": "BACKGROUNDS: An ongoing outbreak of a novel coronavirus (2019-nCoV) pneumonia hit a major city in China, Wuhan, December 2019 and subsequently reached other provinces/regions of China and other countries. We present estimates of the basic reproduction number, R0, of 2019-nCoV in the early phase of the outbreak. METHODS: Accounting for the impact of the variations in disease reporting rate, we modelled the epidemic curve of 2019-nCoV cases time series, in mainland China from January 10 to January 24, 2020, through the exponential growth. With the estimated intrinsic growth rate (\u00ce\u00b3), we estimated R0 by using the serial intervals (SI) of two other well-known coronavirus diseases, MERS and SARS, as approximations for the true unknown SI. FINDINGS: The early outbreak data largely follows the exponential growth. We estimated that the mean R0 ranges from 2.24 (95%CI: 1.96-2.55) to 3.58 (95%CI: 2.89-4.39) associated with 8-fold to 2-fold increase in the reporting rate. We demonstrated that changes in reporting rate substantially affect estimates of R0. CONCLUSION: The mean estimate of R0 for the 2019-nCoV ranges from 2.24 to 3.58, and is significantly larger than 1. Our findings indicate the potential of 2019-nCoV to cause outbreaks. ",
+          "sentences": [],
+          "annotations": [
+            {
+              "id": "A03",
+              "infons": {
+                "representative_name": "COVID-19",
+                "type": "Disease_COVID-19"
+              },
+              "text": "novel coronavirus (2019-nCoV) pneumonia",
+              "locations": [
+                {
+                  "offset": 215,
+                  "length": 39
+                }
+              ]
+            },
+            {
+              "id": "A04",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "2019-nCoV",
+              "locations": [
+                {
+                  "offset": 444,
+                  "length": 9
+                }
+              ]
+            },
+            {
+              "id": "A05",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "2019-nCoV",
+              "locations": [
+                {
+                  "offset": 604,
+                  "length": 9
+                }
+              ]
+            },
+            {
+              "id": "A06",
+              "infons": {
+                "representative_name": "coronavirus infection",
+                "type": "Disease_other"
+              },
+              "text": "coronavirus diseases",
+              "locations": [
+                {
+                  "offset": 841,
+                  "length": 20
+                }
+              ]
+            },
+            {
+              "id": "A07",
+              "infons": {
+                "type": "Disease_other"
+              },
+              "text": "MERS",
+              "locations": [
+                {
+                  "offset": 863,
+                  "length": 4
+                }
+              ]
+            },
+            {
+              "id": "A08",
+              "infons": {
+                "type": "Disease_other"
+              },
+              "text": "SARS",
+              "locations": [
+                {
+                  "offset": 872,
+                  "length": 4
+                }
+              ]
+            },
+            {
+              "id": "A09",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "2019-nCoV",
+              "locations": [
+                {
+                  "offset": 1282,
+                  "length": 9
+                }
+              ]
+            },
+            {
+              "id": "A10",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "2019-nCoV",
+              "locations": [
+                {
+                  "offset": 1393,
+                  "length": 9
+                }
+              ]
+            }
+          ],
+          "relations": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "32036774",
+      "infons": {
+        "BQ_FROM": "PubMed",
+        "BQ_PIESCORE": "-0.7925",
+        "BQ_DONE": "NO",
+        "BQ_CURATABLE": "YES"
+      },
+      "passages": [
+        {
+          "infons": {
+            "type": "title"
+          },
+          "offset": 0,
+          "text": "Emerging novel coronavirus (2019-nCoV)-current scenario, evolutionary perspective based on genome analysis and recent developments. ",
+          "sentences": [],
+          "annotations": [
+            {
+              "id": "A01",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "Emerging novel coronavirus",
+              "locations": [
+                {
+                  "offset": 0,
+                  "length": 26
+                }
+              ]
+            },
+            {
+              "id": "A02",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "2019-nCoV",
+              "locations": [
+                {
+                  "offset": 28,
+                  "length": 9
+                }
+              ]
+            }
+          ],
+          "relations": []
+        },
+        {
+          "infons": {
+            "type": "abstract"
+          },
+          "offset": 132,
+          "text": "Coronaviruses are the well-known cause of severe respiratory, enteric and systemic infections in a wide range of hosts including man, mammals, fish, and avian. The scientific interest on coronaviruses increased after the emergence of Severe Acute Respiratory Syndrome coronavirus (SARS-CoV) outbreaks in 2002-2003 followed by Middle East Respiratory Syndrome CoV (MERS-CoV). This decade's first CoV, named 2019-nCoV, emerged from Wuhan, China, and declared as 'Public Health Emergency of International Concern' on January 30th, 2020 by the World Health Organization (WHO). As on February 4, 2020, 425 deaths reported in China only and one death outside China (Philippines). In a short span of time, the virus spread has been noted in 24 countries. The zoonotic transmission (animal-to-human) is suspected as the route of disease origin. The genetic analyses predict bats as the most probable source of 2019-nCoV though further investigations needed to confirm the origin of the novel virus. The ongoing nCoV outbreak highlights the hidden wild animal reservoir of the deadly viruses and possible threat of spillover zoonoses as well. The successful virus isolation attempts have made doors open for developing better diagnostics and effective vaccines helping in combating the spread of the virus to newer areas. ",
+          "sentences": [],
+          "annotations": [
+            {
+              "id": "A03",
+              "infons": {
+                "representative_name": "coronavirus",
+                "type": "Virus_family",
+                "NCBI:txid": "693995"
+              },
+              "text": "Coronaviruses",
+              "locations": [
+                {
+                  "offset": 132,
+                  "length": 13
+                }
+              ]
+            },
+            {
+              "id": "A04",
+              "infons": {
+                "representative_name": "respiratory infection",
+                "type": "Disease_other"
+              },
+              "text": "respiratory",
+              "locations": [
+                {
+                  "offset": 181,
+                  "length": 11
+                }
+              ]
+            },
+            {
+              "id": "A05",
+              "infons": {
+                "representative_name": "enteric infection",
+                "type": "Disease_other"
+              },
+              "text": "enteric",
+              "locations": [
+                {
+                  "offset": 194,
+                  "length": 7
+                }
+              ]
+            },
+            {
+              "id": "A06",
+              "infons": {
+                "representative_name": "systemic infection",
+                "type": "Disease_other"
+              },
+              "text": "systemic infections",
+              "locations": [
+                {
+                  "offset": 206,
+                  "length": 19
+                }
+              ]
+            },
+            {
+              "id": "A07",
+              "infons": {
+                "representative_name": "coronavirus",
+                "type": "Virus_family",
+                "NCBI:txid": "693995"
+              },
+              "text": "coronaviruses",
+              "locations": [
+                {
+                  "offset": 319,
+                  "length": 13
+                }
+              ]
+            },
+            {
+              "id": "A08",
+              "infons": {
+                "representative_name": "SARS-CoV",
+                "type": "Virus_other"
+              },
+              "text": "Severe Acute Respiratory Syndrome coronavirus",
+              "locations": [
+                {
+                  "offset": 366,
+                  "length": 45
+                }
+              ]
+            },
+            {
+              "id": "A09",
+              "infons": {
+                "type": "Virus_other"
+              },
+              "text": "SARS-CoV",
+              "locations": [
+                {
+                  "offset": 413,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "A10",
+              "infons": {
+                "representative_name": "MERS-CoV",
+                "type": "Virus_other"
+              },
+              "text": "Middle East Respiratory Syndrome CoV",
+              "locations": [
+                {
+                  "offset": 458,
+                  "length": 36
+                }
+              ]
+            },
+            {
+              "id": "A11",
+              "infons": {
+                "type": "Virus_other",
+                "NCBI:txid": "1335626"
+              },
+              "text": "MERS-CoV",
+              "locations": [
+                {
+                  "offset": 496,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "A12",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "This decade's first CoV",
+              "locations": [
+                {
+                  "offset": 507,
+                  "length": 23
+                }
+              ]
+            },
+            {
+              "id": "A13",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "2019-nCoV",
+              "locations": [
+                {
+                  "offset": 538,
+                  "length": 9
+                }
+              ]
+            },
+            {
+              "id": "A14",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "2019-nCoV",
+              "locations": [
+                {
+                  "offset": 1034,
+                  "length": 9
+                }
+              ]
+            },
+            {
+              "id": "A15",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "nCoV",
+              "locations": [
+                {
+                  "offset": 1135,
+                  "length": 4
+                }
+              ]
+            },
+            {
+              "id": "A16",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "novel virus",
+              "locations": [
+                {
+                  "offset": 1110,
+                  "length": 11
+                }
+              ]
+            },
+            {
+              "id": "A17",
+              "infons": {
+                "representative_name": "virus",
+                "type": "Virus_family"
+              },
+              "text": "viruses",
+              "locations": [
+                {
+                  "offset": 1207,
+                  "length": 7
+                }
+              ]
+            },
+            {
+              "id": "A18",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "virus",
+              "locations": [
+                {
+                  "offset": 1281,
+                  "length": 5
+                }
+              ]
+            },
+            {
+              "id": "A19",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "virus",
+              "locations": [
+                {
+                  "offset": 1423,
+                  "length": 5
+                }
+              ]
+            },
+            {
+              "id": "A20",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "virus",
+              "locations": [
+                {
+                  "offset": 835,
+                  "length": 5
+                }
+              ]
+            },
+            {
+              "id": "A21",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "man",
+              "locations": [
+                {
+                  "offset": 261,
+                  "length": 3
+                }
+              ]
+            },
+            {
+              "id": "A22",
+              "infons": {
+                "type": "Species_other"
+              },
+              "text": "mammals",
+              "locations": [
+                {
+                  "offset": 266,
+                  "length": 7
+                }
+              ]
+            },
+            {
+              "id": "A23",
+              "infons": {
+                "type": "Species_other"
+              },
+              "text": "fish",
+              "locations": [
+                {
+                  "offset": 275,
+                  "length": 4
+                }
+              ]
+            },
+            {
+              "id": "A24",
+              "infons": {
+                "representative_name": "birds",
+                "type": "Species_other"
+              },
+              "text": "avian",
+              "locations": [
+                {
+                  "offset": 285,
+                  "length": 5
+                }
+              ]
+            },
+            {
+              "id": "A25",
+              "infons": {
+                "type": "Species_other"
+              },
+              "text": "bats",
+              "locations": [
+                {
+                  "offset": 998,
+                  "length": 4
+                }
+              ]
+            }
+          ],
+          "relations": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "31992388",
+      "infons": {
+        "BQ_FROM": "PubMed",
+        "BQ_PIESCORE": "-0.8058",
+        "BQ_DONE": "NO",
+        "BQ_CURATABLE": "YES"
+      },
+      "passages": [
+        {
+          "infons": {
+            "type": "title"
+          },
+          "offset": 0,
+          "text": "Real-time tentative assessment of the epidemiological characteristics of novel coronavirus infections in Wuhan, China, as at 22 January 2020. ",
+          "sentences": [],
+          "annotations": [
+            {
+              "id": "A01",
+              "infons": {
+                "representative_name": "COVID-19",
+                "type": "Disease_COVID-19"
+              },
+              "text": "novel coronavirus infections",
+              "locations": [
+                {
+                  "offset": 73,
+                  "length": 28
+                }
+              ]
+            }
+          ],
+          "relations": []
+        },
+        {
+          "infons": {
+            "type": "abstract"
+          },
+          "offset": 142,
+          "text": "A novel coronavirus (2019-nCoV) causing severe acute respiratory disease emerged recently in Wuhan, China. Information on reported cases strongly indicates human-to-human spread, and the most recent information is increasingly indicative of sustained human-to-human transmission. While the overall severity profile among cases may change as more mild cases are identified, we estimate a risk of fatality among hospitalised cases at 14% (95% confidence interval: 3.9-32%). ",
+          "sentences": [],
+          "annotations": [
+            {
+              "id": "A02",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "novel coronavirus",
+              "locations": [
+                {
+                  "offset": 144,
+                  "length": 17
+                }
+              ]
+            },
+            {
+              "id": "A03",
+              "infons": {
+                "representative_name": "COVID-19",
+                "type": "Disease_COVID-19"
+              },
+              "text": "severe acute respiratory disease",
+              "locations": [
+                {
+                  "offset": 182,
+                  "length": 32
+                }
+              ]
+            },
+            {
+              "id": "A04",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "2019-nCoV",
+              "locations": [
+                {
+                  "offset": 163,
+                  "length": 9
+                }
+              ]
+            }
+          ],
+          "relations": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "32020836",
+      "infons": {
+        "BQ_FROM": "PubMed",
+        "BQ_PIESCORE": "-0.8286",
+        "BQ_DONE": "NO",
+        "BQ_CURATABLE": "YES"
+      },
+      "passages": [
+        {
+          "infons": {
+            "type": "title"
+          },
+          "offset": 0,
+          "text": "RNA based mNGS approach identifies a novel human coronavirus from two individual pneumonia cases in 2019 Wuhan outbreak. ",
+          "sentences": [],
+          "annotations": [
+            {
+              "id": "A01",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "novel human coronavirus",
+              "locations": [
+                {
+                  "offset": 37,
+                  "length": 23
+                }
+              ]
+            },
+            {
+              "id": "A02",
+              "infons": {
+                "type": "Disease_other"
+              },
+              "text": "pneumonia",
+              "locations": [
+                {
+                  "offset": 81,
+                  "length": 9
+                }
+              ]
+            }
+          ],
+          "relations": []
+        },
+        {
+          "infons": {
+            "type": "abstract"
+          },
+          "offset": 121,
+          "text": "From December 2019, an outbreak of unusual pneumonia was reported in Wuhan with many cases linked to Huanan Seafood Market that sells seafood as well as live exotic animals. We investigated two patients who developed acute respiratory syndromes after independent contact history with this market. The two patients shared common clinical features including fever, cough, and multiple ground-glass opacities in the bilateral lung field with patchy infiltration. Here, we highlight the use of a low-input metagenomic next-generation sequencing (mNGS) approach on RNA extracted from bronchoalveolar lavage fluid (BALF). It rapidly identified a novel coronavirus (named 2019-nCoV according to World Health Organization announcement) which was the sole pathogens in the sample with very high abundance level (1.5% and 0.62% of total RNA sequenced). The entire viral genome is 29,881\u00e2\u20ac\u2026nt in length (GenBank MN988668 and MN988669, Sequence Read Archive database Bioproject accession PRJNA601736) and is classified into \u00ce\u00b2-coronavirus genus. Phylogenetic analysis indicates that 2019-nCoV is close to coronaviruses (CoVs) circulating in Rhinolophus (Horseshoe bats), such as 98.7% nucleotide identity to partial RdRp gene of bat coronavirus strain BtCoV/4991 (GenBank KP876546, 370\u00e2\u20ac\u2026nt sequence of RdRp and lack of other genome sequence) and 87.9% nucleotide identity to bat coronavirus strain bat-SL-CoVZC45 and bat-SL-CoVZXC21. Evolutionary analysis based on ORF1a/1b, S, and N genes also suggests 2019-nCoV is more likely a novel CoV independently introduced from animals to humans. ",
+          "sentences": [],
+          "annotations": [
+            {
+              "id": "A03",
+              "infons": {
+                "type": "Disease_other"
+              },
+              "text": "pneumonia",
+              "locations": [
+                {
+                  "offset": 164,
+                  "length": 9
+                }
+              ]
+            },
+            {
+              "id": "A04",
+              "infons": {
+                "representative_name": "respiratory disease",
+                "type": "Disease_other"
+              },
+              "text": "respiratory syndromes",
+              "locations": [
+                {
+                  "offset": 344,
+                  "length": 21
+                }
+              ]
+            },
+            {
+              "id": "A05",
+              "infons": {
+                "type": "Symptom"
+              },
+              "text": "fever",
+              "locations": [
+                {
+                  "offset": 477,
+                  "length": 5
+                }
+              ]
+            },
+            {
+              "id": "A06",
+              "infons": {
+                "type": "Symptom"
+              },
+              "text": "cough",
+              "locations": [
+                {
+                  "offset": 484,
+                  "length": 5
+                }
+              ]
+            },
+            {
+              "id": "A07",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "novel coronavirus",
+              "locations": [
+                {
+                  "offset": 761,
+                  "length": 17
+                }
+              ]
+            },
+            {
+              "id": "A08",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "2019-nCoV",
+              "locations": [
+                {
+                  "offset": 786,
+                  "length": 9
+                }
+              ]
+            },
+            {
+              "id": "A09",
+              "infons": {
+                "representative_name": "coronavirus",
+                "type": "Virus_family"
+              },
+              "text": "\u00ce\u00b2-coronavirus",
+              "locations": [
+                {
+                  "offset": 1131,
+                  "length": 13
+                }
+              ]
+            },
+            {
+              "id": "A10",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "2019-nCoV",
+              "locations": [
+                {
+                  "offset": 1189,
+                  "length": 9
+                }
+              ]
+            },
+            {
+              "id": "A11",
+              "infons": {
+                "representative_name": "bat coronavirus",
+                "type": "Virus_family"
+              },
+              "text": "coronaviruses",
+              "locations": [
+                {
+                  "offset": 1211,
+                  "length": 13
+                }
+              ]
+            },
+            {
+              "id": "A12",
+              "infons": {
+                "representative_name": "coronavirus",
+                "type": "Virus_family"
+              },
+              "text": "CoVs",
+              "locations": [
+                {
+                  "offset": 1226,
+                  "length": 4
+                }
+              ]
+            },
+            {
+              "id": "A13",
+              "infons": {
+                "representative_name": "Rhinolophus bat coronavirus BtCoV/4991",
+                "type": "Virus_other",
+                "NCBI:txid": "1788497"
+              },
+              "text": "bat coronavirus strain BtCoV/4991",
+              "locations": [
+                {
+                  "offset": 1335,
+                  "length": 33
+                }
+              ]
+            },
+            {
+              "id": "A14",
+              "infons": {
+                "representative_name": "bat coronavirus",
+                "type": "Virus_other"
+              },
+              "text": "bat coronavirus strain bat-SL-CoVZC45",
+              "locations": [
+                {
+                  "offset": 1480,
+                  "length": 37
+                }
+              ]
+            },
+            {
+              "id": "A15",
+              "infons": {
+                "representative_name": "bat coronavirus",
+                "type": "Virus_other"
+              },
+              "text": "bat-SL-CoVZXC21",
+              "locations": [
+                {
+                  "offset": 1522,
+                  "length": 15
+                }
+              ]
+            },
+            {
+              "id": "A16",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "2019-nCoV",
+              "locations": [
+                {
+                  "offset": 1609,
+                  "length": 9
+                }
+              ]
+            },
+            {
+              "id": "A17",
+              "infons": {
+                "representative_name": "coronavirus",
+                "type": "Virus_family"
+              },
+              "text": "CoV",
+              "locations": [
+                {
+                  "offset": 1642,
+                  "length": 3
+                }
+              ]
+            },
+            {
+              "id": "A18",
+              "infons": {
+                "type": "Protein",
+                "Uniprot": "A0A126KB67"
+              },
+              "text": "RdRp",
+              "locations": [
+                {
+                  "offset": 1407,
+                  "length": 4
+                }
+              ]
+            },
+            {
+              "id": "A19",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "patients",
+              "locations": [
+                {
+                  "offset": 315,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "A20",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "patients",
+              "locations": [
+                {
+                  "offset": 426,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "A21",
+              "infons": {
+                "representative_name": "horseshoe bats",
+                "type": "Species_other"
+              },
+              "text": "Rhinolophus",
+              "locations": [
+                {
+                  "offset": 1247,
+                  "length": 11
+                }
+              ]
+            },
+            {
+              "id": "A22",
+              "infons": {
+                "representative_name": "horseshoe bats",
+                "type": "Species_other"
+              },
+              "text": "Horseshoe bats",
+              "locations": [
+                {
+                  "offset": 1260,
+                  "length": 14
+                }
+              ]
+            },
+            {
+              "id": "A23",
+              "infons": {
+                "type": "Protein"
+              },
+              "text": "ORF1a/1b",
+              "locations": [
+                {
+                  "offset": 1570,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "A24",
+              "infons": {
+                "type": "Protein"
+              },
+              "text": "S",
+              "locations": [
+                {
+                  "offset": 1580,
+                  "length": 1
+                }
+              ]
+            },
+            {
+              "id": "A25",
+              "infons": {
+                "type": "Protein"
+              },
+              "text": "N",
+              "locations": [
+                {
+                  "offset": 1587,
+                  "length": 1
+                }
+              ]
+            },
+            {
+              "id": "A26",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "humans",
+              "locations": [
+                {
+                  "offset": 1687,
+                  "length": 6
+                }
+              ]
+            }
+          ],
+          "relations": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "32015508",
+      "infons": {
+        "BQ_FROM": "PubMed",
+        "BQ_PIESCORE": "-0.8307",
+        "BQ_DONE": "NO",
+        "BQ_CURATABLE": "YES"
+      },
+      "passages": [
+        {
+          "infons": {
+            "type": "title"
+          },
+          "offset": 0,
+          "text": "A new coronavirus associated with human respiratory disease in China. ",
+          "sentences": [],
+          "annotations": [
+            {
+              "id": "A01",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "new coronavirus",
+              "locations": [
+                {
+                  "offset": 2,
+                  "length": 15
+                }
+              ]
+            },
+            {
+              "id": "A02",
+              "infons": {
+                "type": "Disease_other"
+              },
+              "text": "respiratory disease",
+              "locations": [
+                {
+                  "offset": 40,
+                  "length": 19
+                }
+              ]
+            }
+          ],
+          "relations": []
+        },
+        {
+          "infons": {
+            "type": "abstract"
+          },
+          "offset": 70,
+          "text": "Emerging infectious diseases, such as severe acute respiratory syndrome (SARS) and Zika virus disease, present a major threat to public health1-3. Despite intense research efforts, how, when and where new diseases appear are still a source of considerable uncertainty. A severe respiratory disease was recently reported in Wuhan, Hubei province, China. As of 25 January 2020, at least 1,975 cases had been reported since the first patient was hospitalized on 12 December 2019. Epidemiological investigations have suggested that the outbreak was associated with a seafood market in Wuhan. Here we study a single patient who was a worker at the market and who was admitted to the Central Hospital of Wuhan on 26 December 2019 while experiencing a severe respiratory syndrome that included fever, dizziness and a cough. Metagenomic RNA sequencing4 of a sample of bronchoalveolar lavage fluid from the patient identified a new RNA virus strain from the family Coronaviridae, which is designated here 'WH-Human 1' coronavirus (and has also been referred to as '2019-nCoV'). Phylogenetic analysis of the complete viral genome (29,903 nucleotides) revealed that the virus was most closely related (89.1% nucleotide similarity) to a group of SARS-like coronaviruses (genus Betacoronavirus, subgenus Sarbecovirus) that had previously been found in bats in China5. This outbreak highlights the ongoing ability of viral spill-over from animals to cause severe disease in humans. ",
+          "sentences": [],
+          "annotations": [
+            {
+              "id": "A03",
+              "infons": {
+                "representative_name": "infection",
+                "type": "Disease_other"
+              },
+              "text": "infectious diseases",
+              "locations": [
+                {
+                  "offset": 79,
+                  "length": 19
+                }
+              ]
+            },
+            {
+              "id": "A04",
+              "infons": {
+                "representative_name": "SARS",
+                "type": "Disease_other"
+              },
+              "text": "severe acute respiratory syndrome",
+              "locations": [
+                {
+                  "offset": 108,
+                  "length": 33
+                }
+              ]
+            },
+            {
+              "id": "A05",
+              "infons": {
+                "type": "Disease_other"
+              },
+              "text": "SARS",
+              "locations": [
+                {
+                  "offset": 143,
+                  "length": 4
+                }
+              ]
+            },
+            {
+              "id": "A06",
+              "infons": {
+                "representative_name": "Zika virus infection",
+                "type": "Disease_other"
+              },
+              "text": "Zika virus disease",
+              "locations": [
+                {
+                  "offset": 153,
+                  "length": 18
+                }
+              ]
+            },
+            {
+              "id": "A07",
+              "infons": {
+                "representative_name": "COVID-19",
+                "type": "Disease_COVID-19"
+              },
+              "text": "severe respiratory disease",
+              "locations": [
+                {
+                  "offset": 341,
+                  "length": 26
+                }
+              ]
+            },
+            {
+              "id": "A08",
+              "infons": {
+                "representative_name": "respiratory disease",
+                "type": "Disease_COVID-19"
+              },
+              "text": "respiratory syndrome",
+              "locations": [
+                {
+                  "offset": 822,
+                  "length": 20
+                }
+              ]
+            },
+            {
+              "id": "A09",
+              "infons": {
+                "type": "Symptom"
+              },
+              "text": "fever",
+              "locations": [
+                {
+                  "offset": 857,
+                  "length": 5
+                }
+              ]
+            },
+            {
+              "id": "A10",
+              "infons": {
+                "type": "Symptom"
+              },
+              "text": "dizziness",
+              "locations": [
+                {
+                  "offset": 864,
+                  "length": 9
+                }
+              ]
+            },
+            {
+              "id": "A11",
+              "infons": {
+                "type": "Symptom"
+              },
+              "text": "cough",
+              "locations": [
+                {
+                  "offset": 880,
+                  "length": 5
+                }
+              ]
+            },
+            {
+              "id": "A12",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "new RNA virus strain from the family Coronaviridae",
+              "locations": [
+                {
+                  "offset": 989,
+                  "length": 50
+                }
+              ]
+            },
+            {
+              "id": "A13",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "'WH-Human 1' coronavirus",
+              "locations": [
+                {
+                  "offset": 1066,
+                  "length": 24
+                }
+              ]
+            },
+            {
+              "id": "A14",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "2019-nCoV",
+              "locations": [
+                {
+                  "offset": 1126,
+                  "length": 9
+                }
+              ]
+            },
+            {
+              "id": "A15",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "virus",
+              "locations": [
+                {
+                  "offset": 1229,
+                  "length": 5
+                }
+              ]
+            },
+            {
+              "id": "A16",
+              "infons": {
+                "representative_name": "SARS-related coronavirus",
+                "type": "Virus_family",
+                "ncbitax:": "694009"
+              },
+              "text": "SARS-like coronaviruses",
+              "locations": [
+                {
+                  "offset": 1304,
+                  "length": 23
+                }
+              ]
+            },
+            {
+              "id": "A17",
+              "infons": {
+                "representative_name": "betacoronavirus",
+                "type": "Virus_family",
+                "ncbitax:": "694002"
+              },
+              "text": "Betacoronavirus",
+              "locations": [
+                {
+                  "offset": 1335,
+                  "length": 15
+                }
+              ]
+            },
+            {
+              "id": "A18",
+              "infons": {
+                "representative_name": "sarbecovirus",
+                "type": "Virus_family",
+                "ncbitax:": "2509511"
+              },
+              "text": "Sarbecovirus",
+              "locations": [
+                {
+                  "offset": 1361,
+                  "length": 12
+                }
+              ]
+            },
+            {
+              "id": "A19",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "patient",
+              "locations": [
+                {
+                  "offset": 501,
+                  "length": 7
+                }
+              ]
+            },
+            {
+              "id": "A20",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "patient",
+              "locations": [
+                {
+                  "offset": 681,
+                  "length": 7
+                }
+              ]
+            },
+            {
+              "id": "A21",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "worker",
+              "locations": [
+                {
+                  "offset": 699,
+                  "length": 6
+                }
+              ]
+            },
+            {
+              "id": "A22",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "patient",
+              "locations": [
+                {
+                  "offset": 968,
+                  "length": 7
+                }
+              ]
+            },
+            {
+              "id": "A23",
+              "infons": {
+                "type": "Species_other"
+              },
+              "text": "bats",
+              "locations": [
+                {
+                  "offset": 1409,
+                  "length": 4
+                }
+              ]
+            },
+            {
+              "id": "A24",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "humans",
+              "locations": [
+                {
+                  "offset": 1530,
+                  "length": 6
+                }
+              ]
+            }
+          ],
+          "relations": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "31986264",
+      "infons": {
+        "BQ_FROM": "PubMed",
+        "BQ_PIESCORE": "-0.8457",
+        "BQ_DONE": "NO",
+        "BQ_CURATABLE": "YES"
+      },
+      "passages": [
+        {
+          "infons": {
+            "type": "title"
+          },
+          "offset": 0,
+          "text": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. ",
+          "sentences": [],
+          "annotations": [
+            {
+              "id": "A01",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2"
+              },
+              "text": "2019 novel coronavirus",
+              "locations": [
+                {
+                  "offset": 44,
+                  "length": 22
+                }
+              ]
+            },
+            {
+              "id": "A02",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "patients",
+              "locations": [
+                {
+                  "offset": 21,
+                  "length": 8
+                }
+              ]
+            }
+          ],
+          "relations": []
+        },
+        {
+          "infons": {
+            "type": "abstract"
+          },
+          "offset": 84,
+          "text": "BACKGROUND: A recent cluster of pneumonia cases in Wuhan, China, was caused by a novel betacoronavirus, the 2019 novel coronavirus (2019-nCoV). We report the epidemiological, clinical, laboratory, and radiological characteristics and treatment and clinical outcomes of these patients. METHODS: All patients with suspected 2019-nCoV were admitted to a designated hospital in Wuhan. We prospectively collected and analysed data on patients with laboratory-confirmed 2019-nCoV infection by real-time RT-PCR and next-generation sequencing. Data were obtained with standardised data collection forms shared by WHO and the International Severe Acute Respiratory and Emerging Infection Consortium from electronic medical records. Researchers also directly communicated with patients or their families to ascertain epidemiological and symptom data. Outcomes were also compared between patients who had been admitted to the intensive care unit (ICU) and those who had not. FINDINGS: By Jan 2, 2020, 41 admitted hospital patients had been identified as having laboratory-confirmed 2019-nCoV infection. Most of the infected patients were men (30 [73%] of 41); less than half had underlying diseases (13 [32%]), including diabetes (eight [20%]), hypertension (six [15%]), and cardiovascular disease (six [15%]). Median age was 49\u00c2\u00b70 years (IQR 41\u00c2\u00b70-58\u00c2\u00b70). 27 (66%) of 41 patients had been exposed to Huanan seafood market. One family cluster was found. Common symptoms at onset of illness were fever (40 [98%] of 41 patients), cough (31 [76%]), and myalgia or fatigue (18 [44%]); less common symptoms were sputum production (11 [28%] of 39), headache (three [8%] of 38), haemoptysis (two [5%] of 39), and diarrhoea (one [3%] of 38). Dyspnoea developed in 22 (55%) of 40 patients (median time from illness onset to dyspnoea 8\u00c2\u00b70 days [IQR 5\u00c2\u00b70-13\u00c2\u00b70]). 26 (63%) of 41 patients had lymphopenia. All 41 patients had pneumonia with abnormal findings on chest CT. Complications included acute respiratory distress syndrome (12 [29%]), RNAaemia (six [15%]), acute cardiac injury (five [12%]) and secondary infection (four [10%]). 13 (32%) patients were admitted to an ICU and six (15%) died. Compared with non-ICU patients, ICU patients had higher plasma levels of IL2, IL7, IL10, GSCF, IP10, MCP1, MIP1A, and TNF\u00ce\u00b1. INTERPRETATION: The 2019-nCoV infection caused clusters of severe respiratory illness similar to severe acute respiratory syndrome coronavirus and was associated with ICU admission and high mortality. Major gaps in our knowledge of the origin, epidemiology, duration of human transmission, and clinical spectrum of disease need fulfilment by future studies. FUNDING: Ministry of Science and Technology, Chinese Academy of Medical Sciences, National Natural Science Foundation of China, and Beijing Municipal Science and Technology Commission. ",
+          "sentences": [],
+          "annotations": [
+            {
+              "id": "A7",
+              "infons": {
+                "type": "Symptom"
+              },
+              "text": "pneumonia",
+              "locations": [
+                {
+                  "offset": 116,
+                  "length": 9
+                }
+              ]
+            },
+            {
+              "id": "A03",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2"
+              },
+              "text": "novel betacoronavirus",
+              "locations": [
+                {
+                  "offset": 165,
+                  "length": 21
+                }
+              ]
+            },
+            {
+              "id": "A04",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2"
+              },
+              "text": "2019 novel coronavirus",
+              "locations": [
+                {
+                  "offset": 192,
+                  "length": 22
+                }
+              ]
+            },
+            {
+              "id": "A05",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2"
+              },
+              "text": "2019-nCoV",
+              "locations": [
+                {
+                  "offset": 216,
+                  "length": 9
+                }
+              ]
+            },
+            {
+              "id": "A06",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2"
+              },
+              "text": "2019-nCoV",
+              "locations": [
+                {
+                  "offset": 406,
+                  "length": 9
+                }
+              ]
+            },
+            {
+              "id": "A07",
+              "infons": {
+                "representative_name": "COVID-19",
+                "type": "Disease_COVID-19"
+              },
+              "text": "2019-nCoV infection",
+              "locations": [
+                {
+                  "offset": 548,
+                  "length": 19
+                }
+              ]
+            },
+            {
+              "id": "A08",
+              "infons": {
+                "representative_name": "COVID-19",
+                "type": "Disease_COVID-19"
+              },
+              "text": "2019-nCoV infection",
+              "locations": [
+                {
+                  "offset": 1155,
+                  "length": 19
+                }
+              ]
+            },
+            {
+              "id": "A09",
+              "infons": {
+                "representative_name": "diabetes mellitus",
+                "type": "Disease_other"
+              },
+              "text": "diabetes",
+              "locations": [
+                {
+                  "offset": 1294,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "A10",
+              "infons": {
+                "type": "Disease_other"
+              },
+              "text": "hypertension",
+              "locations": [
+                {
+                  "offset": 1318,
+                  "length": 12
+                }
+              ]
+            },
+            {
+              "id": "A11",
+              "infons": {
+                "representative_name": "cardiovascular disease",
+                "type": "Disease_other"
+              },
+              "text": "cardiovascular disease",
+              "locations": [
+                {
+                  "offset": 1348,
+                  "length": 22
+                }
+              ]
+            },
+            {
+              "id": "A12",
+              "infons": {
+                "type": "Symptom"
+              },
+              "text": "fever",
+              "locations": [
+                {
+                  "offset": 1565,
+                  "length": 5
+                }
+              ]
+            },
+            {
+              "id": "A13",
+              "infons": {
+                "type": "Symptom"
+              },
+              "text": "cough",
+              "locations": [
+                {
+                  "offset": 1598,
+                  "length": 5
+                }
+              ]
+            },
+            {
+              "id": "A14",
+              "infons": {
+                "type": "Symptom"
+              },
+              "text": "myalgia",
+              "locations": [
+                {
+                  "offset": 1620,
+                  "length": 7
+                }
+              ]
+            },
+            {
+              "id": "A15",
+              "infons": {
+                "type": "Symptom"
+              },
+              "text": "fatigue",
+              "locations": [
+                {
+                  "offset": 1631,
+                  "length": 7
+                }
+              ]
+            },
+            {
+              "id": "A16",
+              "infons": {
+                "representative_name": "sputum production",
+                "type": "Symptom"
+              },
+              "text": "sputum production",
+              "locations": [
+                {
+                  "offset": 1677,
+                  "length": 17
+                }
+              ]
+            },
+            {
+              "id": "A17",
+              "infons": {
+                "type": "Symptom"
+              },
+              "text": "headache",
+              "locations": [
+                {
+                  "offset": 1713,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "A18",
+              "infons": {
+                "type": "Symptom"
+              },
+              "text": "haemoptysis",
+              "locations": [
+                {
+                  "offset": 1742,
+                  "length": 11
+                }
+              ]
+            },
+            {
+              "id": "A19",
+              "infons": {
+                "representative_name": "dairrhoea",
+                "type": "Symptom"
+              },
+              "text": "diarrhoea",
+              "locations": [
+                {
+                  "offset": 1776,
+                  "length": 9
+                }
+              ]
+            },
+            {
+              "id": "A20",
+              "infons": {
+                "representative_name": "dyspnoea",
+                "type": "Symptom"
+              },
+              "text": "Dyspnoea",
+              "locations": [
+                {
+                  "offset": 1804,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "A21",
+              "infons": {
+                "type": "Symptom"
+              },
+              "text": "dyspnoea",
+              "locations": [
+                {
+                  "offset": 1885,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "A22",
+              "infons": {
+                "type": "Symptom"
+              },
+              "text": "lymphopenia",
+              "locations": [
+                {
+                  "offset": 1948,
+                  "length": 11
+                }
+              ]
+            },
+            {
+              "id": "A23",
+              "infons": {
+                "type": "Symptom"
+              },
+              "text": "pneumonia",
+              "locations": [
+                {
+                  "offset": 1981,
+                  "length": 9
+                }
+              ]
+            },
+            {
+              "id": "A24",
+              "infons": {
+                "representative_name": "acute respiratory distress syndrome",
+                "type": "Symptom"
+              },
+              "text": "acute respiratory distress syndrome",
+              "locations": [
+                {
+                  "offset": 2050,
+                  "length": 35
+                }
+              ]
+            },
+            {
+              "id": "A25",
+              "infons": {
+                "type": "Symptom"
+              },
+              "text": "RNAaemia",
+              "locations": [
+                {
+                  "offset": 2098,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "A26",
+              "infons": {
+                "representative_name": "acute cardiac injury",
+                "type": "Symptom"
+              },
+              "text": "acute cardiac injury",
+              "locations": [
+                {
+                  "offset": 2120,
+                  "length": 20
+                }
+              ]
+            },
+            {
+              "id": "A27",
+              "infons": {
+                "representative_name": "secondary infection",
+                "type": "Disease_other"
+              },
+              "text": "secondary infection",
+              "locations": [
+                {
+                  "offset": 2158,
+                  "length": 19
+                }
+              ]
+            },
+            {
+              "id": "A28",
+              "infons": {
+                "type": "Protein",
+                "Uniprot": "P60568"
+              },
+              "text": "IL2",
+              "locations": [
+                {
+                  "offset": 2327,
+                  "length": 3
+                }
+              ]
+            },
+            {
+              "id": "A29",
+              "infons": {
+                "type": "Protein",
+                "Uniprot": "P13232"
+              },
+              "text": "IL7",
+              "locations": [
+                {
+                  "offset": 2332,
+                  "length": 3
+                }
+              ]
+            },
+            {
+              "id": "A30",
+              "infons": {
+                "type": "Protein",
+                "Uniprot": "P22301"
+              },
+              "text": "IL10",
+              "locations": [
+                {
+                  "offset": 2337,
+                  "length": 4
+                }
+              ]
+            },
+            {
+              "id": "A31",
+              "infons": {
+                "representative_name": "CSF3",
+                "type": "Protein",
+                "Uniprot": "P09919"
+              },
+              "text": "GSCF",
+              "locations": [
+                {
+                  "offset": 2343,
+                  "length": 4
+                }
+              ]
+            },
+            {
+              "id": "A32",
+              "infons": {
+                "representative_name": "CXCL10",
+                "type": "Protein",
+                "Uniprot": "P02778"
+              },
+              "text": "IP10",
+              "locations": [
+                {
+                  "offset": 2349,
+                  "length": 4
+                }
+              ]
+            },
+            {
+              "id": "A33",
+              "infons": {
+                "representative_name": "CCL2",
+                "type": "Protein",
+                "Uniprot": "P13500"
+              },
+              "text": "MCP1",
+              "locations": [
+                {
+                  "offset": 2355,
+                  "length": 4
+                }
+              ]
+            },
+            {
+              "id": "A34",
+              "infons": {
+                "representative_name": "CCL3",
+                "type": "Protein",
+                "Uniprot": "P10147"
+              },
+              "text": "MIP1A",
+              "locations": [
+                {
+                  "offset": 2361,
+                  "length": 5
+                }
+              ]
+            },
+            {
+              "id": "A35",
+              "infons": {
+                "representative_name": "TNF",
+                "type": "Protein",
+                "Uniprot": "P01375"
+              },
+              "text": "TNF\u00ce\u00b1",
+              "locations": [
+                {
+                  "offset": 2372,
+                  "length": 4
+                }
+              ]
+            },
+            {
+              "id": "A36",
+              "infons": {
+                "representative_name": "COVID-19",
+                "type": "Disease_COVID-19"
+              },
+              "text": "2019-nCoV infection",
+              "locations": [
+                {
+                  "offset": 2398,
+                  "length": 19
+                }
+              ]
+            },
+            {
+              "id": "A37",
+              "infons": {
+                "representative_name": "severe respiratory disease",
+                "type": "Disease_other"
+              },
+              "text": "severe respiratory illness",
+              "locations": [
+                {
+                  "offset": 2437,
+                  "length": 26
+                }
+              ]
+            },
+            {
+              "id": "A38",
+              "infons": {
+                "representative_name": "SARS-CoV",
+                "type": "Virus_other"
+              },
+              "text": "severe acute respiratory syndrome coronavirus",
+              "locations": [
+                {
+                  "offset": 2475,
+                  "length": 45
+                }
+              ]
+            },
+            {
+              "id": "A39",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "patients",
+              "locations": [
+                {
+                  "offset": 359,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "A40",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "patients",
+              "locations": [
+                {
+                  "offset": 382,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "A41",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "patients",
+              "locations": [
+                {
+                  "offset": 513,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "A42",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "patients",
+              "locations": [
+                {
+                  "offset": 851,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "A43",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "Researchers",
+              "locations": [
+                {
+                  "offset": 807,
+                  "length": 11
+                }
+              ]
+            },
+            {
+              "id": "A44",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "families",
+              "locations": [
+                {
+                  "offset": 869,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "A45",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "patients",
+              "locations": [
+                {
+                  "offset": 961,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "A46",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "patients",
+              "locations": [
+                {
+                  "offset": 1095,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "A47",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "patients",
+              "locations": [
+                {
+                  "offset": 1197,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "A48",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "men",
+              "locations": [
+                {
+                  "offset": 1211,
+                  "length": 3
+                }
+              ]
+            },
+            {
+              "id": "A49",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "patients",
+              "locations": [
+                {
+                  "offset": 1442,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "A50",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "patients",
+              "locations": [
+                {
+                  "offset": 1587,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "A51",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "patients",
+              "locations": [
+                {
+                  "offset": 1841,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "A52",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "patients",
+              "locations": [
+                {
+                  "offset": 1935,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "A53",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "patients",
+              "locations": [
+                {
+                  "offset": 1968,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "A54",
+              "infons": {
+                "representative_name": "human",
+                "type": "Species_human"
+              },
+              "text": "patients",
+              "locations": [
+                {
+                  "offset": 2201,
+                  "length": 8
+                }
+              ]
+            }
+          ],
+          "relations": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "32029004",
+      "infons": {
+        "BQ_FROM": "PubMed",
+        "BQ_PIESCORE": "-0.8626",
+        "BQ_DONE": "NO",
+        "BQ_CURATABLE": "YES"
+      },
+      "passages": [
+        {
+          "infons": {
+            "type": "title"
+          },
+          "offset": 0,
+          "text": "A rapid advice guideline for the diagnosis and treatment of 2019 novel coronavirus (2019-nCoV) infected pneumonia (standard version). ",
+          "sentences": [],
+          "annotations": [
+            {
+              "id": "A01",
+              "infons": {
+                "representative_name": "COVID-19",
+                "type": "Disease_COVID-19"
+              },
+              "text": "2019 novel coronavirus (2019-nCoV) infected pneumonia",
+              "locations": [
+                {
+                  "offset": 60,
+                  "length": 53
+                }
+              ]
+            }
+          ],
+          "relations": []
+        },
+        {
+          "infons": {
+            "type": "abstract"
+          },
+          "offset": 134,
+          "text": "In December 2019, a new type viral pneumonia cases occurred in Wuhan, Hubei Province; and then named \"2019 novel coronavirus (2019-nCoV)\" by the World Health Organization (WHO) on 12 January 2020. For it is a never been experienced respiratory disease before and with infection ability widely and quickly, it attracted the world's attention but without treatment and control manual. For the request from frontline clinicians and public health professionals of 2019-nCoV infected pneumonia management, an evidence-based guideline urgently needs to be developed. Therefore, we drafted this guideline according to the rapid advice guidelines methodology and general rules of WHO guideline development; we also added the first-hand management data of Zhongnan Hospital of Wuhan University. This guideline includes the guideline methodology, epidemiological characteristics, disease screening and population prevention, diagnosis, treatment and control (including traditional Chinese Medicine), nosocomial infection prevention and control, and disease nursing of the 2019-nCoV. Moreover, we also provide a whole process of a successful treatment case of the severe 2019-nCoV infected pneumonia and experience and lessons of hospital rescue for 2019-nCoV infections. This rapid advice guideline is suitable for the first frontline doctors and nurses, managers of hospitals and healthcare sections, community residents, public health persons, relevant researchers, and all person who are interested in the 2019-nCoV. ",
+          "sentences": [],
+          "annotations": [
+            {
+              "id": "A02",
+              "infons": {
+                "representative_name": "COVID-19",
+                "type": "Disease_COVID-19"
+              },
+              "text": "new type viral pneumonia",
+              "locations": [
+                {
+                  "offset": 154,
+                  "length": 24
+                }
+              ]
+            },
+            {
+              "id": "A03",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2"
+              },
+              "text": "2019 novel coronavirus",
+              "locations": [
+                {
+                  "offset": 236,
+                  "length": 22
+                }
+              ]
+            },
+            {
+              "id": "A04",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2"
+              },
+              "text": "2019-nCoV",
+              "locations": [
+                {
+                  "offset": 260,
+                  "length": 9
+                }
+              ]
+            },
+            {
+              "id": "A05",
+              "infons": {
+                "representative_name": "respiratory disease",
+                "type": "Disease_other"
+              },
+              "text": "respiratory disease",
+              "locations": [
+                {
+                  "offset": 366,
+                  "length": 19
+                }
+              ]
+            },
+            {
+              "id": "A06",
+              "infons": {
+                "representative_name": "COVID-19",
+                "type": "Disease_COVID-19"
+              },
+              "text": "2019-nCoV infected pneumonia",
+              "locations": [
+                {
+                  "offset": 594,
+                  "length": 28
+                }
+              ]
+            },
+            {
+              "id": "A07",
+              "infons": {
+                "representative_name": "nosocomial infection",
+                "type": "Disease_other"
+              },
+              "text": "nosocomial infection",
+              "locations": [
+                {
+                  "offset": 1124,
+                  "length": 20
+                }
+              ]
+            },
+            {
+              "id": "A08",
+              "infons": {
+                "representative_name": "COVID-19",
+                "type": "Disease_COVID-19"
+              },
+              "text": "2019-nCoV",
+              "locations": [
+                {
+                  "offset": 1196,
+                  "length": 9
+                }
+              ]
+            },
+            {
+              "id": "A09",
+              "infons": {
+                "representative_name": "COVID-19",
+                "type": "Disease_COVID-19"
+              },
+              "text": "2019-nCoV infected pneumonia",
+              "locations": [
+                {
+                  "offset": 1294,
+                  "length": 28
+                }
+              ]
+            },
+            {
+              "id": "A10",
+              "infons": {
+                "representative_name": "COVID-19",
+                "type": "Disease_COVID-19"
+              },
+              "text": "2019-nCoV infections",
+              "locations": [
+                {
+                  "offset": 1373,
+                  "length": 20
+                }
+              ]
+            },
+            {
+              "id": "A11",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2"
+              },
+              "text": "2019-nCoV",
+              "locations": [
+                {
+                  "offset": 1633,
+                  "length": 9
+                }
+              ]
+            }
+          ],
+          "relations": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "31996494",
+      "infons": {
+        "BQ_FROM": "PubMed",
+        "BQ_PIESCORE": "-0.8683",
+        "BQ_DONE": "NO",
+        "BQ_CURATABLE": "YES"
+      },
+      "passages": [
+        {
+          "infons": {
+            "type": "title"
+          },
+          "offset": 0,
+          "text": "Drug treatment options for the 2019-new coronavirus (2019-nCoV). ",
+          "sentences": [],
+          "annotations": [
+            {
+              "id": "A01",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "2019-new coronavirus",
+              "locations": [
+                {
+                  "offset": 31,
+                  "length": 20
+                }
+              ]
+            },
+            {
+              "id": "A02",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "2019-nCoV",
+              "locations": [
+                {
+                  "offset": 53,
+                  "length": 9
+                }
+              ]
+            }
+          ],
+          "relations": []
+        },
+        {
+          "infons": {
+            "type": "abstract"
+          },
+          "offset": 65,
+          "text": "As of January 22, 2020, a total of 571 cases of the 2019-new coronavirus (2019-nCoV) have been reported in 25 provinces (districts and cities) in China. At present, there is no vaccine or antiviral treatment for human and animal coronavirus, so that identifying the drug treatment options as soon as possible is critical for the response to the 2019-nCoV outbreak. Three general methods, which include existing broad-spectrum antiviral drugs using standard assays, screening of a chemical library containing many existing compounds or databases, and the redevelopment of new specific drugs based on the genome and biophysical understanding of individual coronaviruses, are used to discover the potential antiviral treatment of human pathogen coronavirus. Lopinavir /Ritonavir, Nucleoside analogues, Neuraminidase inhibitors, Remdesivir, peptide (EK1), arbidol, RNA synthesis inhibitors (such as TDF, 3TC), anti-inflammatory drugs (such as hormones and other molecules), Chinese traditional medicine, such ShuFengJieDu Capsules and Lianhuaqingwen Capsule, could be the drug treatment options for 2019-nCoV. However, the efficacy and safety of these drugs for 2019- nCoV still need to be further confirmed by clinical experiments. ",
+          "sentences": [],
+          "annotations": [
+            {
+              "id": "A03",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "2019-new coronavirus",
+              "locations": [
+                {
+                  "offset": 117,
+                  "length": 20
+                }
+              ]
+            },
+            {
+              "id": "A04",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "2019-nCoV",
+              "locations": [
+                {
+                  "offset": 139,
+                  "length": 9
+                }
+              ]
+            },
+            {
+              "id": "A05",
+              "infons": {
+                "type": "Virus_family",
+                "NCBI:txid": "693995"
+              },
+              "text": "coronavirus",
+              "locations": [
+                {
+                  "offset": 294,
+                  "length": 11
+                }
+              ]
+            },
+            {
+              "id": "A06",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "2019-nCoV",
+              "locations": [
+                {
+                  "offset": 410,
+                  "length": 9
+                }
+              ]
+            },
+            {
+              "id": "A07",
+              "infons": {
+                "representative_name": "coronavirus",
+                "type": "Virus_family",
+                "NCBI:txid": "693995"
+              },
+              "text": "coronaviruses",
+              "locations": [
+                {
+                  "offset": 719,
+                  "length": 13
+                }
+              ]
+            },
+            {
+              "id": "A08",
+              "infons": {
+                "representative_name": "coronavirus",
+                "type": "Virus_family"
+              },
+              "text": "human pathogen coronavirus",
+              "locations": [
+                {
+                  "offset": 792,
+                  "length": 26
+                }
+              ]
+            },
+            {
+              "id": "A09",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "2019-nCoV",
+              "locations": [
+                {
+                  "offset": 1160,
+                  "length": 9
+                }
+              ]
+            },
+            {
+              "id": "A10",
+              "infons": {
+                "representative_name": "SARS-CoV-2",
+                "type": "Virus_SARS-CoV-2",
+                "NCBI:txid": "2697049"
+              },
+              "text": "2019- nCoV",
+              "locations": [
+                {
+                  "offset": 1223,
+                  "length": 10
+                }
+              ]
+            }
+          ],
+          "relations": []
+        }
+      ],
+      "relations": []
+    }
+  ]
+}
